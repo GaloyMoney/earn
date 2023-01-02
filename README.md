@@ -17,7 +17,7 @@ In addition to basic send, receive and store functionality, the Bitcoin Beach Wa
 
 The best way to learn about bitcoin is to start using it. The Bitcoin Beach Wallet aims to make it extremely easy for beginners to start using bitcoin. But when the user has made their first successful transaction, it's time to dig a little deeper into what bitcoin is and how money works. The Earn section is the best place to do this.&#x20;
 
-![](.gitbook/assets/g1018.png)![](<.gitbook/assets/image (20).png>)
+![](.gitbook/assets/g1018.png)![](<.gitbook/assets/image (16).png>)
 
 It is located on the bottom right of the app so it can be accessed easily at any time. Here, users can learn important concepts in short lessons and validate understanding of the concepts by answering quizzes.&#x20;
 
