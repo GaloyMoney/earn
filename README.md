@@ -2,7 +2,7 @@
 description: >-
   The Bitcoin Beach Wallet is a custodial Lightning app for anyone with a mobile
   smartphone and the easiest way to start holding, sending and receiving bitcoin
-  over the Lightning Network. To view on Git
+  over the Lightning Network. To view on Gitbook: https://dev.galoy.io/galoy-earn/
 ---
 
 # Bitcoin Beach Wallet
