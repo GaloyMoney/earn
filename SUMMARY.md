@@ -189,7 +189,7 @@
   * [401.08 Quiz - routing](chapter-401-lightning-network/401.08-quiz-routing.md)
 * [Chapter 501 - Bitcoin Criticisms & Fallacies I](chapter-501-bitcoin-criticisms-fallacies-i/README.md)
   * [501.01 Lesson - itsaBubble](chapter-501-bitcoin-criticisms-fallacies-i/501.01-lesson-itsabubble.md)
-  * [501.01 Quiz - itsaBubble](chapter-501-bitcoin-criticisms-fallacies-i/501.01-quiz-itsabubble.md.md)
+  * [501.01 Quiz - itsaBubble](chapter-501-bitcoin-criticisms-fallacies-i/501.01-quiz-itsabubble.md)
   * [501.02 Lesson - itstooVolatile](chapter-501-bitcoin-criticisms-fallacies-i/501.02-lesson-itstooVolatile.md)
   * [501.02 Quiz - itstooVolatile](chapter-501-bitcoin-criticisms-fallacies-i/501.02-quiz-itstooVolatile.md)
   * [501.03 Lesson - itsnotBacked](chapter-501-bitcoin-criticisms-fallacies-i/501.03-lesson-itsnotbacked.md)
