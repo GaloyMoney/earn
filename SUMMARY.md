@@ -191,7 +191,7 @@
   * [501.01 Lesson - itsaBubble](chapter-501-bitcoin-criticisms-fallacies-i/501.01-lesson-itsabubble.md)
   * [501.01 Quiz - itsaBubble](chapter-501-bitcoin-criticisms-fallacies-i/501.01-quiz-itsabubble.md.md)
   * [501.02 Lesson - itstooVolatile](chapter-501-bitcoin-criticisms-fallacies-i/501.02-lesson-itstooVolatile.md)
-  * [501.02 Quiz - itstooVolatile](chapter-501-bitcoin-criticisms-fallacies-i/501.02-quiz-itstooVolatile.md
+  * [501.02 Quiz - itstooVolatile](chapter-501-bitcoin-criticisms-fallacies-i/501.02-quiz-itstooVolatile.md)
   * [501.03 Lesson - itsnotBacked](chapter-501-bitcoin-criticisms-fallacies-i/501.03-lesson-itsnotbacked.md)
   * [501.03 Quiz - itsnotBacked](chapter-501-bitcoin-criticisms-fallacies-i/501.03-quiz-itsnotbacked.md)
   * [501.04 Lesson - willbecomeObsolete](chapter-501-bitcoin-criticisms-fallacies-i/501.04-lesson-willbecomeobsolete.md)
