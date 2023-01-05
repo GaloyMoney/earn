@@ -187,7 +187,6 @@
   * [401.07 Quiz - paymentChannels](chapter-401-lightning-network/401.07-quiz-paymentchannels.md)
   * [401.08 Lesson - routing](chapter-401-lightning-network/401.08-lesson-routing.md)
   * [401.08 Quiz - routing](chapter-401-lightning-network/401.08-quiz-routing.md)
-* [Chapter 402 -](chapter-402.md)
 * [Chapter 501 - Bitcoin Criticisms & Fallacies I](wip-chapter-502/README.md)
   * [501.01 Lesson - itsaBubble](wip-chapter-502/502.01-lesson.md)
   * [501.01 Quiz - itsaBubble](wip-chapter-502/502.01-quiz.md)
