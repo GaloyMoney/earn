@@ -205,7 +205,7 @@
   * [502.01 Quiz - internetDependent](chapter-502-bitcoin-criticisms-fallacies-ii/502.01-quiz-internetdependent.md)
   * [502.02 Lesson - forcrimeOnly](chapter-502-bitcoin-criticisms-fallacies-ii/502.02-lesson-forcrimeonly.md)
   * [502.02 Quiz - forcrimeOnly](chapter-502-bitcoin-criticisms-fallacies-ii/502.02-quiz-forcrimeonly.md)
-  * [502.03 Lesson - ponziScheme](chapter-501-bitcoin-criticisms-fallacies-ii/502.03-lesson-ponzischeme.md)
+  * [502.03 Lesson - ponziScheme](chapter-502-bitcoin-criticisms-fallacies-ii/502.03-lesson-ponzischeme.md)
   * [502.03 Quiz - ponziScheme](chapter-502-bitcoin-criticisms-fallacies-ii/502.03-quiz-ponzischeme.md)
   * [502.04 Lesson - bitcoinisTooSlow](chapter-502-bitcoin-criticisms-fallacies-ii/502.04-lesson-bitcoinistooslow.md)
   * [502.04 Quiz - bitcoinisTooSlow](chapter-502-bitcoin-criticisms-fallacies-ii/502.04-quiz-bitcoinistooslow.md)
