@@ -1,0 +1,29 @@
+name: "Update earn mobile json file"
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  parse-json:
+    name: Parse to Json
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: yarn install
+
+      - name: Run markdown-json
+        run: yarn run markdown-json
+
+      - name: Run parse
+        run: |
+          node parse > earn-mobile.json
+          git config --global user.email "bot@galoy.io"
+          git config --global user.name "CI Bot"
+          git add earn-mobile.json
+          git commit -m "chore: update earn-mobile.json"
+          git push

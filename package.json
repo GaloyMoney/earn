@@ -1,0 +1,11 @@
+{
+  "name": "galoy-earn",
+  "version": "0.1.0",
+  "description": "galoy earn parser",
+  "main": "parse.js",
+  "repository": "git@github.com:GaloyMoney/earn.git",
+  "private": false,
+  "dependencies": {
+    "markdown-json": "^1.6.1"
+  }
+}
