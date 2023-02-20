@@ -1,7 +1,7 @@
 const {data} =require('./dist/output.json')
 
 const result = data.reduce((acc, obj) => {
-  const { contents, excerpt, id, ...rest } = obj;
+  const { contents, excerpt, id, answers: answersArr, ...rest } = obj;
 
   const chapter = id.match(/chapter-(.+)__.+/)[1];
   if (!acc[chapter]) {
@@ -16,7 +16,12 @@ const result = data.reduce((acc, obj) => {
   const text = excerpt.replace(/<[^>]+>/g, '\n').replace(/\n+/g, '\n').trim();
 
   const questionId = id.match(/.+-lesson-(.+)/)[1];
-  acc[chapter].questions[questionId] = { ...rest, text, type: 'Text' };
+  const answers = {};
+
+  for (let i = 0; i < answersArr.length; i++) {
+    answers[i] = answersArr[i];
+  }
+  acc[chapter].questions[questionId] = { ...rest, answers, text, type: 'Text' };
 
   return acc;
 }, {});
