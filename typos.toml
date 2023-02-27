@@ -1,2 +1,2 @@
-[files]
-extend-exclude = ["CHANGELOG.md"]
+[default.extend-words]
+Thier = "Thier"
