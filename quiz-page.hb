@@ -1,7 +1,9 @@
 # {{section}}.{{lesson}} Lesson - {{screen}}
 
 **Screen:** {{screen}}
+
 **Headline:** {{title}}
+
 **Reward:** {{reward}}
 
 **Text:** {{text}}
@@ -11,9 +13,12 @@
 ## QUIZ
 
 **Question:** {{question}}
+
 {{#each answers}}
 **Answer:** {{answer}}
+
 **Feedback:** {{feedback}}
+
 **Correct:** {{correct}}
 {{/each}}
 
