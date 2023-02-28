@@ -1,0 +1,26 @@
+section: 602
+lesson: 06
+screen: winnerTakeAll
+title: Winner-Take-All Effects
+reward: 20
+illustration: 
+text: |
+  The concept of winner-take-all effects is when only one product or service is the best and everyone wants to use it. This can happen in markets where a small advantage can lead to getting all of the business.&#x20;
+  
+  Money is a network like this, where only one type of money is used in a certain area because it is the most useful and has the most options for trading with other people. This happens because people want to use the money that will give them the most options and be the most useful in a lot of different situations.&#x20;
+  
+  Money is also a good way to store value over a long time. When it comes to monetary systems, people usually agree on using one type of money because it is the most liquid, or easiest to use, and it is the best way to store value.
+  
+image: ../.gitbook/assets/602-06.png
+
+question: What is the main reason that people usually agree on using one type of money in a certain area
+answers:
+- answer: Because it is the most liquid and the best way to store value
+  correct: true
+  feedback: You got it right. The main reason that people usually agree on using one type of money in a certain area is because it is the most liquid and the best way to store value
+- answer: Because it tastes the best
+  correct: false
+  feedback: I'm afraid you might be confusing money with your favorite flavor of ice cream. Try again
+- answer: Because it has the prettiest color
+  correct: false
+  feedback: Sorry, but the color of money is not the most important factor in determining which type to use. Better luck next time!
