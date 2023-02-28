@@ -3,7 +3,7 @@ lesson: 03
 screen: anticipatingDemand
 title: Anticipating Demand
 reward: 7
-illustration: 
+illustration: null
 text: |
   The choice of which items to collect or create posed a significant problem for early humans, as they had to anticipate which objects would be desired by others. The ability to correctly predict which items would be in demand for their collectible value gave a significant advantage to the owner in terms of their ability to trade and accumulate wealth.
   
@@ -17,7 +17,7 @@ question: What was the main advantage of being able to anticipate future demand 
 answers:
 - answer: The ability to buy collectibles at a lower price before they became widely sought after
   correct: true
-  feedback: Congratulations, you are correct! It seems that the concept of "buy low, sell high" is not a modern invention, as early humans also sought to acquire collectibles at a lower cost before their demand and trade value increased. Fun fact: this principle also applies to bitcoin, where early adopters were able to acquire bitcoins at a much lower price before their value skyrocketed
+  feedback: "Congratulations, you are correct! It seems that the concept of \"buy low, sell high\" is not a modern invention, as early humans also sought to acquire collectibles at a lower cost before their demand and trade value increased. Fun fact: this principle also applies to bitcoin, where early adopters were able to acquire bitcoins at a much lower price before their value skyrocketed"
 - answer: The ability to trade collectibles for other useful items
   correct: false
   feedback: Sorry, that is not the correct answer. While being able to trade collectibles for other useful items may have been a benefit of correctly anticipating demand, it was not the main advantage

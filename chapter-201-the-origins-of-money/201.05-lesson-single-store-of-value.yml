@@ -3,7 +3,7 @@ lesson: 05
 screen: singleStoreOfValue
 title: The Benefits of Converging on a Single Store of Value
 reward: 7
-illustration: 
+illustration: null
 text: |
   As human societies and trade routes developed over time, stores of value that emerged in different societies began to compete with each other. Merchants and traders had to decide whether to save their profits in the store of value of their own society or in the store of value of the society they were trading with, or a combination of both.
   
@@ -17,7 +17,7 @@ question: Why did merchants and traders in early human societies have an incenti
 answers:
 - answer: To increase the purchasing power of their savings
   correct: true
-  feedback: Correct! Merchants and traders had an incentive to promote the adoption of a foreign store of value in their own society because it increased the purchasing power of their savings. This not only benefited the merchants, but also the society as a whole, as the adoption of a single store of value reduced the cost of completing trade with other societies and increased trade-based wealth. Fun fact: Bitcoin is an example of a store of value that has been adopted by many societies, and its widespread adoption has increased its purchasing power and facilitated trade
+  feedback: "Correct! Merchants and traders had an incentive to promote the adoption of a foreign store of value in their own society because it increased the purchasing power of their savings. This not only benefited the merchants, but also the society as a whole, as the adoption of a single store of value reduced the cost of completing trade with other societies and increased trade-based wealth. Fun fact: Bitcoin is an example of a store of value that has been adopted by many societies, and its widespread adoption has increased its purchasing power and facilitated trade"
 - answer: To learn about other cultures and societies
   correct: false
   feedback: Sorry, that is not the correct answer. While learning about other cultures and societies may have been a side benefit of promoting the adoption of a foreign store of value, it was not the main reason

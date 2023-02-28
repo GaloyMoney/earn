@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 find . -type f -path '*chapter*' -name '*.yml' | while read path; do
 
   dir=$(dirname "$path")

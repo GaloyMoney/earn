@@ -21,7 +21,7 @@ question: What is Gresham's Law
 answers:
 - answer: A law that explains how people tend to use different types of currency in different ways when they are in circulation together
   correct: true
-  feedback: Good job, you understood Gresham's Law. This law explains how people tend to save the more valuable currency and spend the less valuable one when given the choice. Interesting fact: Gresham's Law can also apply to "fiat" currency, which is not backed by a physical commodity like gold or silver
+  feedback: "Good job, you understood Gresham's Law. This law explains how people tend to save the more valuable currency and spend the less valuable one when given the choice. Interesting fact: Gresham's Law can also apply to \"fiat\" currency, which is not backed by a physical commodity like gold or silver"
 - answer: A law that says people will always choose to spend the more valuable currency when given a choice
   correct: false
   feedback: Sorry, wrong answer! Gresham's Law actually explains the opposite behavior

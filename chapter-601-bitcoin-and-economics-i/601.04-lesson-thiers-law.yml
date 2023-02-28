@@ -19,7 +19,7 @@ question: What is Thier's Law
 answers:
 - answer: A law that discusses what might happen if people and businesses refuse to accept or use a lower quality form of currency
   correct: true
-  feedback: Correct! Good job, you understood Thier's Law. This law discusses what might happen if people and businesses refuse to accept a lower quality form of currency. Interesting fact: Thier's Law suggests that if a government tries to force people to use a lower quality currency by making it legal tender, it will be ignored
+  feedback: "Correct! Good job, you understood Thier's Law. This law discusses what might happen if people and businesses refuse to accept a lower quality form of currency. Interesting fact: Thier's Law suggests that if a government tries to force people to use a lower quality currency by making it legal tender, it will be ignored"
 - answer: A law that says people will always choose the more valuable currency when given a choice
   correct: false
   feedback: Wrong answer! Gresham's Law explains this behavior, not Thier's Law

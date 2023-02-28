@@ -3,7 +3,6 @@
 **Screen:** {{screen}}\
 **Headline:** {{title}}\
 **Reward:** {{reward}}\
-**Illustration:** {{illustration}}\
 
 **Text:** {{text}}\
 
