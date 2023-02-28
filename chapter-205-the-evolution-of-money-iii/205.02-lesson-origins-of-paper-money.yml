@@ -1,0 +1,26 @@
+section: 205
+lesson: 02
+screen: originsOfPaperMoney
+title: The Origins of Paper Money Backed by Gold
+reward: 11
+illustration: 
+text: |
+  Gold can be made into coins or bars of a specific weight and purity. When trade routes expanded, it became riskier to transport large amounts of gold.&#x20;
+  
+  As a solution, paper notes from trusted banks that could be exchanged for gold were used. In 900 CE, Chinese merchants initiated the use of paper currency to avoid having to carry thousands of coins over long distances. They started trading paper receipts from custodians where they had deposited money or goods.
+  
+  In the beginning these paper notes were personally registered, but they soon became a written order to pay the amount to whomever had it in their possession (bearer instrument). These notes can be seen as a predecessor to today's banknotes.
+  
+image: ../.gitbook/assets/205-02.png
+
+question: What were paper notes used for during the expansion of trade routes
+answers:
+- answer: To allow for the convenient exchange of gold in place of physically transporting it
+  correct: true
+  feedback: Congratulations! You're a gold exchange genius! Did you know that these paper notes were also known as "bearer instruments," which means that they could be traded and redeemed by anyone in possession of them
+- answer: To represent a promise to pay a debt
+  correct: false
+  feedback: Oh no, it looks like you've got a case of promissory confusion! Better luck next time
+- answer: To transport large amounts of gold
+  correct: false
+  feedback: Transporting gold in paper form? That's a bold move.
