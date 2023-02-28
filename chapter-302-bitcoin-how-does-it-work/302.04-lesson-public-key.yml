@@ -5,13 +5,13 @@ title: Bitcoin Addresses and the Master Public Key
 reward: 14
 illustration: 
 text: |
-  A master public key in Bitcoin is a key that is cryptographically derived from a Bitcoin private key and is used to generate Bitcoin addresses that payers can send Bitcoin to.&#x20;
+  A master public key in Bitcoin is a key that is cryptographically derived from a Bitcoin private key and is used to generate Bitcoin addresses that payers can send Bitcoin to.
   
   It can be used to generate an unlimited number of Bitcoin addresses from a single master public key.
   
   While the private key is used to authorize Bitcoin transactions and therefore needs to be kept private, the Bitcoin addresses derived from the public key can be shared with a payer to receive payments from them.
   
-  Master public keys consist of a long sequence of numbers and letters and begin with xpub, ypub or zpub.&#x20;
+  Master public keys consist of a long sequence of numbers and letters and begin with xpub, ypub or zpub.
   
   A Bitcoin address for receiving payments starts with either 1, 3 or bc1.
   

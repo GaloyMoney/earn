@@ -5,9 +5,9 @@ title: Power Laws
 reward: 20
 illustration: 
 text: |
-  Power laws are a way to understand how two things are related. When one thing changes, the other thing changes in a way that is related to the first change. Power laws can show up in different areas, like language, biology, and space. Small changes in one thing can often lead to bigger changes in the other thing.&#x20;
+  Power laws are a way to understand how two things are related. When one thing changes, the other thing changes in a way that is related to the first change. Power laws can show up in different areas, like language, biology, and space. Small changes in one thing can often lead to bigger changes in the other thing.
   
-  In economics, power laws are often shown in graphs. One example of a power law is the Pareto principle, which says that about 80% of the results come from 20% of the things that cause them. In a market, this might mean that 20% of the producers make up 80% of the market.&#x20;
+  In economics, power laws are often shown in graphs. One example of a power law is the Pareto principle, which says that about 80% of the results come from 20% of the things that cause them. In a market, this might mean that 20% of the producers make up 80% of the market.
   
   Power laws can also be seen in other parts of bitcoin, like how much power mining pools have or how many hardware wallets different companies sell. They can also be seen in how bitcoin is distributed among different addresses.
   
@@ -17,7 +17,7 @@ question: What is the Pareto principle, also known as the 80/20 rule, an example
 answers:
 - answer: A power law in economics
   correct: true
-  feedback: Good job! The Pareto principle, also known as the 80/20 rule, is a power law that explains how a small amount of something (like 20% of producers) can have a big impact (like 80% of the market share).&#x20
+  feedback: Good job! The Pareto principle, also known as the 80/20 rule, is a power law that explains how a small amount of something (like 20% of producers) can have a big impact (like 80% of the market share).
 - answer: A type of pasta dish
   correct: false
   feedback: Sorry, but it looks like you need to brush up on your economics and not your culinary skills. The Pareto principle is not a type of pasta, although it might be a tasty way to remember it

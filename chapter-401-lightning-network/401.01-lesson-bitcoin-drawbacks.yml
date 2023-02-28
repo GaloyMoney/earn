@@ -5,11 +5,11 @@ title: Drawbacks of Bitcoin
 reward: 15
 illustration: 
 text: |
-  Bitcoin, the world's most widely used and valuable digital currency, allows anyone to send value without a trusted intermediary.&#x20;
+  Bitcoin, the world's most widely used and valuable digital currency, allows anyone to send value without a trusted intermediary.
   
   There are, however, some drawbacks to bitcoin's design which prioritizes security and decentralization at the cost of scalability.
   
-  Transactions confirmed on the bitcoin blockchain take up to one hour before they are irreversible.&#x20;
+  Transactions confirmed on the bitcoin blockchain take up to one hour before they are irreversible.
   
   Micropayments, or payments less than a few cents, are inconsistently confirmed, and fees render such transactions unviable on the network today.
   

@@ -5,11 +5,11 @@ title: Peer-to-Peer Network
 reward: 14
 illustration: 
 text: |
-  To solve the earlier mentioned issues of centralization and possible double spends, Satoshi invented a solution based on a decentralized network of nodes.&#x20;
+  To solve the earlier mentioned issues of centralization and possible double spends, Satoshi invented a solution based on a decentralized network of nodes.
   
-  Nodes are computers that are in constant contact with each other. This by itself is nothing new. The internet itself has a similar infrastructure of interconnected nodes.&#x20;
+  Nodes are computers that are in constant contact with each other. This by itself is nothing new. The internet itself has a similar infrastructure of interconnected nodes.
   
-  All bitcoin nodes, however, store a copy of the ledger of all transactions in the history of the Bitcoin network.&#x20;
+  All bitcoin nodes, however, store a copy of the ledger of all transactions in the history of the Bitcoin network.
   
   This new, decentralized form of bookkeeping, called blockchain, was first successfully implemented in Bitcoin and is extremely resistant to tampering.
   
