@@ -11,14 +11,14 @@ text: |
   
 image: ../.gitbook/assets/501-01.png
 
-question: What is the primary factor influencing the volatility of bitcoin's exchange rate
+question: How has the exchange rate of bitcoin trended over time
 answers:
-- answer: missing
+- answer: It has consistently gone up
   correct: true
-  feedback: missing
-- answer: missing
+  feedback: Well done! You seem to have a good grasp on the overall trend of bitcoin's exchange rate. Despite some fluctuations, it has consistently been on the rise. Keep up the good work
+- answer: It has consistently gone down
   correct: false
-  feedback: missing
-- answer: missing
+  feedback: I'm sorry, that's not quite right. While the exchange rate of bitcoin has certainly had its ups and downs, the overall trend has not been consistently downward. Try again
+- answer: It has gone up and down randomly
   correct: false
-  feedback: missing
+  feedback: Sorry, that's incorrect. While the exchange rate of bitcoin has certainly had its ups and downs, the overall trend has not been completely random. Keep trying!
