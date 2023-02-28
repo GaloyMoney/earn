@@ -1,0 +1,26 @@
+section: 202
+lesson: 05
+screen: verifiability
+title: The good must be easy to quickly identify and verify as authentic
+reward: 8
+illustration: 
+text: |
+  It is important for a good store of value to be easily verifiable as authentic. This increases confidence in trade and the likelihood that a transaction will be completed.
+  
+  Both fiat currencies and gold are generally easy to verify, but they are not foolproof. Counterfeit bills and gold-plated tungsten have been used to deceive people in the past.
+  
+  On the other hand, the use of cryptography makes verification very easy for bitcoin and makes counterfeiting impossible.
+  
+image: ../.gitbook/assets/202-05.png
+
+question: How can bitcoin be verified
+answers:
+- answer: By using cryptographic signatures
+  correct: true
+  feedback: Congratulations! You are correct. Bitcoin can be verified with mathematical certainty using cryptographic signatures
+- answer: By checking for gold-plated tungsten
+  correct: false
+  feedback: Sorry, but that's not quite right. Better luck next time
+- answer: By checking for features on banknotes to prevent counterfeiting
+  correct: false
+  feedback: Wrong! Bitcoin is purely digital and doesn't utilize banknotes. Try again!

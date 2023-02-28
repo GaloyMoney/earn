@@ -1,0 +1,28 @@
+section: 202
+lesson: 08
+screen: establishedHistory
+title: An established history of being valued by society
+reward: 8
+illustration: 
+text: |
+  This is because a well-established store of value is less likely to be displaced by a newcomer, unless it has a significant advantage over the established good.
+  
+  Additionally, people are creatures of habit and will keep using what they already know.
+  
+  Gold, for example, has a long history of being valued and has maintained its value over time. In contrast, fiat currencies, which are a relatively recent invention, have a tendency to lose value over time due to inflation.
+  
+  Bitcoin, although it has only been around for a short time, has shown resilience in the market and is likely to continue to be valued.
+  
+image: ../.gitbook/assets/202-08.png
+
+question: What is the main reason that a long-established store of value could be displaced by a new arrival
+answers:
+- answer: The new arrival has a significant advantage over the established good
+  correct: true
+  feedback: You are correct. A long-established store of value is less likely to be displaced by a new arrival unless the new arrival has a significant advantage over the established good
+- answer: The established good has a longer history of being valued by society
+  correct: false
+  feedback: Sorry, but this is actually the reason that a long-established store of value is less likely to be displaced. Better luck next time
+- answer: The new arrival is cheaper to produce
+  correct: false
+  feedback: Nope, wrong. Did you not pay attention in the previous lesson on scarcity?
