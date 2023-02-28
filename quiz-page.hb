@@ -14,4 +14,4 @@
 **Correct:** {{correct}}\
 {{/each}}
 
-![](<{{image}}>)
+<figure><img src="{{image}}" alt=""><figcaption></figcaption></figure>
