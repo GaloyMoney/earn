@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 cd repo
 make update-md-files
 
