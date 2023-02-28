@@ -1,0 +1,30 @@
+section: 104
+lesson: 03
+screen: NoCounterfeitMoney
+title: Special Characteristic #3: No Counterfeit Money
+reward: 6
+text: |
+  Paper money, checks and credit card transactions can all be counterfeit, or faked.\
+
+question: Can people counterfeit Bitcoin?
+answers:
+- answer: No. It is impossible to counterfeit Bitcoin.
+  correct: true
+  feedback: counterfeit Bitcoin.
+- answer: Yes. Although creating fake bitcoin requires very specialized computers.
+  correct: false
+  feedback: Incorrect. There is no way for anyone to copy or duplicate the value of a bitcoin.
+- answer: Yes. The govrenment can print as much bitcoin as it likes.
+  correct: false
+  feedback: Wrong. Although the government can print unlimited dollars, it can not print bitcoin.
+  
+  
+  The unique software that runs the Bitcoin network eliminates the possibility of duplicating money for counterfeit purposes.\
+  
+  
+  New bitcoin can only be issued if there is agreement amongst the participants in the network. People who are voluntarily running bitcoin software on their own computers and smartphones.\
+  
+  
+  This ensures that it is impossible to counterfeit, or create fake bitcoins.
+  
+  

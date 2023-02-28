@@ -1,0 +1,34 @@
+section: 104
+lesson: 05
+screen: securePartOne
+title: Special Characteristic #5: Secure -- Part I
+reward: 6
+text: |
+  The bitcoin network is worth well over $100 billion today. Accordingly, the network must be very secure — so that money is never stolen.\
+  
+  
+  Bitcoin is known as the world’s first cryptocurrency.\
+  
+  
+  The “crypto” part of the name comes from cryptography. Simply put, cryptography protects information through very complex math functions.\
+  
+  
+  Most people do not realize — but Bitcoin is actually the most secure computer network in the world !\
+  
+  
+  (you may have heard about bitcoin “hacks” — which we will debunk in the next quiz)
+  
+illustration: https://marvelapp.com/8ai4f0h/screen/68560822
+image: ../.gitbook/assets/image (9).png
+
+question: Is the Bitcoin network secure?
+answers:
+- answer: Yes. The bitcoin network is very secure.
+  correct: true
+  feedback: Correct. In fact, the Bitcoin network has never once been hacked. Answer the next question to learn more!
+- answer: Maybe. It depends on the day of the week.
+  correct: false
+  feedback: Nice try, but wrong. The bitcoin network is safe and secure — 24 hours a day, 365 days a year.
+- answer: bitcoin network is safe and secure — 24 hours a day, 365 days a year.
+  correct: false
+  feedback: Incorrect. Although bitcoin is indeed “open source” software — or available to the public for free — is still extremely secure.

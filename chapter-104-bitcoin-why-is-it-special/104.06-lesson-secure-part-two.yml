@@ -1,0 +1,40 @@
+section: 104
+lesson: 06
+screen: securePartTwo
+title: Special Characteristic #5: Secure -- Part II
+reward: 6
+text: |
+  To be direct: the bitcoin network itself has never been hacked. Never once.\
+  
+  
+    Then what exactly has been hacked?\
+  
+  
+    Certain digital wallets that did not have proper security in place.\
+  
+  
+    Just like a physical wallet holds fiat currency (in the form of paper bills), digital wallets hold some amount of bitcoin.\
+  
+  
+    In the physical world, criminals rob banks — and walk away with US Dollars. The fact that someone robbed a bank does not have any relationship as to whether the US Dollar is stable or reliable money.\
+  
+  
+    Similarly, some computer hackers have stolen bitcoin from insecure digital wallets — the online equivalent of a bank robbery.\
+  
+  
+    However, it is important to know that the bitcoin network has never been hacked or compromised !
+  
+illustration: https://marvelapp.com/8ai4f0h/screen/68560823
+image: ../.gitbook/assets/image (8).png
+
+question: Has Bitcoin ever been hacked?
+answers:
+- answer: No. Bitcoin has never been hacked.
+  correct: true
+  feedback: That is correct. The bitcoin network has never been compromised. However, it is important to make you use secure digital wallet (such as Galoy!) to keep your personal bitcoins safe at all times.
+- answer: Yes. Bitcoin gets hacked frequently.
+  correct: false
+  feedback: Wrong. Please try again.
+- answer: Yes. Bitcoin usually gets hacked on holidays, when traditional banks are closed.
+  correct: false
+  feedback: No silly, you know that is not the correct answer.

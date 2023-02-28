@@ -1,0 +1,28 @@
+section: 104
+lesson: 02
+screen: Decentralized
+title: Special Characteristic #2: Decentralized
+reward: 6
+text: |
+  Fiat money is controlled by banks and governments — which is why people refer to it as a “centralized” currency.\\
+  
+  Bitcoin is not controlled by any person, government or company — which makes it “decentralized”\\
+  
+  Not having banks involved means that nobody can deny you access to bitcoin — because of race, gender, income, credit history, geographical location — or any other factor.\\
+  
+  Anybody — anywhere in the world — can access and use Bitcoin anytime you want. All you need is a computer or smartphone, and an internet connection. In fact, even a feature phone with no internet can utilize Bitcoin with services like Machankura!
+  
+illustration: https://marvelapp.com/8ai4f0h/screen/68560819
+image: ../.gitbook/assets/image (19).png
+
+question: Is bitcoin centralized?
+answers:
+- answer: No. Bitcoin is completely “decentralized”.
+  correct: true
+  feedback: That is correct. There is no company, government or institution that controls bitcoin. Anyone can use bitcoin — all need is a smartphone and an internet connection.
+- answer: Yes. It is centrally controlled by the United Nations.
+  correct: false
+  feedback: Wrong answer. Please try again.
+- answer: Yes. It is centrally controlled by the world’s largest banks.
+  correct: false
+  feedback: Incorrect. You already know this is not true!
