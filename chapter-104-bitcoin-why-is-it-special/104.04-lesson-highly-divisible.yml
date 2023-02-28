@@ -4,9 +4,9 @@ screen: HighlyDivisible
 title: Special Characteristic #4: Highly Divisible
 reward: 6
 text: |
-  Old-fashioned fiat money can only be spent in amounts as small as one penny — or two decimal places for one US Dollar ($0.01).\\
+  Old-fashioned fiat money can only be spent in amounts as small as one penny — or two decimal places for one US Dollar ($0.01).
   
-  On the other hand, Bitcoin can be divided 100,000,000 times over. This means that you could spend as little as ₿0.00000001. You will note the ""₿"" symbol, which is the Bitcoin equivalent of ""$"". Sometimes you will also see the use of BTC, instead of ₿.\\
+  On the other hand, Bitcoin can be divided 100,000,000 times over. This means that you could spend as little as ₿0.00000001. You will note the ""₿"" symbol, which is the Bitcoin equivalent of ""$"". Sometimes you will also see the use of BTC, instead of ₿.
   
   By way of contrast, Bitcoin can handle very small payments — even those less than one US penny!
   
