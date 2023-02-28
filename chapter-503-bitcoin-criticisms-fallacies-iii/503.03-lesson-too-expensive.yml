@@ -1,0 +1,26 @@
+section: 503
+lesson: 03
+screen: tooExpensive
+title: Bitcoin is too expensive
+reward: 18
+illustration: 
+text: |
+  One common misconception about bitcoin is that it is too expensive to purchase.
+  
+  However, this belief is based on unit bias, as it is more accurate to compare the entire market capitalization of bitcoin to other assets rather than just the unit price of a single bitcoin.
+  
+  It's also worth noting that a single bitcoin can be divided into 100 million smaller units called satoshis. As the saying goes, "you can buy a fraction of a bitcoin!"
+  
+image: ../.gitbook/assets/503-03.png
+
+question: How can you accurately compare the value of bitcoin to other assets
+answers:
+- answer: By comparing the entire market capitalization of bitcoin to that of other asset classes
+  correct: true
+  feedback: Congratulations, you're on the right track! It's important to consider the entire market cap of bitcoin when comparing it to other assets. Did you know that the total market cap of bitcoin reached over $1 trillion in 2021
+- answer: By comparing the unit price of one bitcoin to the unit price of another asset, such as gold
+  correct: false
+  feedback: Uh oh, it looks like you might have fallen for the unit bias trap! Better luck next time
+- answer: By consulting a crystal ball and going with your gut feeling
+  correct: false
+  feedback: Sorry, consulting a crystal ball might work for predicting the weather, but it's not a reliable way to assess the value of bitcoin. Better luck next time!
