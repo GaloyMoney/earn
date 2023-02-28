@@ -1,0 +1,47 @@
+#@ load("@ytt:data", "data")
+
+#@ load("vendor/pipeline-fragments.lib.yml",
+#@   "repo_resource",
+#@   "version_resource",
+#@   "gh_release_resource",
+#@   "pipeline_tasks_resource",
+#@   "rust_task_image_config",
+#@ )
+
+jobs:
+- name: update-md-files
+  serial: true
+  plan:
+  - in_parallel:
+    - get: yml-lessons
+      trigger: true
+    - get: pipeline-tasks
+  - task: update-md-files
+    config:
+      platform: linux
+      image_resource: #@ rust_task_image_config()
+      inputs:
+      - name: pipeline-tasks
+      - name: yml-lessons
+        path: repo
+      outputs:
+      - name: repo
+      run:
+        path: pipeline-tasks/ci/tasks/update-md-files.sh
+  - put: repo
+    params:
+      repository: repo
+      rebase: true
+
+
+resources:
+- #@ repo_resource()
+- #@ pipeline_tasks_resource()
+
+- name: yml-lessons
+  type: git
+  source:
+    paths: [chapter*/*.yml, quiz-page.hb]
+    uri: #@ data.values.git_uri
+    branch: #@ data.values.git_branch
+    private_key: #@ data.values.github_private_key

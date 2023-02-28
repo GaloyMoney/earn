@@ -1,0 +1,33 @@
+section: 102
+lesson: 06
+screen: moneyImportantGovernement
+title: Money is also important to governments
+reward: 4
+text: |
+  Modern-day economies are organized by nation-states: USA, Japan, Switzerland, Brazil, Norway, China, etc.\
+    \
+    Accordingly, in most every nation, the government holds the power to issue and control money.\
+  
+  
+    In the United States, the Central Bank (known as the Federal Reserve, or “Fed”) can print, or create, more US Dollars at any time it wants.\
+  
+  
+    The “Fed” does not need permission from the President, nor Congress, and certainly not from US citizens.\
+  
+  
+    Imagine if you had the ability to print US Dollars anytime you wanted to -- what would you do??
+  
+illustration: https://marvelapp.com/8ai4f0h/screen/68435186
+image: ../.gitbook/assets/image (6).png
+
+question: Who can legally print US Dollars, anytime they wish?
+answers:
+- answer: The US Central Bank (The Federal Reserve)
+  correct: true
+  feedback: Correct. The US Government can print as much money as they want at any time.
+- answer: Mr Burns from The Simpsons
+  correct: false
+  feedback: Incorrect. Although it did seem like he always had a lot of money.
+- answer: A guy with a printing press in his basement
+  correct: false
+  feedback: No. Whilst some people do create fake dollar bills, it is definitely not legal!

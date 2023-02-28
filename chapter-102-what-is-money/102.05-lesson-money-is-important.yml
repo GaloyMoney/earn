@@ -1,0 +1,26 @@
+section: 102
+lesson: 05
+screen: moneyIsImportant
+title: Money is important to individuals
+reward: 4
+text: |
+  Everybody knows that money matters.\
+  \
+  
+  
+  Most people exchange their time and energy -- in the form of work -- to obtain money. People do so, to be able to buy goods and services today -- and in the future.
+  
+illustration: https://marvelapp.com/8ai4f0h/screen/68435185
+image: ../.gitbook/assets/image (3).png
+
+question: What is the primary reason money is important?
+answers:
+- answer: Money allows people to buy goods and services today -- and tomorrow.
+  correct: true
+  feedback: That is right!
+- answer: Money allows you to go to the moon.
+  correct: false
+  feedback: Incorrect. Although that may change in the future ;)
+- answer: Money is the solution to all problems.
+  correct: false
+  feedback: Not quite. Although some people may believe such, this answer does not address the primary purpose of money.

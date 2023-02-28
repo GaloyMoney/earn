@@ -1,0 +1,37 @@
+section: 104
+lesson: 01
+screen: LimitedSupply
+title: Special Characteristic #1: Limited Supply
+reward: 6
+text: |
+  Governments can print fiat money in unlimited quantities.\
+  
+  
+  By way of contrast, the supply of Bitcoin is fixed — and can never exceed 21 million coins.\
+  
+  
+  A continually increasing supply of fiat money creates inflation. This means that the money you hold today is less valuable in the future.\
+  \
+  One simple example:\
+  A loaf of bread that cost about 8 cents in 1920. In the year 1990 one loaf cost about $1.00, and today the price is closer to $2.50 !\
+  
+  
+  The limited supply of bitcoin has the opposite effect, one of deflation.\
+  
+  
+  This means that the bitcoin you hold today is designed to be more valuable in the future — because it is scarce.
+  
+illustration: Https://marvelapp.com/8ai4f0h/screen/68560818
+image: ../.gitbook/assets/image (14).png
+
+question: Is the supply of bitcoin limited forever?
+answers:
+- answer: Yes. There can never be more than 21 million bitcoin created.
+  correct: true
+  feedback: Correct. By limiting the amount that can be created, Bitcoin is designed to increase in value over time.
+- answer: No. The government can create more bitcoin at any time.
+  correct: false
+  feedback: Wrong answer. The government has no control over Bitcoin.
+- answer: No, the bitcoin software can be changed to allow more bitcoins to be created.
+  correct: false
+  feedback: Incorrect. One of the key attributes of bitcoin is that the supply is limited forever.

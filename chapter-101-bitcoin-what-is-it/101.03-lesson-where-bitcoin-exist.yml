@@ -1,0 +1,22 @@
+section: 101
+lesson: 03
+screen: whereBitcoinExist
+title: Where do the bitcoins exist?
+reward: 3
+text: |
+  Bitcoin is a new form of money. It can be used by anyone, anytime -- anywhere in the world. It is not tied to a specific government or region (like US Dollars). There are also no paper bills, metal coins or plastic cards. Everything is 100% digital. Bitcoin is a network of computers running on the internet. Your bitcoin is easily managed with software on your smartphone or computer!
+  
+illustration: https://marvelapp.com/8ai4f0h/screen/68178612
+image: ../.gitbook/assets/image (20).png
+
+question: Where do the bitcoins exist?
+answers:
+- answer: On the Internet
+  correct: true
+  feedback: Correct. You just earned another 5 sats.
+- answer: On the moon
+  correct: false
+  feedback: Incorrect. Well… at least not yet ;)
+- answer: In a Federal bank account
+  correct: false
+  feedback: Wrong. Please try again.

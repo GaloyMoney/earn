@@ -1,0 +1,28 @@
+section: 503
+lesson: 05
+screen: willBeHoarded
+title: The Misconception of Bitcoin Hoarding
+reward: 18
+illustration: 
+text: |
+  There is a common belief that the fixed supply of bitcoin incentivizes hoarding, or the act of holding onto bitcoin rather than spending it in the economy.
+  
+  However, this logic has a few flaws. First, saving, or the act of setting aside income for future use, is often conflated with hoarding. In fact, saving is a necessary precursor to significant investment and can be seen as a responsible financial practice.
+  
+  Second, holding onto bitcoin, or any form of money, is a common way to hedge against future uncertainty and does not necessarily mean that it is not being used.
+  
+  As Pierre Rochard pointed out, "all bitcoin are always held by someone, payments only change who is holding it." In other words, the act of holding bitcoin is itself a use of bitcoin.
+  
+image: ../.gitbook/assets/503-05.png
+
+question: Is holding bitcoin the same thing as hoarding bitcoin
+answers:
+- answer: No, holding bitcoin is a way to hedge against future uncertainty and does not necessarily mean it is not being used
+  correct: true
+  feedback: Congratulations, you're on the right track! As Pierre Rochard pointed out, 'all bitcoin are always held by someone, payments only change who is holding it.' Well done
+- answer: Yes, holding bitcoin is the same thing as hoarding bitcoin
+  correct: false
+  feedback: Uh oh, it looks like you might have fallen for the hoarding misconception! Holding bitcoin is a common way to hedge against future uncertainty and does not necessarily mean it is not being used
+- answer: It depends on the individual's intentions and financial goals
+  correct: false
+  feedback: Sorry, but the distinction between holding and hoarding bitcoin is not dependent on an individual's intentions and financial goals. Better luck next time!

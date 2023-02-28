@@ -1,0 +1,22 @@
+section: 102
+lesson: 01
+screen: moneySocialAgreement
+title: Money is a social agreement.
+reward: 4
+text: |
+  Money requires people to trust. People trust the paper dollar bills in their pocket. They trust the digits in their online bank account. They trust the balance on a store gift card will be redeemable. Having money allows people to easy trade it immediately for a good, or a service.
+  
+illustration: https://marvelapp.com/8ai4f0h/screen/68435181
+image: ../.gitbook/assets/image (15).png
+
+question: Why does money have value?
+answers:
+- answer: Because people trust that other people will value money similarly
+  correct: true
+  feedback: Correct. This is what allows money to work!
+- answer: Because your mother told you so
+  correct: false
+  feedback: She may well have. But that is not the correct answer here!
+- answer: Because a dollar bill is worth its weight in gold
+  correct: false
+  feedback: Nope. In the past you could exchange US dollars for gold. But this is no longer the case.

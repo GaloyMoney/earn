@@ -1,0 +1,26 @@
+section: 205
+lesson: 01
+screen: convergingOnGold
+title: Convergence on Gold
+reward: 11
+illustration: 
+text: |
+  From all monetary metals, the free market ultimately chose gold as a form of money because it has two important qualities that keep its value stable over long periods of time and across many regions of the world:&#x20;
+  
+  1\) Gold cannot be destroyed, and&#x20;
+  
+  2\) Gold cannot be made from other materials.
+  
+image: ../.gitbook/assets/205-01.png
+
+question: Why did the free market choose gold as a form of money
+answers:
+- answer: Because it cannot be destroyed or synthesized from other materials.
+  correct: true
+  feedback: Exactly**.** It's interesting to think about how the qualities of different materials, such as gold's durability and rarity, can make them more valuable and desirable as a form of money. Good job
+- answer: Because it is abundant and easy to find.
+  correct: false
+  feedback: Sorry, looks like you got it backwards! Better luck with your next guess
+- answer: Because it is the most attractive and visually appealing metal.
+  correct: false
+  feedback: Wrong! While gold may have a certain aesthetic appeal, it's ultimately its functional qualities that make it a valuable form of money. Better luck with your next answer.

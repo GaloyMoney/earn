@@ -1,0 +1,22 @@
+section: 102
+lesson: 02
+screen: coincidenceOfWants
+title: Money solves the “coincidence of wants”... What is that??
+reward: 4
+text: |
+  Centuries ago, before people had money, they would barter -- or haggle over how to trade one unique item, in exchange for another item or service. Let’s say you wanted to have a meal at the local restaurant, and offered the owner a broom. The owner might say “no” -- but I will accept three hats instead, if you happen to have them. You can imagine how difficult and inefficient a “barter economy” would be! By contrast, with money, you can simply present a $20 bill. And you know that the restaurant owner will readily accept it.
+  
+illustration: https://marvelapp.com/8ai4f0h/screen/68435182
+image: ../.gitbook/assets/image (23).png
+
+question: Which coincidence does money solve?
+answers:
+- answer: Coincidence of wants
+  correct: true
+  feedback: That is right. Money allows you to easily purchase something, without haggling about the form of payment
+- answer: Coincidence of day and night
+  correct: false
+  feedback: No silly, you know that is not the answer.
+- answer: Coincidence of the moon blocking the sun
+  correct: false
+  feedback: Not quite. We call that a solar eclipse 🌚

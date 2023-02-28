@@ -1,0 +1,27 @@
+section: 202
+lesson: 04
+screen: fungibility
+title: One specimen should be interchangeable with another of equal quantity
+reward: 8
+illustration: 
+text: |
+  
+    "Fungibility" means that one unit of a currency is interchangeable with another unit of the same currency. This is an important attribute for a good store of value.
+  
+    Gold is a highly fungible store of value, as when melted down, an ounce of gold is essentially indistinguishable from any other. Fiat currencies, on the other hand, may not always be completely fungible, as their issuing institutions may treat different denominations differently.
+  
+    Like gold, units of bitcoin are fungible, but there are some nuances to it. We'll dive into this in a later chapter.
+  
+image: ../.gitbook/assets/202-04.png
+
+question: What is the main reason that gold is considered more fungible than diamonds
+answers:
+- answer: The shape and quality of diamonds are irregular
+  correct: true
+  feedback: Exactly**!** The irregular shape and quality of diamonds makes them less interchangeable than gold, which is why gold is considered more fungible. Did you also know that bitcoin is considered fungible at the network level, but its traceability on the blockchain can sometimes lead to it being treated as non-fungible by merchants or exchanges
+- answer: Gold is more valuable than diamonds
+  correct: false
+  feedback: Wrong answer! Gold may be more valuable than diamonds, but that's not the main reason it's considered more fungible. Looks like you need to brush up on your fungibility knowledge
+- answer: Gold is more abundant than diamonds
+  correct: false
+  feedback: Nope, sorry! While gold may be more abundant than diamonds, that's not the main reason it's considered more fungible. Better luck next time!

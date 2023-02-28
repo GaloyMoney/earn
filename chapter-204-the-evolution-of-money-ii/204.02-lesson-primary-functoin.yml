@@ -1,0 +1,24 @@
+section: 204
+lesson: 02
+screen: primaryFunction
+title: The primary function of money
+reward: 10
+illustration: 
+text: |
+  Primitive money existed long before large scale trade networks. Archeologists found that early humans used valuable tools like arrowheads, collectibles like cowry shells and commodities like barley as primitive money.
+  
+  The main advantage and primary function of these primitive moneys was to improve the workings of even small barter networks. Primitive moneys achieved this by eliminating the need to match coincidences of wants, interests, supply or skill. They also greatly reduced the need for credit, which, in the absence of writing in prehistoric times, was difficult to keep track of.
+  
+image: ../.gitbook/assets/204-02.png
+
+question: What was the primary function of money
+answers:
+- answer: To improve the workings of small barter networks.
+  correct: true
+  feedback: Congratulations! It's interesting to think about how money has evolved over time, from its early use as a means of facilitating trade in small communities to its current role as a medium of exchange in modern economies
+- answer: To facilitate large scale trade networks.
+  correct: false
+  feedback: Sorry, looks like you got it backwards! Better luck with your next guess
+- answer: To reduce the need for credit. 
+  correct: false
+  feedback: Wrong! Credit has been around for almost as long as money, and it's likely here to stay. Better luck with your next answer.

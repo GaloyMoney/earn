@@ -1,0 +1,26 @@
+section: 203
+lesson: 06
+screen: partlyMonetized
+title: Partial Monetization
+reward: 9
+illustration: 
+text: |
+  Goods that are not widely accepted as a unit of account may be considered "partly monetized" because they are used for some purposes related to money, but not all.
+  
+  Gold is an example of a partly monetized good that is used to store value but is not widely used as a medium of exchange or unit of account. In some countries, different goods may be used for different purposes related to money, such as one good being used as a medium of exchange and another being used as a store of value or unit of account.
+  
+  The dollar is an example of a good that is widely used for all three purposes of money in the United States, while the peso was an example of a good that was used as a medium of exchange in Argentina but was not a good store of value because of its volatility and regular loss of purchasing power.
+  
+image: ../.gitbook/assets/203-06.png
+
+question: What is the meaning of the term "partly monetized"
+answers:
+- answer: A good that is not yet widely used as a unit of account
+  correct: true
+  feedback: Congratulations! You've chosen the correct answer. A partly monetized good is one that is not yet widely accepted as a unit of account, which means it is not commonly used as a standard way to measure the value of other goods. This can include goods like gold, which is often used to store value but not typically used for everyday transactions
+- answer: A currency that is only accepted in certain countries
+  correct: false
+  feedback: That's a creative answer, but unfortunately not quite right. Better luck next time
+- answer: A good that is used as a medium of exchange but not for storing value or measuring the value of goods
+  correct: false
+  feedback: Not quite correct, but close! Keep thinking.

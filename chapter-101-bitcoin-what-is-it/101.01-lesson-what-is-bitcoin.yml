@@ -1,0 +1,19 @@
+section: 101
+lesson: 01
+screen: whatIsBitcoin
+title: So what exactly is Bitcoin?
+reward: 1
+illustration: https://marvelapp.com/8ai4f0h/screen/68178610
+image: ../.gitbook/assets/image (2).png
+text: Bitcoin is digital money. It can be transferred instantly and securely between any two people in the world — without the need for a bank or any other financial company in the middle.
+question: So what exactly is Bitcoin
+answers:
+- answer: Digital Money
+  feedback: Correct. You just earned 1 “sat”!
+  correct: true
+- answer: A video game
+  feedback: Incorrec, please try again.
+  correct: false
+- answer: A new cartoon character
+  feedback: Nope. At least not one that we know of!
+  correct: false

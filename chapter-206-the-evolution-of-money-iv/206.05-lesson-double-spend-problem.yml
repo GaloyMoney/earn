@@ -1,0 +1,28 @@
+section: 206
+lesson: 05
+screen: doubleSpendProblem
+title: The Double Spending Problem
+reward: 12
+illustration: 
+text: |
+  In the digital world, it is easy to copy things, so it is important to make sure that the same digital unit of money cannot be spent more than once by its owner.&#x20;
+  
+  In a monetary system with a central authority (like a government), this problem is trivially solved by keeping a ledger of transactions managed by the central authority. However, this normally represents a single point of failure from both availability and trust viewpoints.
+  
+  In a decentralized system, the double-spending problem is significantly harder to solve. Many people have tried to create digital money that is not controlled by a government, but they have all had their own unique challenges.&#x20;
+  
+  Satoshi Nakamoto took all of these lessons into account and was the first to solve the double spending problem with the implementation of Bitcoin by creating a decentralized system that rewards honesty and makes it very costly to be dishonest.
+  
+image: ../.gitbook/assets/206-05.png
+
+question: What was a key factor in the creation of Bitcoin
+answers:
+- answer: The ability to ensure that the same digital unit of money cannot be spent more than once by its owner
+  correct: true
+  feedback: Good job. In the digital world, where it is easy to copy things, it is important to make sure that the same digital unit of money (like a digital coin) cannot be spent more than once by its owner. This was a key factor in the creation of Bitcoin, as it is important for a monetary system that works without a central authority (like a government)
+- answer: The desire to create a digital currency that could only be spent on Mars
+  correct: false
+  feedback: Not quite, but a digital currency that could only be spent on Mars sounds like it could be a fun way to support the colonization of the red planet
+- answer: The idea of rewarding honesty and making dishonesty very costly
+  correct: false
+  feedback: Nope, but the idea of rewarding honesty and making dishonesty very costly is a key factor in the creation of any monetary system, as it helps to ensure trust and cooperation among participants.

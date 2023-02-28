@@ -1,0 +1,24 @@
+section: 301
+lesson: 03
+screen: fiatRequiresTrust
+title: Fiat Currencies Require Trust
+reward: 13
+illustration: 
+text: |
+  The post-1971 fiat currency system requires trust at all levels because it is debt-based and lacks a scarce anchor. This includes trust in the ability to pay off debts in the future, trust in commercial and central banks not to debase the currency, and trust in their ability to allow access to and freedom to use funds for transactions.&#x20;
+  
+  This trust has been violated numerous times, including during the 2008/09 Global Financial Crisis. In order to address this issue, Satoshi Nakamoto aimed to create a digital form of money that did not require trusting third parties for transactions and could not be debased by a central authority issuing more units.
+  
+image: ../.gitbook/assets/301-03.png
+
+question: What was the main issue that Satoshi Nakamoto aimed to address with the creation of bitcoin
+answers:
+- answer: The need for trusted third parties to make a currency work
+  correct: true
+  feedback: Exactly. Bitcoin requires no trusted third party and allows for transactions to be made directly between individuals, called peer-to-peer, rather than through a central authority or intermediaries
+- answer: Lack of a physical form for currency
+  correct: false
+  feedback: Nope. That's not it. Try again
+- answer: Inflation caused by central authorities issuing more units
+  correct: false
+  feedback: Arbitrary inflation of the money supply by centralized issuers is indeed a problem that bitcoin solves elegantly, but there's a more foundational problem that Satoshi addressed. Try again!

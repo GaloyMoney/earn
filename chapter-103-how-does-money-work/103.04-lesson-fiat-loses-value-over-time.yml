@@ -1,0 +1,32 @@
+section: 103
+lesson: 04
+screen: FiatLosesValueOverTime
+title: Does this mean that all fiat money loses value over time?
+reward: 5
+text: |
+  That is correct.\
+  
+  
+  In the history of the world, there have been 775 fiat currencies created. Most no longer exist, and the average life for any fiat money is only 27 years.\
+  
+  
+  The British Pound is the oldest fiat currency. It has lost more than 99% of its value since 1694.\
+  
+  
+  There is no precedent for any fiat money maintaining its value over time. This is inflation.\
+  It is effectively a form of theft of your own hard earned money !
+  
+illustration: https://marvelapp.com/8ai4f0h/screen/68484173
+image: ../.gitbook/assets/image (7).png
+
+question: What happens to the value of all fiat money over time?
+answers:
+- answer: Every fiat currency that ever existed has lost a massive amount of value.
+  correct: true
+  feedback: Correct. This is true even for USD, which has lost 97% of its value during the last 100 years.
+- answer: The value stays the same forever.
+  correct: false
+  feedback: Incorrect. Please try again.
+- answer: The look and design of paper bills is updated every 10 years or so.
+  correct: false
+  feedback: Not quite. Although the design of papers bills may change, this has nothing to do with their value.

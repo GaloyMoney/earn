@@ -1,0 +1,24 @@
+section: 502
+lesson: 03
+screen: ponziScheme
+title: Bitcoin is a Ponzi Scheme
+reward: 17
+illustration: 
+text: |
+  Calling bitcoin a ponzi scheme shows a lack of understanding of both bitcoin and the definition of a ponzi scheme. A ponzi scheme involves promises of above-market returns to investors, but as a permissionless network, bitcoin does not have a central authority that can make such promises.
+  
+  Additionally, bitcoin is not an investment scheme, it is a form of money. Unlike opaque investment opportunities that may be promoted to unsuspecting individuals, bitcoin's code is open-source and its supply can be independently verified at all times.
+  
+image: ../.gitbook/assets/502-03.png
+
+question: Which of the following statements is true about bitcoin
+answers:
+- answer: It is a form of money
+  correct: true
+  feedback: Congratulations! You've earned some sats for correctly identifying that bitcoin is a form of money. Did you know that bitcoin was the first decentralized digital currency to be created, and it operates without a central bank or single administrator
+- answer: It is a ponzi scheme
+  correct: false
+  feedback: Ah hah! You fell for the old ponzi scheme trick! Just kidding, but seriously, that's not what bitcoin is
+- answer: It is an open-source investment scheme
+  correct: false
+  feedback: Nope, sorry! Bitcoin isn't an open-source investment scheme. But hey, at least you're learning about it, right?

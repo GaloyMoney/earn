@@ -1,0 +1,26 @@
+section: 501
+lesson: 02
+screen: itstooVolatile
+title: "It's too volatile!"
+reward: 16
+illustration: 
+text: |
+  It is subjective to expect bitcoin to maintain a specific price range, as it is traded around the clock, every day of the year, across the world. There are no requirements for registration, bank holidays, circuit breakers, or bailouts in the bitcoin market, which operates as a truly free market.&#x20;
+  
+  Any and all volatility in bitcoin's price is the result of buyers and sellers reaching agreements in real-time without interference from governments. As bitcoin continues its journey towards becoming a primary global store of value in the Information Age, it is unrealistic to assume that its progress would be linear.&#x20;
+  
+  As adoption of bitcoin increases, it becomes less risky and potential upside decreases, leading to a decrease in volatility.
+  
+image: ../.gitbook/assets/501-02.png
+
+question: What is the primary factor influencing the volatility of bitcoin's exchange rate
+answers:
+- answer: Buyers and sellers reaching agreements in real-time
+  correct: true
+  feedback: You're correct! The primary factor influencing the volatility of bitcoin's price is actually the agreements reached in real-time between buyers and sellers
+- answer: Government intervention
+  correct: false
+  feedback: I'm sorry, that's not quite right. While government intervention can certainly affect the price of bitcoin, it is not the primary factor influencing its volatility
+- answer: The phase of the moon
+  correct: false
+  feedback: Sorry, that's incorrect. While the phase of the moon may have some strange effects on certain things, it does not play a significant role in the volatility of bitcoin's exchange rate. Keep trying!

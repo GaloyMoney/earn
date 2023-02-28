@@ -1,0 +1,22 @@
+section: 101
+lesson: 05
+screen: copyBitcoin
+title: If Bitcoin is digital money, can’t someone just copy it — and create free money?
+reward: 3
+text: |
+  The value of a bitcoin can never be copied. This is the very reason why Bitcoin is such a powerful new invention!! Most digital files — such as an iPhone photo, an MP3 song, or a Microsoft Word document — can easily be duplicated and shared. The Bitcoin software uniquely prevents the duplication — or “double spending” — of digital money. We will share exactly how this works later on!
+  
+illustration: https://marvelapp.com/8ai4f0h/screen/68276778
+image: ../.gitbook/assets/image (5).png
+
+question: If Bitcoin is digital money, can’t someone just copy it — and create free money?
+answers:
+- answer: No — it is impossible to copy or duplicate the value of bitcoin
+  correct: true
+  feedback: copy or duplicate the value of bitcoin
+- answer: Yes, you can copy bitcoins just as easily as copying a digital photo
+  correct: false
+  feedback: You know that it is not true. Try again.
+- answer: Yes, but copying bitcoin requires very specialized computers
+  correct: false
+  feedback: Incorrect. There is no way for anyone to copy, or create a duplicate, of bitcoin.

@@ -1,0 +1,26 @@
+section: 205
+lesson: 05
+screen: modernCentralBanking
+title: Modern Central Banking
+reward: 11
+illustration: 
+text: |
+  To counter the problem of bank runs, governments created their own banks called "central banks."&#x20;
+  
+  These central banks have the special power to create money. They act as a backup plan for when commercial banks run out of reserves and need extra money to stay open.&#x20;
+  
+  Because of this function, central banks are also called the "lenders of last resort," meaning they can create and give out money when commercial banks need liquidity to service withdrawals.
+  
+image: ../.gitbook/assets/205-05.png
+
+question: What is the purpose of a central bank
+answers:
+- answer: To create a unified national currency and provide a backup plan for other banks
+  correct: true
+  feedback: Congratulations, you got it right! Did you know that central banks also act as the "lender of last resort," meaning they can give out money when needed to make sure people's deposits are secure
+- answer: To sell ice cream and provide a place for people to play games
+  correct: false
+  feedback: I'm sorry, but central banks do not sell ice cream or provide a place for people to play games. They have much more important responsibilities
+- answer: To act as a personal stylist and wardrobe consultant for the royal family
+  correct: false
+  feedback: I'm afraid you are mistaken. Central banks do not act as personal stylists or wardrobe consultants for the royal family. Try again!

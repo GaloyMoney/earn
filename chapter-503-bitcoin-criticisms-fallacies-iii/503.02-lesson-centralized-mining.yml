@@ -1,0 +1,26 @@
+section: 503
+lesson: 02
+screen: centralizedMining
+title: Bitcoin Mining Is Centralized
+reward: 18
+illustration: 
+text: |
+  Some people believe that mining pools, which are groups of miners that work together to increase their chances of finding a block, could potentially disrupt the bitcoin network or censor transactions.
+  
+  However, this concern stems from a lack of understanding of the incentives of miners and their role in the network. In reality, miners have a strong incentive to follow the rules of the network and maintain the integrity of the blockchain, as their own profits depend on it.
+  
+  As Jimmy Song said, "A majority of hashing power can't: take coins you already possess away, change the rules of bitcoin, or hurt you without hurting themselves."
+  
+image: ../.gitbook/assets/503-02.png
+
+question: Can mining pools disrupt the bitcoin network or censor transactions
+answers:
+- answer: No, because they have a strong incentive to follow the rules of the network and maintain the integrity of the blockchain
+  correct: true
+  feedback: Yep, that's right. Did you know that the decentralized nature of the bitcoin network ensures that no single entity, including mining pools, can disrupt the network or censor transactions
+- answer: Yes, because they have a majority of the hashing power
+  correct: false
+  feedback: Nope, sorry! While mining pools do have a significant amount of hashing power, individual miners are extremely mobile and can trivially direct their hashrate to an honest mining pool
+- answer: Yes, but only if they are acting in their own self-interest
+  correct: false
+  feedback: Incorrect. While it is true that mining pools have an incentive to act in their own self-interest, this does not mean that they can disrupt the bitcoin network or censor transactions.

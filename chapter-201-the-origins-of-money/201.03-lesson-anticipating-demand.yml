@@ -1,0 +1,26 @@
+section: 201
+lesson: 03
+screen: anticipatingDemand
+title: Anticipating Demand
+reward: 7
+illustration: null
+text: |
+  The choice of which items to collect or create posed a significant problem for early humans, as they had to anticipate which objects would be desired by others. The ability to correctly predict which items would be in demand for their collectible value gave a significant advantage to the owner in terms of their ability to trade and accumulate wealth.
+  
+  Some Native American tribes, such as the Narragansetts, even focused on producing collectibles that had little practical use, but were valuable in trade.
+  
+  The earlier a collectible is anticipated to be in future demand, the greater the advantage its possessor has, as it can be obtained at a lower cost before it becomes widely sought after and its trade value increases as the number of people demanding it grows.
+  
+image: ../.gitbook/assets/201-03.png
+
+question: What was the main advantage of being able to anticipate future demand for collectible items in early human societies
+answers:
+- answer: The ability to buy collectibles at a lower price before they became widely sought after
+  correct: true
+  feedback: "Congratulations, you are correct! It seems that the concept of \"buy low, sell high\" is not a modern invention, as early humans also sought to acquire collectibles at a lower cost before their demand and trade value increased. Fun fact: this principle also applies to bitcoin, where early adopters were able to acquire bitcoins at a much lower price before their value skyrocketed"
+- answer: The ability to trade collectibles for other useful items
+  correct: false
+  feedback: Sorry, that is not the correct answer. While being able to trade collectibles for other useful items may have been a benefit of correctly anticipating demand, it was not the main advantage
+- answer: The ability to impress others with their collection of rare and valuable items
+  correct: false
+  feedback: I'm afraid that is not the correct answer. While having a collection of rare and valuable items may have been a source of pride and admiration, it was not the main advantage

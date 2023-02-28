@@ -1,0 +1,26 @@
+section: 302
+lesson: 03
+screen: privateKey
+title: Public Key Cryptography
+reward: 14
+illustration: 
+text: |
+  Another cornerstone of Bitcoin is Public Key Cryptography that uses a pair of keys - a public key and a private key - to sign transactions and verify the ownership of Bitcoin addresses.
+  
+  The private key is a long string of characters that is used to authorize Bitcoin transactions. It is often represented as a combination of 12 words (sometimes 24). Only in the correct order do the words result in the corresponding private key.
+  
+  Whoever knows the private key of a bitcoin address can control the bitcoin in that address. Therefore it is important that it is kept secret and never shared with anyone. Ideally, it should be stored offline, so that no unwanted program can access it. &#x20;
+  
+image: ../.gitbook/assets/302-03.png
+
+question: What is the purpose of the private key in a Bitcoin transaction
+answers:
+- answer: To sign transactions and prove ownership of Bitcoins
+  correct: true
+  feedback: Correct! The private key is used to sign transactions and prove ownership of Bitcoins. It's an essential part of the process of sending and receiving Bitcoin payments, and it's important to keep it secret and secure. Good job
+- answer: To verify the ownership of a Bitcoin address
+  correct: false
+  feedback: Almost. **** While the private key can be used to verify the ownership of a Bitcoin address, that's not its primary purpose
+- answer: To make a stranger fall in love by posting it on social media
+  correct: false
+  feedback: Posting it on social media would be like posting your bank account login information online - it's a surefire way to get your Bitcoins stolen. Better stick to more traditional methods of winning someone's heart!

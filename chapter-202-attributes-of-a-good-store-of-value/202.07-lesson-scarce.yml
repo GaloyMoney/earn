@@ -1,0 +1,26 @@
+section: 202
+lesson: 07
+screen: scarce
+title: A monetary good must scarce
+reward: 8
+illustration: 
+text: |
+  A good store of value should have a limited supply, or be scarce.
+  
+  This is because scarcity can create value, as people often desire rare or hard-to-obtain items. Bitcoin, for instance, is designed to have a maximum of 21 million units, which gives each owner a known percentage of the total possible supply.
+  
+  In contrast, the supply of gold can potentially increase through new mining methods, and fiat currencies are often prone to inflation, leading to a decline in value over time.
+  
+image: ../.gitbook/assets/202-07.png
+
+question: What is the most important attribute of a store of value
+answers:
+- answer: Scarcity
+  correct: true
+  feedback: Congratulations! You are correct. Did you know that there will only ever be a maximum of 21 million bitcoins in circulation, making it a scarce and valuable asset
+- answer: Abundance
+  correct: false
+  feedback: Sorry, but abundance is not the most important attribute for a store of value. Better luck next time
+- answer: Ease of production
+  correct: false
+  feedback: Sorry, but ease of production is not the most important attribute for a store of value. Better luck next time!

@@ -1,0 +1,22 @@
+section: 501
+lesson: 06
+screen: strandedEnergy
+title: Wait, are you telling me that bitcoin can be used to tap into stranded energy?
+reward: 16
+illustration: 
+text: |
+  Exactly**.** Bitcoin mining provides a portable solution for utilizing energy assets in regions where there is no local demand or means of transportation. By using onsite equipment to generate hashes, it is possible to produce bitcoin, which can then be held for future value appreciation or sold on the highly liquid and globally accessible bitcoin market.
+  
+image: ../.gitbook/assets/501-06.png
+
+question: How can excess energy be used through bitcoin mining
+answers:
+- answer: By using it to power onsite equipment that generates hashes to produce bitcoin
+  correct: true
+  feedback: Congratulations! You've correctly identified the use of excess energy in bitcoin mining. Did you know that this process can be done in any location, even in areas where there is no local demand for the energy being generated
+- answer: By selling it on the bitcoin market
+  correct: false
+  feedback: I see you're a fan of making money through unconventional means. Too bad that's not what this lesson is about. Try again
+- answer: By creating a new form of renewable energy
+  correct: false
+  feedback: It looks like you're trying to save the world one renewable energy source at a time. While that's admirable, unfortunately that's not the right answer.
