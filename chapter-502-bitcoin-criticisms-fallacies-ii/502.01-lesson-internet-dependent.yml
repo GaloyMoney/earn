@@ -1,0 +1,24 @@
+section: 502
+lesson: 01
+screen: internetDependent
+title: Bitcoin is too dependent on the Internet
+reward: 17
+illustration: 
+text: |
+  There is a risk, of course, that internet access may be lost due to infrastructure failures, natural disasters, or intentional outages. However, it is possible to transact bitcoin using offline methods and other communication networks.&#x20;
+  
+  For instance, a signed bitcoin transaction can be transmitted to a single node and broadcast to the network for inclusion in a block by miners. There are various ways to do this, such as sending a transaction via SMS, using a physical wallet with a one-time use tamper-evident private key, or receiving blocks via satellite. These options allow for bitcoin to be used even in the event of an internet disruption.
+  
+image: ../.gitbook/assets/502-01.png
+
+question: How can bitcoin transactions be sent in the event of an internet disruption
+answers:
+- answer: By sending a transaction via SMS
+  correct: true
+  feedback: You've identified a way to send bitcoin transactions even when the internet is down. Good thinking
+- answer: By posting a message on a social media platform
+  correct: false
+  feedback: Well, it looks like you're trying to stay connected in the digital age even during an internet outage, but that's incorrect
+- answer: By sending an email
+  correct: false
+  feedback: I see you're trying to stay connected through traditional means, but unfortunately sending an email might not be the most reliable way to send bitcoin transactions during an internet outage. Try again!
