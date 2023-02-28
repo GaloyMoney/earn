@@ -1,0 +1,26 @@
+section: 204
+lesson: 01
+screen: notFromGovernment
+title: Money is not a government creation
+reward: 10
+illustration: 
+text: |
+  There is a popular misconception that money is a government creation and cannot exist without government. This is false.&#x20;
+  
+  The history of money goes back thousands of years to times when governments did not exist, but money did.&#x20;
+  
+  This proves that money is emergent and simply the most tradable good in a market. It is not a government creation and certainly does not require a government to make money work.
+  
+image: ../.gitbook/assets/204-01.png
+
+question: What is money
+answers:
+- answer: Money is the most tradable good in any given market.
+  correct: true
+  feedback: Correct. It's interesting to think about how different societies throughout history have used different items as a form of currency, from seashells to cattle to gold. But ultimately, it's the willingness of people to trade and accept an item as payment that determines its value as money
+- answer: Money is a government creation.
+  correct: false
+  feedback: Nope, sorry! Looks like the government isn't as powerful as we thought they were. Better luck next time
+- answer: Money is a magical substance created by fairies.
+  correct: false
+  feedback: Sorry, but it looks like the tooth fairy is the only one making magic money these days. Better luck with your next answer!

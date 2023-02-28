@@ -1,0 +1,24 @@
+section: 204
+lesson: 03
+screen: monetaryMetals
+title: Monetary Metals
+reward: 10
+illustration: 
+text: |
+  Metals were difficult to make, which made them rare. They also lasted longer than other materials like shells, grains, and beads. This made them valuable and easy to carry, or portable.&#x20;
+  
+  As technology improved, especially in the production of metal, humans were able to create more advanced, better forms of money.
+  
+image: ../.gitbook/assets/204-03.png
+
+question: What made metals valuable as a form of money
+answers:
+- answer: Their ability to withstand time and wear.
+  correct: true
+  feedback: Correct! It's impressive to think about how certain materials, like metal, have been able to hold value over centuries and even millennia. Good work
+- answer: Their rarity and difficulty to produce.
+  correct: false
+  feedback: Nice try, but not quite right. Better luck with your next answer
+- answer: Their colorful and decorative appearance.
+  correct: false
+  feedback: Sorry, looks like you were a little off the mark this time. Maybe try focusing on the functional aspects of money rather than its aesthetic appeal.
