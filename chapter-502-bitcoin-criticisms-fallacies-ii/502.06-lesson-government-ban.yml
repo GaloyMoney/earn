@@ -19,7 +19,7 @@ question: Can governments effectively ban bitcoin
 answers:
 - answer: No, because the decentralized nature of the bitcoin network makes it difficult to enforce a ban
   correct: true
-  feedback: Correct. The decentralized nature of the bitcoin network makes it difficult to enforce a ba
+  feedback: Correct. The decentralized nature of the bitcoin network makes it difficult to enforce a ban
 - answer: Yes, by preventing the generation of random numbers
   correct: false
   feedback: Nope, silly! While it is technically possible for governments to ban bitcoin, it would be nearly impossible to enforce such a ban. Try again
