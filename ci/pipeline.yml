@@ -24,8 +24,10 @@ jobs:
       - name: pipeline-tasks
       - name: yml-lessons
         path: repo
+      outputs:
+      - name: repo
       run:
-        path: pipeline-tasks/ci/update-md-files.sh
+        path: pipeline-tasks/ci/tasks/update-md-files.sh
   - put: repo
     params:
       repository: repo
@@ -39,7 +41,7 @@ resources:
 - name: yml-lessons
   type: git
   source:
-    paths: [chapter*/*.yml]
+    paths: [chapter*/*.yml, quiz-page.hb]
     uri: #@ data.values.git_uri
     branch: #@ data.values.git_branch
     private_key: #@ data.values.github_private_key
