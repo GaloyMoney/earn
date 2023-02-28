@@ -1,0 +1,30 @@
+section: 302
+lesson: 06
+screen: proofOfWork
+title: Proof of Work
+reward: 14
+illustration: 
+text: |
+  Decentralized systems, by definition, do not have a single source of truth.
+  
+  Satoshi's breakthrough was to build a system that allows all participants to zero in on the same truth independently. Proof of work is what allows this to happen. The point of proof of work is to create an irrefutable history. If two histories compete, the one with the most work embedded in it wins.
+  
+  The chain with the most work is the truth, by definition. This is called Nakamoto consensus. This works because work requires energy. In Bitcoin, work is computation. Not any kind of computation, but computation that has no shortcut: guessing.&#x20;
+  
+    In the absence of a central authority, proof of work is necessary because it ensures that there is no shortcut to adding transactions to the blockchain.&#x20;
+  
+    Miners must compete to solve the puzzle through brute force computation, which is probabilistic in nature, and the proof that the work has been done becomes self-evident in the outcome of the work. This makes it very difficult for any one person or group to manipulate the transaction history.
+  
+image: ../.gitbook/assets/302-06.png
+
+question: How does the Bitcoin network create a source of truth despite having no central authority
+answers:
+- answer: Through proof of work, which involves miners competing to solve a mathematical puzzle
+  correct: true
+  feedback: Correct! Congrats on understanding how the bitcoin network creates a source of truth that cannot be manipulated by wealthy elites or insiders
+- answer: By holding a lottery among all those that have bitcoins in a wallet
+  correct: false
+  feedback: No, this would be proof of stake, which is a different consensus mechanism that involves choosing the next block producer proportional to their stake (how many coins they hold) in the network. Try again
+- answer: Through a process of majority voting
+  correct: false
+  feedback: Wrong, but it's an interesting idea. The bitcoin network does not use a process of majority voting to create a source of truth. Try again!
