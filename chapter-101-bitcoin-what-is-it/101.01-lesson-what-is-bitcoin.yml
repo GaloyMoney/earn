@@ -12,7 +12,7 @@ answers:
   feedback: Correct. You just earned 1 “sat”!
   correct: true
 - answer: A video game
-  feedback: Incorrec, please try again.
+  feedback: Incorrect, please try again.
   correct: false
 - answer: A new cartoon character
   feedback: Nope. At least not one that we know of!
