@@ -1,0 +1,26 @@
+section: 501
+lesson: 03
+screen: itsnotBacked
+title: Should money be backed by something?
+reward: 16
+illustration: 
+text: |
+  The idea of backed money is contradictory, as the backing itself would then be considered money. Part of the value of money comes from its rarity. Bitcoin does not need to be backed by something else that is rare because it is inherently scarce.&#x20;
+  
+  Verifiable and auditable through independent means, bitcoin is free of counterparty risk. There is no third party that must be trusted to keep and secure commodities or assets. If anything, it is possible that the future will be backed by bitcoin.&#x20;
+  
+  As Parker Lewis stated, "Ultimately, bitcoin is backed by something, and it's the only thing that backs any money: the credibility of its monetary properties."
+  
+image: ../.gitbook/assets/501-03.png
+
+question: What is the only thing that backs any money, according to Parker Lewis
+answers:
+- answer: The credibility of its monetary properties
+  correct: true
+  feedback: Spot on! According to Parker Lewis, the only thing that backs any money is the credibility of its monetary properties
+- answer: Rarity
+  correct: false
+  feedback: That's not quite right. While rarity can certainly contribute to the value of money, it is not the only thing that backs it. Try again
+- answer: The color purple
+  correct: false
+  feedback: That's incorrect. While the color purple may be a beautiful and regal choice for a currency, it does not actually play a role in backing money.
