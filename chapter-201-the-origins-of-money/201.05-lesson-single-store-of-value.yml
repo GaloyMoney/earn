@@ -1,0 +1,26 @@
+section: 201
+lesson: 05
+screen: singleStoreOfValue
+title: The Benefits of Converging on a Single Store of Value
+reward: 7
+illustration: 
+text: |
+  As human societies and trade routes developed over time, stores of value that emerged in different societies began to compete with each other. Merchants and traders had to decide whether to save their profits in the store of value of their own society or in the store of value of the society they were trading with, or a combination of both.
+  
+  Holding savings in a foreign store of value gave merchants the ability to complete trade more easily in that society, and also gave them an incentive to promote the adoption of that store of value in their own society, as it would increase the purchasing power of their savings.
+  
+  When two societies adopt the same store of value, they see a significant reduction in the cost of trading with each other and an increase in trade-based wealth. In the 19th century, most of the world converged on a single store of value – gold – and this period saw the greatest increase in trade in history.
+  
+image: ../.gitbook/assets/201-05.png
+
+question: Why did merchants and traders in early human societies have an incentive to promote the adoption of a foreign store of value in their own society
+answers:
+- answer: To increase the purchasing power of their savings
+  correct: true
+  feedback: Correct! Merchants and traders had an incentive to promote the adoption of a foreign store of value in their own society because it increased the purchasing power of their savings. This not only benefited the merchants, but also the society as a whole, as the adoption of a single store of value reduced the cost of completing trade with other societies and increased trade-based wealth. Fun fact: Bitcoin is an example of a store of value that has been adopted by many societies, and its widespread adoption has increased its purchasing power and facilitated trade
+- answer: To learn about other cultures and societies
+  correct: false
+  feedback: Sorry, that is not the correct answer. While learning about other cultures and societies may have been a side benefit of promoting the adoption of a foreign store of value, it was not the main reason
+- answer: To show off their wealth and status
+  correct: false
+  feedback: I'm afraid that is not the correct answer. While showing off wealth and status may have been a motivation for some individuals, it was not the main reason for why merchants and traders had an incentive to promote the adoption of a foreign store of value in their own society.
