@@ -1,0 +1,28 @@
+section: 103
+lesson: 01
+screen: WhatIsFiat
+title: Fiat Currency: What is that?
+reward: 5
+text: |
+  All national currencies in circulation today are called “fiat” money. This includes US Dollars, Japanese Yen, Swiss Francs, and so forth.\
+  
+  
+  The word “fiat” is latin for “by decree” -- which means “by official order”.\
+  
+  
+  This means that all fiat money -- including the US Dollar -- is simply created by the order of the national government.
+  
+illustration: https://marvelapp.com/8ai4f0h/screen/68484170
+image: ../.gitbook/assets/image (12).png
+
+question: Who creates fiat currencies, such as US Dollars or Swiss Francs?
+answers:
+- answer: They are created by order of the National government in a given country.
+  correct: true
+  feedback: Correct. The central bank of a government creates fiat currencies.
+- answer: By the manager of the local branch bank.
+  correct: false
+  feedback: Not quite. While local banks can give out loans based on credit and create money by doing so, they cannot create fiat currencies. Try again.
+- answer: The Monopoly Money Man.
+  correct: false
+  feedback: Nope. Try again!
