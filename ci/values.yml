@@ -1,7 +1,7 @@
 #@data/values
 ---
 git_uri: git@github.com:GaloyMoney/earn.git
-git_branch: yaml-source-of-truth
+git_branch: main
 github_private_key: ((github.private_key))
 github_token: ((github.api_token))
 git_version_branch: version
