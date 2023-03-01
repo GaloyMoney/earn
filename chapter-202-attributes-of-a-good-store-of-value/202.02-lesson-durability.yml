@@ -15,7 +15,7 @@ text: |
   
 image: ../.gitbook/assets/202-02.png
 
-question: Which of the following is NOT an important factor in determining the durability of a good store of value
+question: Which of the following is an important factor in determining the durability of a good store of value
 answers:
 - answer: The network that secures the currency
   correct: true
