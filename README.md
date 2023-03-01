@@ -4,7 +4,7 @@ description: >-
   smartphone and the easiest way to start holding, sending and receiving bitcoin
   over the Lightning Network.
 ---
-View on gitbook: https://dev.galoy.io/galoy-earn/
+View on gitbook: https://dev.galoy.io/galoy-earn-1/
 
 # Bitcoin Beach Wallet
 
