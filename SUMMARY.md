@@ -93,7 +93,7 @@
   * [302.6 Lesson - proofOfWork](chapter-302-bitcoin-how-does-it-work/302.06-lesson-proof-of-work.md)
   * [302.7 Lesson - difficultyAdjustment](chapter-302-bitcoin-how-does-it-work/302.07-lesson-difficulty-adjustment.md)
   * [302.8 Lesson - halving](chapter-302-bitcoin-how-does-it-work/302.08-lesson-halving.md)
-* [Chapter 401 - Lightning Network](chapter-401-lightning-network/README.md)
+* [Chapter 401 - Lightning: What does it solve?](chapter-401-lightning-network/README.md)
   * [401.1 Lesson - bitcoinDrawbacks](chapter-401-lightning-network/401.01-lesson-bitcoin-drawbacks.md)
   * [401.2 Lesson - blocksizeWars](chapter-401-lightning-network/401.02-lesson-block-size-wars.md)
   * [401.3 Lesson - lightningNetwork](chapter-401-lightning-network/401.03-lesson-lightning-network.md)
