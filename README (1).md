@@ -27,7 +27,7 @@ It is located on the bottom right of the app so it can be accessed easily at any
 
 As a bonus, each completed lesson pays out a reward in real bitcoin directly to the user's balance!
 
-**Developing Earn**: Every day, thousands of Bink users around the world learn basic concepts with Earn that enhance their understanding of bitcoin a bit more. And not only do they learn, they also earn sats for doing so.
+**Developing Earn**: Every day, thousands of Blink users around the world learn basic concepts with Earn that enhance their understanding of bitcoin a bit more. And not only do they learn, they also earn sats for doing so.
 
 The first iteration of Earn covered four basic chapters with lessons and quizzes. In a lesson, users learn a concept. Understanding of the concept is then tested in a quiz. Upon successful completion of the quiz, a bitcoin reward is immediately credited to the user's bitcoin balance.
 
