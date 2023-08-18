@@ -1,8 +1,6 @@
 # Table of contents
 
-* [CC-BY-SA](README.md)
-* [README](<README (1).md>)
-* [Earn Overview](earn-overview.md)
+* [Earn Overview](README.md)
 * [Chapter 101 - Bitcoin: What is it?](chapter-101-bitcoin-what-is-it/README.md)
   * [101.1 Lesson - whatIsBitcoin](chapter-101-bitcoin-what-is-it/101.01-lesson-what-is-bitcoin.md)
   * [101.2 Lesson - sat](chapter-101-bitcoin-what-is-it/101.02-lesson-sat.md)
@@ -143,3 +141,5 @@
   * [603.3 Lesson - malinvestment](chapter-603-bitcoin-and-economics-iii/603.03-lesson-malinvestment.md)
   * [603.4 Lesson - asymmetricPayoff](chapter-603-bitcoin-and-economics-iii/603.04-lesson-asymmetric-payoff.md)
   * [603.5 Lesson - ansoffMatrix](chapter-603-bitcoin-and-economics-iii/603.05-lesson-ansoff-matrix.md)
+* [README](<README (1) (1).md>)
+* [LICENSE](<README (1).md>)
