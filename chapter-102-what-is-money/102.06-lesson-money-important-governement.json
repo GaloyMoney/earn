@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "The US Central Bank (The Federal Reserve)",
+    "Mr Burns from The Simpsons",
+    "A guy with a printing press in his basement"
+  ],
+  "feedback": [
+    "Correct. The US Government can print as much money as they want at any time.",
+    "Incorrect. Although it did seem like he always had a lot of money.",
+    "No. Whilst some people do create fake dollar bills, it is definitely not legal!"
+  ],
+  "id": "moneyImportantGovernement",
+  "question": "Who can legally print US Dollars, anytime they wish?",
+  "text": "Modern-day economies are organized by nation-states: USA, Japan, Switzerland, Brazil, Norway, China, etc.\n  \n  Accordingly, in most every nation, the government holds the power to issue and control money.\n\n\n  In the United States, the Central Bank (known as the Federal Reserve, or “Fed”) can print, or create, more US Dollars at any time it wants.\n\n\n  The “Fed” does not need permission from the President, nor Congress, and certainly not from US citizens.\n\n\n  Imagine if you had the ability to print US Dollars anytime you wanted to -- what would you do??\n",
+  "title": "Money is also important to governments",
+  "type": "Text"
+}

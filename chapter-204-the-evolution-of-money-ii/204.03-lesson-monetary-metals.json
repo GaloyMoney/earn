@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "Their ability to withstand time and wear.",
+    "Their rarity and difficulty to produce.",
+    "Their colorful and decorative appearance."
+  ],
+  "feedback": [
+    "Correct! It's impressive to think about how certain materials, like metal, have been able to hold value over centuries and even millennia. Good work",
+    "Nice try, but not quite right. Better luck with your next answer",
+    "Sorry, looks like you were a little off the mark this time. Maybe try focusing on the functional aspects of money rather than its aesthetic appeal."
+  ],
+  "id": "monetaryMetals",
+  "question": "What made metals valuable as a form of money",
+  "text": "Metals were difficult to make, which made them rare. They also lasted longer than other materials like shells, grains, and beads. This made them valuable and easy to carry, or portable.\n\nAs technology improved, especially in the production of metal, humans were able to create more advanced, better forms of money.\n",
+  "title": "Monetary Metals",
+  "type": "Text"
+}

@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "The Cypherpunks are a group of individuals who seek to use cryptography to promote privacy and security in the digital age",
+    "The Cypherpunks are a group of hackers who aim to steal personal data and sensitive information through the use of cryptography",
+    "The Cypherpunks are a group of cryptographers who seek to create complex mathematical equations that are difficult to solve"
+  ],
+  "feedback": [
+    "Well done! It's interesting to note that the Cypherpunks' goal of using cryptography to promote privacy and security is particularly relevant in today's digital age, where increasing surveillance can lead to the erosion of freedoms",
+    "Sorry, that's not quite right. While the use of cryptography can certainly be beneficial for hackers, the Cypherpunks seek to use cryptography for the opposite purpose. Maybe try again with a different answer",
+    "Nope. While cryptography does involve the use of complex mathematical equations, the Cypherpunks are not primarily interested in creating these equations for their own sake. Try again!"
+  ],
+  "id": "cypherpunks",
+  "question": "Who are the Cypherpunks and what is their goal",
+  "text": "Bitcoin is the result of decades of research work by a group of individuals who call themselves Cypherpunks. They are interested in using cryptography to promote privacy and security in a world where increasing surveillance in the digital age can lead to erosion of freedoms.\n\nEarlier digital cash systems that relied on peer-to-peer (P2P) networks had one or both of the following problems:\n\n  * They required a central authority to manage the ledger of ownership.\n  * The currency units could be copied, resulting in the \"double-spending problem\" where a single unit could be spent multiple times.\n\n  Satoshi addressed both of these issues by combining existing technologies in the creation of Bitcoin. The first issue is resolved because the decentralized nature of the Bitcoin network means that there is no central authority that users need to trust. The second issue is addressed because the unique cryptographic techniques used in Bitcoin make it impossible to copy the currency units.\n",
+  "title": "Bitcoin is the Result of Decades of Research",
+  "type": "Text"
+}

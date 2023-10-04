@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "The shape and quality of diamonds are irregular",
+    "Gold is more valuable than diamonds",
+    "Gold is more abundant than diamonds"
+  ],
+  "feedback": [
+    "Exactly**!** The irregular shape and quality of diamonds makes them less interchangeable than gold, which is why gold is considered more fungible. Did you also know that bitcoin is considered fungible at the network level, but its traceability on the blockchain can sometimes lead to it being treated as non-fungible by merchants or exchanges",
+    "Wrong answer! Gold may be more valuable than diamonds, but that's not the main reason it's considered more fungible. Looks like you need to brush up on your fungibility knowledge",
+    "Nope, sorry! While gold may be more abundant than diamonds, that's not the main reason it's considered more fungible. Better luck next time!"
+  ],
+  "id": "fungibility",
+  "question": "What is the main reason that gold is considered more fungible than diamonds",
+  "text": "\n\"Fungibility\" means that one unit of a currency is interchangeable with another unit of the same currency. This is an important attribute for a good store of value.\n\nGold is a highly fungible store of value, as when melted down, an ounce of gold is essentially indistinguishable from any other. Fiat currencies, on the other hand, may not always be completely fungible, as their issuing institutions may treat different denominations differently.\n\nLike gold, units of bitcoin are fungible, but there are some nuances to it. We'll dive into this in a later chapter.\n",
+  "title": "One specimen should be interchangeable with another of equal quantity",
+  "type": "Text"
+}

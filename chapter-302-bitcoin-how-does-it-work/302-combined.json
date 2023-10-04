@@ -1,0 +1,144 @@
+{
+  "content": [
+    {
+      "answers": [
+        "The blockchain",
+        "The internet",
+        "A decentralized network of nodes"
+      ],
+      "feedback": [
+        "Correct! Satoshi was the first to successfully implement the blockchain - a concept first described in 1991 by Stuart Haber and W. Scott Stornetta. It's a decentralized form of bookkeeping that is resistant to tampering and allows users to make and verify transactions without the need for a central authority",
+        "No. The internet is a global network of interconnected computers, but it was not invented by Satoshi and does not solve issues of centralization and double spends. Try again",
+        "A decentralized network of nodes is an important part of Bitcoin, but it does not solve issues of centralization and double spends by itself. Try again!"
+      ],
+      "id": "peer2Peer",
+      "question": "Which technology did Satoshi implement to solve issues of centralization and double spends",
+      "text": "To solve the earlier mentioned issues of centralization and possible double spends, Satoshi invented a solution based on a decentralized network of nodes.\n\nNodes are computers that are in constant contact with each other. This by itself is nothing new. The internet itself has a similar infrastructure of interconnected nodes.\n\nAll bitcoin nodes, however, store a copy of the ledger of all transactions in the history of the Bitcoin network.\n\nThis new, decentralized form of bookkeeping, called blockchain, was first successfully implemented in Bitcoin and is extremely resistant to tampering.\n",
+      "title": "Peer-to-Peer Network",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "To create a tamper-evident record of all transactions on the blockchain",
+        "To ensure that blocks can be altered or replaced easily",
+        "To make sure that the Artificial Intelligence that created Bitcoin has enough computation power to take over the world"
+      ],
+      "feedback": [
+        "Correct! The cryptographic hash function helps to create a tamper-evident record of all transactions on the blockchain, which can be used to verify the integrity of the data stored on the chain. Did you know that the cryptographic hash function is also an essential part of the proof-of-work mechanism that helps to secure the Bitcoin network",
+        "That's a hilarious idea, but no, the cryptographic hash function actually ensures the opposite. Try again",
+        "Ha! I'm not sure who told you that the Bitcoin blockchain was created by AI, but I think they might have been pulling your leg. Try again!"
+      ],
+      "id": "blockchain",
+      "question": "What is the purpose of the cryptographic hash function in the Bitcoin blockchain",
+      "text": "The Bitcoin blockchain is a distributed database that maintains a continuously growing list of Bitcoin transactions called blocks.\n\nBlocks are anchored to each other through the use of cryptographic hashes. Each block contains a cryptographic hash of the previous block, as well as a timestamp and transaction data. This creates a chain of blocks that are all linked together, with each block building on the one before it.\n\nThe cryptographic hash function ensures that once a block has been added to the chain, it cannot be altered or replaced without also changing all of the subsequent blocks in the chain.\n\nThis creates a tamper-evident record of all transactions that have occurred on the blockchain, which can be used to verify the integrity of the data stored on the chain.\n",
+      "title": "What is a blockchain exactly?",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "To sign transactions and prove ownership of Bitcoins",
+        "To verify the ownership of a Bitcoin address",
+        "To make a stranger fall in love by posting it on social media"
+      ],
+      "feedback": [
+        "Correct! The private key is used to sign transactions and prove ownership of Bitcoins. It's an essential part of the process of sending and receiving Bitcoin payments, and it's important to keep it secret and secure. Good job",
+        "Almost. **** While the private key can be used to verify the ownership of a Bitcoin address, that's not its primary purpose",
+        "Posting it on social media would be like posting your bank account login information online - it's a surefire way to get your Bitcoins stolen. Better stick to more traditional methods of winning someone's heart!"
+      ],
+      "id": "privateKey",
+      "question": "What is the purpose of the private key in a Bitcoin transaction",
+      "text": "Another cornerstone of Bitcoin is Public Key Cryptography that uses a pair of keys - a public key and a private key - to sign transactions and verify the ownership of Bitcoin addresses.\n\nThe private key is a long string of characters that is used to authorize Bitcoin transactions. It is often represented as a combination of 12 words (sometimes 24). Only in the correct order do the words result in the corresponding private key.\n\nWhoever knows the private key of a bitcoin address can control the bitcoin in that address. Therefore it is important that it is kept secret and never shared with anyone. Ideally, it should be stored offline, so that no unwanted program can access it. \n",
+      "title": "Public Key Cryptography",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "To generate an unlimited number of Bitcoin addresses from a single key",
+        "To authorize Bitcoin transactions",
+        "To verify that the supply of all bitcoin in existence does not exceed 21 million"
+      ],
+      "feedback": [
+        "Correct! It's worth noting that, while funds can only be moved with the private key, it might be a good idea to not share the master public key on a public forum to preserve financial privacy. Only share Bitcoin addresses with payers to receive payments",
+        "No, the master public key is not used to authorize Bitcoin transactions. That's the job of the private key. Try again",
+        "No. While every user can independently verify the monetary supply of in the bitcoin network with a bitcoin node, this is not what the master public key is used for. Try again."
+      ],
+      "id": "publicKey",
+      "question": "What is the purpose of a master public key in Bitcoin",
+      "text": "A master public key in Bitcoin is a key that is cryptographically derived from a Bitcoin private key and is used to generate Bitcoin addresses that payers can send Bitcoin to.\n\nIt can be used to generate an unlimited number of Bitcoin addresses from a single master public key.\n\nWhile the private key is used to authorize Bitcoin transactions and therefore needs to be kept private, the Bitcoin addresses derived from the public key can be shared with a payer to receive payments from them.\n\nMaster public keys consist of a long sequence of numbers and letters and begin with xpub, ypub or zpub.\n\nA Bitcoin address for receiving payments starts with either 1, 3 or bc1.\n",
+      "title": "Bitcoin Addresses and the Master Public Key",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "To add transactions to the blockchain and secure the network",
+        "To make a lot of money",
+        "To amass giant amounts of computation power for AI to take over the world"
+      ],
+      "feedback": [
+        "Correct! Miners perform work in the form of computations and compete with other miners for who can add the next block of transactions to the blockchain and earn the block reward",
+        "That's not the main purpose of mining. **** While it's true that miners do receive a reward in bitcoin for their efforts, they also have to pay for the electricity they use to perform computations. Try again",
+        "Wow, that's an ambitious goal! While it's true that mining requires a significant amount of computational power, I'm pretty sure the main purpose is not to create an army of AI overlords. Better luck next time!"
+      ],
+      "id": "mining",
+      "question": "What is the main purpose of mining in the bitcoin network",
+      "text": "When a user wants to send a transaction in the bitcoin network, they need to sign the transaction with their private key to prove that they are the owner of the funds being transferred. Once the transaction is signed, it is broadcasted to the peer-to-peer network.\n\nMining is the process of adding transactions to the bitcoin blockchain. When a transaction is broadcasted to the network, it is picked up by miners, who verify that the transaction is valid (i.e., the user has the necessary funds and the private key used to sign the transaction corresponds to the public key associated with the funds).\n\nOnce a transaction has been verified, it is added to a block of transactions, along with a mathematical puzzle. Miners compete to solve the puzzle, and the first one to solve it gets to add the block to the blockchain and claim a reward in bitcoin. The reward is currently 6.25 bitcoins, plus any transaction fees that were included in the block.\n\nIn addition to adding transactions to the blockchain, mining also serves to secure the bitcoin network. This is because solving the puzzle requires a significant amount of computational power, and adding a block to the blockchain requires other miners to verify the solution. This makes it very difficult for any one person or group to manipulate the blockchain.\n",
+      "title": "Mining",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "Through proof of work, which involves miners competing to solve a mathematical puzzle",
+        "By holding a lottery among all those that have bitcoins in a wallet",
+        "Through a process of majority voting"
+      ],
+      "feedback": [
+        "Correct! Congrats on understanding how the bitcoin network creates a source of truth that cannot be manipulated by wealthy elites or insiders",
+        "No, this would be proof of stake, which is a different consensus mechanism that involves choosing the next block producer proportional to their stake (how many coins they hold) in the network. Try again",
+        "Wrong, but it's an interesting idea. The bitcoin network does not use a process of majority voting to create a source of truth. Try again!"
+      ],
+      "id": "proofOfWork",
+      "question": "How does the Bitcoin network create a source of truth despite having no central authority",
+      "text": "Decentralized systems, by definition, do not have a single source of truth.\n\nSatoshi's breakthrough was to build a system that allows all participants to zero in on the same truth independently. Proof of work is what allows this to happen. The point of proof of work is to create an irrefutable history. If two histories compete, the one with the most work embedded in it wins.\n\nThe chain with the most work is the truth, by definition. This is called Nakamoto consensus. This works because work requires energy. In Bitcoin, work is computation. Not any kind of computation, but computation that has no shortcut: guessing.\n\n  In the absence of a central authority, proof of work is necessary because it ensures that there is no shortcut to adding transactions to the blockchain.\n\n  Miners must compete to solve the puzzle through brute force computation, which is probabilistic in nature, and the proof that the work has been done becomes self-evident in the outcome of the work. This makes it very difficult for any one person or group to manipulate the transaction history.\n",
+      "title": "Proof of Work",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "It is reduced by half",
+        "It is doubled",
+        "It is multiplied by a random number chosen by the bitcoin software"
+      ],
+      "feedback": [
+        "That's right! Satoshi determined the reduction of new bitcoin supply by half in the very first release of the Bitcoin software in 2009 and it is practically impossible to change",
+        "Sorry, but the block reward is not doubled every four years. You must be confusing Bitcoin with the supplies of fiat currencies which are ever expanding at a faster rate. Try again",
+        "Very creative, but wrong. The Bitcoin supply schedule is anything but random. Its predictability provides certainty for economic actors unlike anything in the history of mankind. Try again!"
+      ],
+      "id": "difficultyAdjustment",
+      "question": "What happens to the block reward in the bitcoin network every four years",
+      "text": "A crucial element of the Bitcoin protocol is the Difficulty Adjustment. This algorithm ensures that new blocks are found every 10 minutes on average.\n\nWhen more miners join the network, the average time required to find a new block goes down. In the opposite case, when miners leave the network, it takes longer to add a new block. The Difficulty Adjustment algorithm adjusts the difficulty of the mathematical puzzle to match changes in the combined computing power of all miners. This prevents the creation of more (or less) bitcoin units than the predetermined supply schedule.\n\nThis is in stark contrast to physical mining of precious metals like gold where adding more gold miners leads to a higher supply of gold and therefore a decrease in its price. In Bitcoin however, the addition of new miners only adds more security to the network.\n",
+      "title": "Difficulty Adjustment",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "It is reduced by half",
+        "It is doubled",
+        "It is multiplied by a random number chosen by the bitcoin software"
+      ],
+      "feedback": [
+        "That's right! Satoshi determined the reduction of new bitcoin supply by half in the very first release of the Bitcoin software in 2009 and it is practically impossible to change",
+        "Sorry, but the block reward is not doubled every four years. You must be confusing Bitcoin with the supplies of fiat currencies which are ever expanding at a faster rate. Try again",
+        "Very creative, but wrong. The Bitcoin supply schedule is anything but random. Its predictability provides certainty for economic actors unlike anything in the history of mankind. Try again!"
+      ],
+      "id": "halving",
+      "question": "What happens to the block reward in the bitcoin network every four years",
+      "text": "One final element that is important to understand, is that the block reward in the bitcoin network is reduced by half every four years, or every 210,000 blocks.\n\nThis event, known as the \"halving\", is programmed into the bitcoin software that all users run. When bitcoin was first launched, miners received 50 new bitcoins for each block they added to the blockchain. Currently, the block reward is 6.25 bitcoins, but it will be reduced to 3.125 bitcoins in 2024 when the next halving occurs.\n\nThese halvings will continue to take place until the year 2140, at which point the total number of bitcoins that will have been mined will be capped at 21 million. As of 2023, around 92% of all bitcoins (\\~19.3 million) have already been mined.\n\nUnlike fiat currencies, which can be inflationary, bitcoin is disinflationary in nature. This makes it more scarce than fiat and precious metals such as gold and silver, or anything else known in the universe.\n",
+      "title": "The Halving",
+      "type": "Text"
+    }
+  ],
+  "meta": {
+    "id": "Bitcoin:Howdoesitwork?",
+    "title": "Bitcoin: How does it work?"
+  }
+}

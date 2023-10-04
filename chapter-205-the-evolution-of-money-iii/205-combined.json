@@ -1,0 +1,144 @@
+{
+  "content": [
+    {
+      "answers": [
+        "Because it cannot be destroyed or synthesized from other materials.",
+        "Because it is abundant and easy to find.",
+        "Because it is the most attractive and visually appealing metal."
+      ],
+      "feedback": [
+        "Exactly**.** It's interesting to think about how the qualities of different materials, such as gold's durability and rarity, can make them more valuable and desirable as a form of money. Good job",
+        "Sorry, looks like you got it backwards! Better luck with your next guess",
+        "Wrong! While gold may have a certain aesthetic appeal, it's ultimately its functional qualities that make it a valuable form of money. Better luck with your next answer."
+      ],
+      "id": "convergingOnGold",
+      "question": "Why did the free market choose gold as a form of money",
+      "text": "From all monetary metals, the free market ultimately chose gold as a form of money because it has two important qualities that keep its value stable over long periods of time and across many regions of the world:\n\n1\\) Gold cannot be destroyed, and\n\n2\\) Gold cannot be made from other materials.\n",
+      "title": "Convergence on Gold",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "To allow for the convenient exchange of gold in place of physically transporting it",
+        "To represent a promise to pay a debt",
+        "To transport large amounts of gold"
+      ],
+      "feedback": [
+        "Congratulations! You're a gold exchange genius! Did you know that these paper notes were also known as \"bearer instruments,\" which means that they could be traded and redeemed by anyone in possession of them",
+        "Oh no, it looks like you've got a case of promissory confusion! Better luck next time",
+        "Transporting gold in paper form? That's a bold move."
+      ],
+      "id": "originsOfPaperMoney",
+      "question": "What were paper notes used for during the expansion of trade routes",
+      "text": "Gold can be made into coins or bars of a specific weight and purity. When trade routes expanded, it became riskier to transport large amounts of gold.\n\nAs a solution, paper notes from trusted banks that could be exchanged for gold were used. In 900 CE, Chinese merchants initiated the use of paper currency to avoid having to carry thousands of coins over long distances. They started trading paper receipts from custodians where they had deposited money or goods.\n\nIn the beginning these paper notes were personally registered, but they soon became a written order to pay the amount to whomever had it in their possession (bearer instrument). These notes can be seen as a predecessor to today's banknotes.\n",
+      "title": "The Origins of Paper Money Backed by Gold",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "To allow people to earn money from their gold",
+        "To make it easier for banks to hold large amounts of gold",
+        "To make it easier for banks to make loans"
+      ],
+      "feedback": [
+        "Congratulations! You're a banking history expert! Did you know that Fractional Reserve Banking is a system in which banks are allowed to hold only a fraction of the deposits they receive as reserves, while using the rest to make loans",
+        "Hmm, it looks like you're a little off the mark. Better luck next time",
+        "Sorry, but it looks like you're mixing up your banking systems. Better luck next time!"
+      ],
+      "id": "fractionalReserve",
+      "question": "Why did Fractional Reserve Banking develop",
+      "text": "Fractional Reserve Banking is a system in which banks are allowed to hold only a fraction of the deposits they receive as reserves, while using the rest to make loans.\n\nOne reason this system developed is because people wanted to earn money from their gold, rather than paying to store it.\n\nThey could do this by allowing a bank or vault to lend out their gold and receiving interest payment in return.\n\nIf more people deposited their gold than wanted to take it back, the bank could make more profit by using the same gold as collateral for multiple loans, hence keeping only a fraction of loans in reserve.\n",
+      "title": "The Invention of Fractional Reserve Banking",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "A sudden drain of deposits en masse, leading to systemic fears and drying up of liquidity",
+        "A nice vacation for everyone",
+        "A sudden increase in the price of gasoline"
+      ],
+      "feedback": [
+        "masse, leading to systemic fears and drying up of liquidity",
+        "Sorry, taking a vacation isn't quite the outcome we're looking for here. Better luck next time",
+        "Gas prices might fluctuate for a variety of reasons, but this particular scenario doesn't have much to do with it. Try again!"
+      ],
+      "id": "bankRun",
+      "question": "What is a potential outcome of banks issuing more paper notes than they held deposits",
+      "text": "Banks sometimes issued more paper notes than they had deposits, which could cause problems in the economy. If people started to doubt the solvency of a bank, they might rush to withdraw their money all at once before others do. This is called a bank run.\n\nThe sudden loss of deposits from the bank run could reveal that the bank was using too much leverage through Fractional Reserve Banking. This could cause a lack of liquidity and bring the whole financial system to a stop.\n",
+      "title": "Problems of Fractional Reserve Banking",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "To create a unified national currency and provide a backup plan for other banks",
+        "To sell ice cream and provide a place for people to play games",
+        "To act as a personal stylist and wardrobe consultant for the royal family"
+      ],
+      "feedback": [
+        "Congratulations, you got it right! Did you know that central banks also act as the \"lender of last resort,\" meaning they can give out money when needed to make sure people's deposits are secure",
+        "I'm sorry, but central banks do not sell ice cream or provide a place for people to play games. They have much more important responsibilities",
+        "I'm afraid you are mistaken. Central banks do not act as personal stylists or wardrobe consultants for the royal family. Try again!"
+      ],
+      "id": "modernCentralBanking",
+      "question": "What is the purpose of a central bank",
+      "text": "To counter the problem of bank runs, governments created their own banks called \"central banks.\"\n\nThese central banks have the special power to create money. They act as a backup plan for when commercial banks run out of reserves and need extra money to stay open.\n\nBecause of this function, central banks are also called the \"lenders of last resort,\" meaning they can create and give out money when commercial banks need liquidity to service withdrawals.\n",
+      "title": "Modern Central Banking",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "It made it difficult for governments to borrow money",
+        "It made it hard for people to save money in the bank",
+        "It required governments to hold a petting zoo in their treasury"
+      ],
+      "feedback": [
+        "Yep! The gold standard made it difficult for governments to borrow money because they had to hold a certain amount of gold in reserve in order to issue a certain amount of currency",
+        "I'm sorry, but the gold standard did not make it hard for people to save money in the bank. It was actually a problem for citizens because it did not provide any guarantee that their deposits in the bank would be safe, as the value of their money was dependent on the government's ability to maintain its gold reserves",
+        "An amusing idea, but nonsense nevertheless! Try again."
+      ],
+      "id": "goldBacked",
+      "question": "What was the main problem with the gold standard system for governments and citizens",
+      "text": "In the past, some governments linked the value of their currency to a specific amount of gold, a system known as a \"gold standard.\" This meant that the government had to hold a certain amount of gold in reserve in order to issue a certain amount of currency.\n\nThis system limited the government's ability to borrow money because they could not simply print more currency to cover the cost of borrowing. Governments often borrowed money to finance wars or other expensive projects, but the gold standard made it difficult for them to do so without first accumulating enough gold to back the new currency they wanted to issue.\n\nThe gold standard was also problematic for citizens because it did not provide any guarantee that their deposits in the bank would be safe, as the value of their money was dependent on the government's ability to maintain its gold reserves.\n",
+      "title": "From Gold to Gold-Backed",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "To link the value of other countries' currencies to the value of gold through the US dollar",
+        "To create a new global currency made out of chocolate coins",
+        "To establish a network of trampoline parks in every major city"
+      ],
+      "feedback": [
+        "That's right. The Bretton Woods system was established after World War II in order to address global economic instability and high levels of debt. It linked the value of other countries' currencies to the value of the US dollar, which was itself pegged to the value of gold at a fixed exchange rate",
+        "Sweet idea, but not very practical. Or would you prefer your money to melt away even faster? Try again",
+        "Trampoline parks would have surely made for a great distraction of the public from the strange machinations of the Bretton Woods system. Have you considered applying as an advisor at the IMF or World Bank? Try again!"
+      ],
+      "id": "brettonWoods",
+      "question": "What was the main purpose of the Bretton Woods system",
+      "text": "After World War I and II, many countries were financially exhausted and did not have a lot of money. The United States had a lot of gold because they sold a lot of weapons and other military equipment to other countries during the wars. As a result, the United States controlled about two-thirds of the world's gold.\n\nIn order to fix the global economy, a new system was created where countries would link their own currencies to the value of the US dollar.\n\nThe US dollar, in turn, would be linked to the value of gold. This meant that the value of other countries' currencies would be based on the value of the US dollar, which was based on the amount of gold the United States had.\n",
+      "title": "The Bretton Woods System",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "A type of money that is widely used in international trade and financial transactions",
+        "A currency made out of rainbow-colored paper and glitter",
+        "The currency of the nation that pays the biggest share of the World Trade Organization's budget"
+      ],
+      "feedback": [
+        "Correct! A global reserve currency is a type of money that is widely used in international trade and financial transactions. It is the preferred or most in-demand currency for settling transactions, as it is generally stable and widely accepted",
+        "While most banknotes are made of colorful pieces of paper with strings of glitter as security features in them, this is not what defines a global reserve currency. Try again",
+        "Surely this would benefit the WTO's funding immensely, but this is not how the global reserve currency is defined or chosen. Try again!"
+      ],
+      "id": "globalReserve",
+      "question": "What is a global reserve currency",
+      "text": "A global reserve currency is a type of money that is widely used in international trade and financial transactions. It is the preferred or most in-demand currency for settling transactions, as it is generally stable and widely accepted.\n\nChanges to the global reserve currency can have significant geopolitical implications, as it can affect the balance of power between countries.\n\nThe dominant global reserve currency has typically had a lifespan of several decades, with the US dollar serving as the dominant global reserve currency for much of the 20th century.\n",
+      "title": "The Global Reserve Currency",
+      "type": "Text"
+    }
+  ],
+  "meta": {
+    "id": "TheEvolutionofMoneyIII",
+    "title": "The Evolution of Money III"
+  }
+}

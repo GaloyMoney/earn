@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "Money allows people to buy goods and services today -- and tomorrow.",
+    "Money allows you to go to the moon.",
+    "Money is the solution to all problems."
+  ],
+  "feedback": [
+    "That is right!",
+    "Incorrect. Although that may change in the future ;)",
+    "Not quite. Although some people may believe such, this answer does not address the primary purpose of money."
+  ],
+  "id": "moneyIsImportant",
+  "question": "What is the primary reason money is important?",
+  "text": "Everybody knows that money matters.\n\n\nMost people exchange their time and energy -- in the form of work -- to obtain money. People do so, to be able to buy goods and services today -- and in the future.\n",
+  "title": "Money is important to individuals",
+  "type": "Text"
+}

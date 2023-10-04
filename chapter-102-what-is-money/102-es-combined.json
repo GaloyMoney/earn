@@ -1,0 +1,110 @@
+{
+    "content": [
+        {
+            "answers": [
+                "Porque la gente conf\u00eda en que otras personas valorar\u00e1n el dinero de manera similar.",
+                "Porque tu madre te lo dijo",
+                "Porque un billete de un d\u00f3lar vale su peso en oro"
+            ],
+            "feedback": [
+                "Correcto. \u00a1Esto es lo que permite que el dinero funcione!",
+                "Es muy posible que lo haya hecho. \u00a1Pero esa no es la respuesta correcta aqu\u00ed!",
+                "No. En el pasado se pod\u00edan cambiar d\u00f3lares estadounidenses por oro. Pero esto ya no es el caso."
+            ],
+            "id": "dineroSocialAcuerdo",
+            "question": "\u00bfPor qu\u00e9 el dinero tiene valor?",
+            "text": "El dinero requiere que la gente conf\u00ede. La gente conf\u00eda en los billetes de un d\u00f3lar que lleva en el bolsillo. Conf\u00edan en los d\u00edgitos de su cuenta bancaria en l\u00ednea. Conf\u00edan en que el saldo de una tarjeta de regalo de la tienda se podr\u00e1 canjear. Tener dinero permite a las personas intercambiarlo f\u00e1cilmente por un bien o servicio.\n",
+            "title": "El dinero es un acuerdo social.",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Coincidencia de deseos",
+                "Coincidencia del d\u00eda y la noche.",
+                "Coincidencia de la luna bloqueando el sol."
+            ],
+            "feedback": [
+                "Eso es correcto. El dinero te permite comprar algo f\u00e1cilmente, sin regatear la forma de pago.",
+                "No tonto, sabes que esa no es la respuesta.",
+                "No exactamente. A eso lo llamamos eclipse solar \ud83c\udf1a"
+            ],
+            "id": "coincidenciadequieres",
+            "question": "\u00bfQu\u00e9 coincidencia resuelve el dinero?",
+            "text": "Hace siglos, antes de que la gente tuviera dinero, hac\u00edan trueques o regateaban sobre c\u00f3mo intercambiar un art\u00edculo \u00fanico a cambio de otro art\u00edculo o servicio. Digamos que usted quiere comer en el restaurante local y le ofrece al due\u00f1o una escoba. El propietario podr\u00eda decir \u201cno\u201d, pero en su lugar aceptar\u00e9 tres sombreros, si es que los tienes. \u00a1Puedes imaginar lo dif\u00edcil e ineficiente que ser\u00eda una \u201ceconom\u00eda de trueque\u201d! Por el contrario, con el dinero, simplemente puedes presentar un billete de 20 d\u00f3lares. Y sabes que el due\u00f1o del restaurante lo aceptar\u00e1 de buena gana.\n",
+            "title": "El dinero soluciona la \u201ccoincidencia de deseos\u201d... \u00bf\u00bfQu\u00e9 es eso??",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Piedras, conchas y oro.",
+                "Peque\u00f1as casas de pl\u00e1stico para juegos de mesa Monopoly",
+                "Monedas hechas de chocolate"
+            ],
+            "feedback": [
+                "Correcto. Los art\u00edculos que son raros y dif\u00edciles de copiar a menudo se han utilizado como dinero.",
+                "Equivocado. Es posible que tengan valor al jugar, \u00a1pero no en el mundo real!",
+                "No. Puede que sean sabrosos. Pero no sirven como dinero."
+            ],
+            "id": "dineroEvoluci\u00f3n",
+            "question": "\u00bfCu\u00e1les son algunos elementos que hist\u00f3ricamente se han utilizado como unidad monetaria?",
+            "text": "Hace miles de a\u00f1os, una sociedad de Micronesia utilizaba piedras muy grandes y escasas como forma de moneda acordada. A partir del siglo XVI, las raras conchas de cauri (que se encuentran en el oc\u00e9ano) se empezaron a utilizar com\u00fanmente en muchas naciones como forma de dinero. Y durante milenios, el oro se ha utilizado como forma de dinero en pa\u00edses de todo el mundo, incluido Estados Unidos (hasta 1971).\n",
+            "title": "El dinero ha evolucionado, casi desde el principio de los tiempos.",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Porque tienen caracter\u00edsticas clave, como ser duraderos, uniformes y divisibles.",
+                "Porque son bonitos y brillantes.",
+                "Porque caben dentro de tu bolsillo."
+            ],
+            "feedback": [
+                "Correcto. Otras caracter\u00edsticas clave incluyen ser escasos y port\u00e1tiles.",
+                "Incorrecto. Puede que sea cierto, pero por s\u00ed solos no son grandes caracter\u00edsticas del dinero.",
+                "No exactamente. Aunque estos art\u00edculos seguramente eran port\u00e1tiles, esa por s\u00ed sola no era la raz\u00f3n para usarlos como dinero."
+            ],
+            "id": "por qu\u00e9PiedrasConchaOro",
+            "question": "\u00bfPor qu\u00e9 se utilizaron piedras, conchas y oro como unidades monetarias?",
+            "text": "Bueno, todos estos art\u00edculos ten\u00edan algunas, pero no todas, las caracter\u00edsticas del buen dinero.\n\n\n\nEntonces, \u00bfqu\u00e9 caracter\u00edsticas hacen que el dinero sea \u201cbueno\u201d?\nEscaso: no abundante, ni f\u00e1cil de reproducir o copiar\nAceptado: relativamente f\u00e1cil para las personas verificar su autenticidad.\nDurable: f\u00e1cil de mantener y no se deteriora ni se deshace\nUniforme: f\u00e1cilmente intercambiable con otro elemento de la misma forma.\nPort\u00e1til: f\u00e1cil de transportar\nDivisible: se puede dividir y compartir en partes m\u00e1s peque\u00f1as\n",
+            "title": "\u00bfPor qu\u00e9 en el pasado se utilizaban com\u00fanmente piedras, conchas y oro como dinero?",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "El dinero permite a las personas comprar bienes y servicios hoy y ma\u00f1ana.",
+                "El dinero te permite ir a la luna.",
+                "El dinero es la soluci\u00f3n a todos los problemas."
+            ],
+            "feedback": [
+                "\u00a1Eso es correcto!",
+                "Incorrecto. Aunque eso puede cambiar en el futuro ;)",
+                "No exactamente. Aunque algunas personas puedan creerlo, esta respuesta no aborda el prop\u00f3sito principal del dinero."
+            ],
+            "id": "el dinero es importante",
+            "question": "\u00bfCu\u00e1l es la raz\u00f3n principal por la que el dinero es importante?",
+            "text": "Todo el mundo sabe que el dinero importa.\n\n\nLa mayor\u00eda de la gente intercambia su tiempo y energ\u00eda \u2013en forma de trabajo\u2013 para obtener dinero. La gente lo hace para poder comprar bienes y servicios hoy y en el futuro.\n",
+            "title": "El dinero es importante para las personas.",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "El Banco Central de EE.UU. (La Reserva Federal)",
+                "Se\u00f1or Burns de Los Simpson",
+                "Un tipo con una imprenta en su s\u00f3tano."
+            ],
+            "feedback": [
+                "Correcto. El gobierno de Estados Unidos puede imprimir tanto dinero como quiera en cualquier momento.",
+                "Incorrecto. Aunque parec\u00eda que siempre tuvo mucho dinero.",
+                "No. Aunque algunas personas crean billetes de d\u00f3lares falsos, \u00a1definitivamente no es legal!"
+            ],
+            "id": "dineroImportanteGobierno",
+            "question": "\u00bfQui\u00e9n puede imprimir d\u00f3lares estadounidenses legalmente en cualquier momento que lo desee?",
+            "text": "Las econom\u00edas modernas est\u00e1n organizadas por estados-naci\u00f3n: Estados Unidos, Jap\u00f3n, Suiza, Brasil, Noruega, China, etc.\n  \n  En consecuencia, en casi todos los pa\u00edses, el gobierno tiene el poder de emitir y controlar dinero.\n\n\n  En Estados Unidos, el Banco Central (conocido como Reserva Federal o \u201cFed\u201d) puede imprimir o crear m\u00e1s d\u00f3lares estadounidenses en cualquier momento que desee.\n\n\n  La \u201cFed\u201d no necesita permiso del Presidente, ni del Congreso, y mucho menos de los ciudadanos estadounidenses.\n\n\n  Imag\u00ednese si tuviera la capacidad de imprimir d\u00f3lares estadounidenses en cualquier momento que quisiera, \u00bfqu\u00e9 har\u00eda?\n",
+            "title": "El dinero tambi\u00e9n es importante para los gobiernos",
+            "type": "Texto"
+        }
+    ],
+    "meta": {
+        "id": "\u00bfQu\u00e9 es el dinero?",
+        "title": "\u00bfQu\u00e9 es el dinero?"
+    }
+}

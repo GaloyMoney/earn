@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "Gold",
+    "Bitcoin",
+    "Fiat currency"
+  ],
+  "feedback": [
+    "You are correct. Gold is difficult divide into small quantities for everyday trade. Did you know that gold has been used as a store of value for thousands of years due to its rarity and durability",
+    "Sorry, but that's not quite right. Bitcoin is highly divisible into its base unit 'satoshi', and it can even be divided into milli-satoshis (1/1000 of a satoshi) on the Lightning Network",
+    "Nope**.** While fiat currencies are not as divisible as bitcoin, they are easily divisible into smaller denominations."
+  ],
+  "id": "divisibility",
+  "question": "Which of the following is NOT a good store of value due to its difficulty in being easily divided for day-to-day trade",
+  "text": "The ability to divide a good is an important attribute for it to be a good store of value.\n\nImagine you have a $100 bill and want to buy a pack of chewing gum that costs 10 cents. The success of the trade depends on the seller having $99.90 in change available in that moment.\n\nIn societies where trade is prevalent, the ability to divide a good into smaller quantities allows for more precise exchange and can make it easier to use in day-to-day transactions.\n\nBitcoin is particularly useful in this regard, as it can be divided down to a hundred millionth of a unit and transmitted in tiny and exact amounts.\n\nFiat currencies are typically divisible down to pocket change, which has little purchasing power, making fiat divisible enough in practice.\n\nGold, while physically divisible, can be difficult to use in small quantities for everyday trade.\n",
+  "title": "The good must be easy to subdivide",
+  "type": "Text"
+}

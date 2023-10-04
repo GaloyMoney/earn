@@ -1,0 +1,93 @@
+{
+    "content": [
+        {
+            "answers": [
+                "Dinero Digital",
+                "Un videojuego",
+                "Un nuevo personaje de dibujos animados"
+            ],
+            "feedback": [
+                "Correcto. \u00a1Acabas de ganar 1 \u201csat\u201d!",
+                "Incorrecto por favor int\u00e9ntelo de nuevo.",
+                "No. \u00a1Al menos no uno que sepamos!"
+            ],
+            "id": "\u00bfQu\u00e9 es Bitcoin?",
+            "question": "Entonces, \u00bfqu\u00e9 es exactamente Bitcoin?",
+            "text": "Bitcoin es dinero digital. Se puede transferir de forma instant\u00e1nea y segura entre dos personas cualesquiera en el mundo, sin necesidad de que haya un banco ni ninguna otra empresa financiera en el medio.",
+            "title": "Entonces, \u00bfqu\u00e9 es exactamente Bitcoin?",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "La unidad m\u00e1s peque\u00f1a de Bitcoin",
+                "Un peque\u00f1o sat\u00e9lite",
+                "Un gato espacial \ud83d\udc31\ud83d\ude80"
+            ],
+            "feedback": [
+                "Correcto. \u00a1\u00a1Acabas de ganar otros dos sats!!",
+                "Quiz\u00e1s\u2026 pero esa no es la respuesta correcta en este contexto \ud83d\ude42",
+                "Ummm... \u00a1no del todo!"
+            ],
+            "id": "se sent\u00f3",
+            "question": "Acabo de obtener un \"Sat\". \u00bfQu\u00e9 es eso?",
+            "text": "Un \"Sat\" es la unidad m\u00e1s peque\u00f1a de un bitcoin. Todos sabemos que un d\u00f3lar estadounidense se puede dividir en 100 centavos. De manera similar, un Bitcoin se puede dividir en 100.000.000 de sats. De hecho, no es necesario poseer un bitcoin completo para poder utilizarlo. Puedes usar bitcoin ya sea que tengas 20 sats, 3000 sats o 100.000.000 de sats (que ahora sabes que equivalen a un bitcoin).\n",
+            "title": "Acabo de obtener un \"Sat\". \u00bfQu\u00e9 es eso?",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "En Internet",
+                "En la Luna",
+                "En una cuenta de banco federal"
+            ],
+            "feedback": [
+                "Correcto. Acabas de obtener otros 5 sats.",
+                "Incorrecto. Bueno\u2026 al menos no todav\u00eda ;)",
+                "Equivocado. Int\u00e9ntalo de nuevo."
+            ],
+            "id": "donde existeBitcoin",
+            "question": "\u00bfD\u00f3nde existen los bitcoins?",
+            "text": "Bitcoin es una nueva forma de dinero. Puede ser utilizado por cualquier persona, en cualquier momento y en cualquier parte del mundo. No est\u00e1 vinculado a ning\u00fan gobierno o regi\u00f3n espec\u00edfica (como los d\u00f3lares estadounidenses). Tampoco hay billetes de papel, monedas de metal ni tarjetas de pl\u00e1stico. Todo es 100% digital. Bitcoin es una red de computadoras que se ejecutan en Internet. \u00a1Sus bitcoins se administran f\u00e1cilmente con el software de su tel\u00e9fono inteligente o computadora!\n",
+            "title": "\u00bfD\u00f3nde existen los bitcoins?",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Una comunidad voluntaria de usuarios de todo el mundo.",
+                "Se\u00f1or Burns de Los Simpson",
+                "El gobierno de Francia"
+            ],
+            "feedback": [
+                "Eso es correcto. Bitcoin es posible gracias a personas de todo el mundo que ejecutan software bitcoin en sus computadoras y tel\u00e9fonos inteligentes.",
+                "Un pensamiento divertido, \u00a1pero no correcto!",
+                "Equivocado. No existe ninguna empresa ni gobierno que controle Bitcoin."
+            ],
+            "id": "qui\u00e9ncontrolaBitcoin",
+            "question": "\u00bfQui\u00e9n controla Bitcoin?",
+            "text": "Bitcoin no est\u00e1 controlado por ninguna persona, empresa o gobierno. Est\u00e1 dirigido por la comunidad de usuarios (personas y empresas de todo el mundo) que ejecutan voluntariamente software bitcoin en sus computadoras y tel\u00e9fonos inteligentes.\n",
+            "title": "\u00bfQui\u00e9n controla Bitcoin?",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "No, es imposible copiar o duplicar el valor de bitcoin",
+                "S\u00ed, puedes copiar bitcoins tan f\u00e1cilmente como copiar una fotograf\u00eda digital",
+                "S\u00ed, pero copiar bitcoins requiere computadoras muy especializadas"
+            ],
+            "feedback": [
+                "copiar o duplicar el valor de bitcoin",
+                "Sabes que no es verdad. Intentar otra vez.",
+                "Incorrecto. No hay forma de que nadie copie o cree un duplicado de bitcoin."
+            ],
+            "id": "copiarBitcoin",
+            "question": "Si Bitcoin es dinero digital, \u00bfno puede alguien simplemente copiarlo y crear dinero gratis?",
+            "text": "El valor de un bitcoin nunca se puede copiar. \u00a1Esta es la raz\u00f3n por la que Bitcoin es un nuevo invento tan poderoso! La mayor\u00eda de los archivos digitales, como una fotograf\u00eda de iPhone, una canci\u00f3n MP3 o un documento de Microsoft Word, se pueden duplicar y compartir f\u00e1cilmente. El software Bitcoin previene de manera \u00fanica la duplicaci\u00f3n (o \u201cdoble gasto\u201d) del dinero digital. \u00a1Compartiremos exactamente c\u00f3mo funciona esto m\u00e1s adelante!\n",
+            "title": "Si Bitcoin es dinero digital, \u00bfno puede alguien simplemente copiarlo y crear dinero gratis?",
+            "type": "Texto"
+        }
+    ],
+    "meta": {
+        "id": "Bitcoin: \u00bfQu\u00e9 es?",
+        "title": "Bitcoin: \u00bfQu\u00e9 es?"
+    }
+}

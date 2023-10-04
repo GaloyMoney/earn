@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "The code is heavily scrutinized and rigorously developed, ensuring its security and transparency",
+    "The fact that it is open source allows for a meritocracy and encourages the \"hive mind\" to build solutions",
+    "It is backed by a large and influential group of investors"
+  ],
+  "feedback": [
+    "That's exactly right! The code of bitcoin is indeed heavily scrutinized and rigorously developed, which adds to its value. In fact, @BTCSchellingPt noted that Bitcoin Core is probably one of the most heavily scrutinized code bases in the world",
+    "Nice try, but the value of bitcoin lies not only in its code but also in the community and infrastructure surrounding it. Better luck next time",
+    "Sorry, the value of bitcoin is not solely determined by the backing of a group of investors. Better luck next time!"
+  ],
+  "id": "canBeDuplicated",
+  "question": "What is the main reason that bitcoin is considered valuable despite the fact that its code can be copied by anyone",
+  "text": "One argument against the value of bitcoin is that it is not scarce because there are thousands of other cryptocurrencies available and because anyone can copy the code and create their own version.\n\nHowever, this overlooks the fact that bitcoin is more than just a piece of code. It is an open source protocol for transferring value that attracts people and resources due to its transparency and rigorous development process.\n\nAs @BTCSchellingPt noted, \"open source is very much a meritocracy. You've got the hive mind building solutions. You get all that scrutiny and that comes back to security. Bitcoin Core is probably one of the most heavily scrutinized code bases in the world.\"\n\nIn other words, the value of bitcoin lies not only in its code, but also in the community and infrastructure that surrounds it.\n",
+  "title": "Bitcoin is not scarce because there are thousands of cryptocurrencies",
+  "type": "Text"
+}

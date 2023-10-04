@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "To add transactions to the blockchain and secure the network",
+    "To make a lot of money",
+    "To amass giant amounts of computation power for AI to take over the world"
+  ],
+  "feedback": [
+    "Correct! Miners perform work in the form of computations and compete with other miners for who can add the next block of transactions to the blockchain and earn the block reward",
+    "That's not the main purpose of mining. **** While it's true that miners do receive a reward in bitcoin for their efforts, they also have to pay for the electricity they use to perform computations. Try again",
+    "Wow, that's an ambitious goal! While it's true that mining requires a significant amount of computational power, I'm pretty sure the main purpose is not to create an army of AI overlords. Better luck next time!"
+  ],
+  "id": "mining",
+  "question": "What is the main purpose of mining in the bitcoin network",
+  "text": "When a user wants to send a transaction in the bitcoin network, they need to sign the transaction with their private key to prove that they are the owner of the funds being transferred. Once the transaction is signed, it is broadcasted to the peer-to-peer network.\n\nMining is the process of adding transactions to the bitcoin blockchain. When a transaction is broadcasted to the network, it is picked up by miners, who verify that the transaction is valid (i.e., the user has the necessary funds and the private key used to sign the transaction corresponds to the public key associated with the funds).\n\nOnce a transaction has been verified, it is added to a block of transactions, along with a mathematical puzzle. Miners compete to solve the puzzle, and the first one to solve it gets to add the block to the blockchain and claim a reward in bitcoin. The reward is currently 6.25 bitcoins, plus any transaction fees that were included in the block.\n\nIn addition to adding transactions to the blockchain, mining also serves to secure the bitcoin network. This is because solving the puzzle requires a significant amount of computational power, and adding a block to the blockchain requires other miners to verify the solution. This makes it very difficult for any one person or group to manipulate the blockchain.\n",
+  "title": "Mining",
+  "type": "Text"
+}

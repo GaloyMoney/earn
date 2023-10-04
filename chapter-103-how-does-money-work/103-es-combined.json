@@ -1,0 +1,93 @@
+{
+    "content": [
+        {
+            "answers": [
+                "Se crean por orden del gobierno Nacional de un pa\u00eds determinado.",
+                "Por el gerente de la sucursal bancaria local.",
+                "El hombre del dinero del monopolio."
+            ],
+            "feedback": [
+                "Correcto. El banco central de un gobierno crea monedas fiduciarias.",
+                "No exactamente. Si bien los bancos locales pueden otorgar pr\u00e9stamos basados en cr\u00e9dito y generar dinero al hacerlo, no pueden crear monedas fiduciarias. Intentar otra vez.",
+                "No. \u00a1Intentar otra vez!"
+            ],
+            "id": "\u00bfQu\u00e9 es Fiat?",
+            "question": "\u00bfQui\u00e9n crea monedas fiduciarias, como d\u00f3lares estadounidenses o francos suizos?",
+            "text": "Todas las monedas nacionales que circulan hoy en d\u00eda se denominan dinero \"fiduciario\". Esto incluye d\u00f3lares estadounidenses, yenes japoneses, francos suizos, etc.\n\n\nLa palabra \"fiat\" en lat\u00edn significa \"por decreto\", que significa \"por orden oficial\".\n\n\nEsto significa que todo el dinero fiduciario, incluido el d\u00f3lar estadounidense, se crea simplemente por orden del gobierno nacional.\n",
+            "title": "Moneda fiduciaria: \u00bfqu\u00e9 es eso?",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Las autoridades gubernamentales eventualmente abusan de toda moneda fiduciaria.",
+                "Es posible que los bancos locales no tengan suficiente espacio en b\u00f3veda para guardar todos los billetes de un d\u00f3lar.",
+                "Puede que no haya suficientes \u00e1rboles para fabricar papel para todos los billetes de un d\u00f3lar adicionales."
+            ],
+            "feedback": [
+                "Correcto. A lo largo de la historia, los gobiernos no han podido resistirse a la posibilidad de imprimir dinero, ya que en la pr\u00e1ctica no tienen obligaci\u00f3n de devolver ese dinero.",
+                "No, ciertamente ese no es el caso.",
+                "Equivocado. Int\u00e9ntalo de nuevo."
+            ],
+            "id": "por qu\u00e9Preocuparse por el dinero fiat",
+            "question": "\u00bfPor qu\u00e9 deber\u00eda preocuparme que el gobierno controle el dinero fiduciario?",
+            "text": "Como se comparti\u00f3 en un cuestionario anterior, el Banco Central de EE. UU. es la Reserva Federal o la \u201cFed\u201d.\n\n\nLa Reserva Federal puede imprimir m\u00e1s d\u00f3lares en cualquier momento, y no necesita permiso del Presidente, ni del Congreso, y mucho menos de los ciudadanos estadounidenses.\n\n\nTener el control del dinero puede ser muy tentador para que las autoridades abusen de \u00e9l y, a menudo, el tiempo conduce a una inflaci\u00f3n masiva, confiscaciones arbitrarias y corrupci\u00f3n.\n\n\nDe hecho, Alan Greenspan, el famoso ex presidente de la Reserva Federal, dijo que Estados Unidos \u201cpuede pagar cualquier deuda que tenga, porque siempre podemos imprimir m\u00e1s para hacerlo\u201d.\n",
+            "title": "Conf\u00edo en mi gobierno. \u00bfPor qu\u00e9 deber\u00eda preocuparme por el dinero fiduciario?",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "La impresi\u00f3n de dinero adicional conduce a la inflaci\u00f3n.",
+                "La gente debe cambiar billetes viejos de d\u00f3lares en el banco todos los a\u00f1os.",
+                "La apariencia del billete de un d\u00f3lar cambia."
+            ],
+            "feedback": [
+                "Correcto. Esto significa que los bienes y servicios costar\u00e1n m\u00e1s en el futuro.",
+                "No. Los billetes de un d\u00f3lar m\u00e1s antiguos son tan v\u00e1lidos como los m\u00e1s nuevos.",
+                "Incorrecto. Aunque el gobierno puede emitir nuevos tipos de billetes, esto no tiene nada que ver con aumentar la oferta monetaria."
+            ],
+            "id": "GobiernoPuedeImprimirDinero",
+            "question": "\u00bfQu\u00e9 significa cuando el gobierno imprime dinero?",
+            "text": "Bueno, \u00a1a todos deber\u00eda importarles!\n\n\nLa pr\u00e1ctica de que el gobierno imprima dinero (o aumente la oferta de d\u00f3lares) conduce a la inflaci\u00f3n.\n\n\nLa inflaci\u00f3n es un aumento en el precio de bienes y servicios. En otras palabras, el precio de algo en el futuro ser\u00e1 m\u00e1s caro que hoy.\n\n\nEntonces, \u00bfqu\u00e9 significa la inflaci\u00f3n para los ciudadanos?\n\n\nEn el Reino Unido, la libra esterlina ha perdido el 99,5% de su valor desde su introducci\u00f3n hace m\u00e1s de 300 a\u00f1os.\n\n\nEn Estados Unidos, el d\u00f3lar ha perdido el 97% de su valor desde el final de la Primera Guerra Mundial, hace unos 100 a\u00f1os.\n\n\nEsto significa que un filete que costaba $0,30 en 1920... costaba $3 en 1990... \u00a1y alrededor de $15 hoy, en el a\u00f1o 2020!\n",
+            "title": "\u00bfA qui\u00e9n deber\u00eda importarle que el gobierno pueda imprimir dinero ilimitado?",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Cada moneda fiduciaria que alguna vez existi\u00f3 ha perdido una enorme cantidad de valor.",
+                "El valor sigue siendo el mismo para siempre.",
+                "La apariencia y el dise\u00f1o de las facturas en papel se actualizan aproximadamente cada 10 a\u00f1os."
+            ],
+            "feedback": [
+                "Correcto. Esto es v\u00e1lido incluso para el d\u00f3lar, que ha perdido el 97% de su valor durante los \u00faltimos 100 a\u00f1os.",
+                "Incorrecto. Int\u00e9ntalo de nuevo.",
+                "No exactamente. Aunque el dise\u00f1o de los billetes en papel puede cambiar, esto no tiene nada que ver con su valor."
+            ],
+            "id": "Fiat pierde valor con el tiempo",
+            "question": "\u00bfQu\u00e9 sucede con el valor de todo el dinero fiduciario con el tiempo?",
+            "text": "Eso es correcto.\n\n\nEn la historia del mundo, se han creado 775 monedas fiduciarias. La mayor\u00eda ya no existe y la vida media de cualquier dinero fiduciario es de s\u00f3lo 27 a\u00f1os.\n\n\nLa libra esterlina es la moneda fiduciaria m\u00e1s antigua. Ha perdido m\u00e1s del 99% de su valor desde 1694.\n\n\nNo existe ning\u00fan precedente de que el dinero fiduciario mantenga su valor a lo largo del tiempo. Esto es inflaci\u00f3n.\n\u00a1Es efectivamente una forma de robo del dinero que tanto le cost\u00f3 ganar!\n",
+            "title": "\u00bfSignifica esto que todo el dinero fiduciario pierde valor con el tiempo?",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "El dinero es dif\u00edcil de mover por el mundo y, adem\u00e1s, puede ser vigilado.",
+                "El dinero ya no es necesario en el siglo XXI.",
+                "El dinero es la ra\u00edz del mal."
+            ],
+            "feedback": [
+                "Correcto. Explicaremos m\u00e1s sobre estos temas en m\u00f3dulos de prueba posteriores. \u00a1\u00a1Sigue cavando!!",
+                "Respuesta incorrecta. Sabes que eso no es cierto.",
+                "Si bien algunos pueden creer que esto es as\u00ed, no es la respuesta que buscamos aqu\u00ed."
+            ],
+            "id": "Otros asuntos",
+            "question": "\u00bfCu\u00e1les son algunos otros problemas que existen con el dinero fiduciario?",
+            "text": "S\u00ed, existen muchos otros problemas con el dinero fiduciario moderno.\n\n\nEn primer lugar, puede resultar extremadamente dif\u00edcil mover dinero por todo el mundo. A menudo, los gobiernos restringen abiertamente el movimiento (y en ocasiones incluso confiscan dinero) sin una raz\u00f3n o explicaci\u00f3n v\u00e1lida. E incluso cuando puedes enviar dinero, las altas tarifas de transacci\u00f3n lo hacen muy costoso.\n\n\nEn segundo lugar, incluso en Estados Unidos ha habido una p\u00e9rdida total de privacidad, ya que la mayor parte del comercio se realiza con tarjetas de d\u00e9bito y cr\u00e9dito, as\u00ed como en l\u00ednea con otros sistemas como PayPal y Apple Pay.\n\n\n\u00bfAlguna vez has notado c\u00f3mo aparece un anuncio en tus redes sociales o Gmail momentos despu\u00e9s de buscar un determinado producto o servicio? Esto se conoce como \u201ccapitalismo de vigilancia\u201d y se basa en empresas que venden sus datos financieros personales.\n",
+            "title": "Bien, el dinero fiduciario pierde valor con el tiempo. \u00bfHay otros problemas?",
+            "type": "Texto"
+        }
+    ],
+    "meta": {
+        "id": "\u00bfC\u00f3mo funciona el dinero?",
+        "title": "\u00bfC\u00f3mo funciona el dinero?"
+    }
+}

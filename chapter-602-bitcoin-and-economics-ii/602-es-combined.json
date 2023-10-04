@@ -1,0 +1,110 @@
+{
+    "content": [
+        {
+            "answers": [
+                "El costo de no poder hacer otra cosa cuando eliges hacer una cosa",
+                "Un tipo de costo que solo se aplica a los due\u00f1os de negocios.",
+                "El costo de comprar un auto nuevo."
+            ],
+            "feedback": [
+                "\u00a1Felicidades! Lo hiciste bien. \u00bfSab\u00eda que el costo de oportunidad puede ayudarle a tomar mejores decisiones financieras al considerar las compensaciones involucradas en diferentes opciones?",
+                "\u00a1Equivocado! El costo de oportunidad se aplica a cualquiera que tome una decisi\u00f3n, no s\u00f3lo a los due\u00f1os de negocios. Tal vez intente nuevamente y piense en las compensaciones involucradas en la toma de decisiones.",
+                "\u00a1Ja! Eso no es del todo bien. El costo de comprar un autom\u00f3vil nuevo es un tipo espec\u00edfico de gasto, no es lo mismo que el costo de oportunidad. Tal vez intente nuevamente y piense en el concepto de compensaciones en la toma de decisiones."
+            ],
+            "id": "costo de oportunidad",
+            "question": "\u00bfQu\u00e9 es el costo de oportunidad?",
+            "text": "El costo de oportunidad es la idea de que cuando eliges hacer una cosa, no puedes hacer otra. En otras palabras, cada vez que tomas una decisi\u00f3n financiera, tienes que intercambiar una opci\u00f3n por otra.\n\nBitcoin puede ayudarle a tomar mejores decisiones financieras a largo plazo porque es una buena forma de almacenar valor (como ahorrar dinero). Esto significa que si eliges invertir en bitcoins, es posible que tengas que dejar de usar ese dinero para otras cosas u oportunidades. Pero si conserva su bitcoin, tiene el potencial de aumentar su valor con el tiempo.\n\nEsto es especialmente importante en este momento porque el sistema monetario tradicional (llamado \"fiat\") no es una forma confiable de ahorrar dinero: est\u00e1 dise\u00f1ado de una manera que hace que el valor del dinero baje con el tiempo. Por eso, es importante tomar decisiones financieras cuidadosas para preservar su patrimonio.\n",
+            "title": "Costo de oportunidad",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "La cantidad de valor que le das al presente frente al futuro.",
+                "Preferencia por hacer las cosas a una hora espec\u00edfica del d\u00eda.",
+                "Preferencia por viajar en el tiempo"
+            ],
+            "feedback": [
+                "\u00a1Felicidades! Lo hiciste bien. \u00bfSab\u00eda que hay muchos factores que pueden influir en su preferencia temporal, como la seguridad personal, las tasas impositivas, los derechos de propiedad y la capacidad de almacenar valor de manera confiable?",
+                "\u00a1Equivocado! La preferencia horaria tiene que ver con la toma de decisiones, no con una hora espec\u00edfica del d\u00eda. Tal vez intente nuevamente y piense en c\u00f3mo el horizonte temporal en el que est\u00e1 operando puede afectar sus elecciones.",
+                "\u00a1Ja! Los viajes en el tiempo siguen siendo ciencia ficci\u00f3n, lo siento. Tal vez intente nuevamente y piense en c\u00f3mo el horizonte temporal en el que est\u00e1 operando puede afectar sus elecciones."
+            ],
+            "id": "preferencia de tiempo",
+            "question": "\u00bfQu\u00e9 es la preferencia temporal?",
+            "text": "La preferencia temporal es la idea de que la cantidad de tiempo que tienes que esperar hasta que suceda algo puede afectar las decisiones que tomas.\n\nPor ejemplo, si valoras m\u00e1s el presente que el futuro, es m\u00e1s probable que elijas algo que te proporcione una gratificaci\u00f3n inmediata.\n\nPor otro lado, si valoras m\u00e1s el futuro, es posible que est\u00e9s dispuesto a esperar m\u00e1s por algo que tenga un mayor beneficio a largo plazo.\n\nHay muchos factores que pueden influir en su preferencia temporal, como su seguridad personal, tasas impositivas, derechos de propiedad y la capacidad de almacenar valor de manera confiable.\n\nLa \"dureza\" del dinero (qu\u00e9 tan bien mantiene su valor en el tiempo) tambi\u00e9n es importante porque puede alentar a las personas a ahorrar, planificar e invertir para el futuro. Es importante tener en cuenta que la preferencia temporal no es algo fijo: puede cambiar seg\u00fan los incentivos de su entorno.\n",
+            "title": "Preferencia de tiempo",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Como capital perfectamente m\u00f3vil, Bitcoin altera la l\u00f3gica de las naciones soberanas para dirigir la pol\u00edtica monetaria internacional al hacer que los controles de capital sean imposibles de aplicar.",
+                "Debido a su oferta fija, la existencia de Bitcoin facilita que las naciones soberanas establezcan tipos de cambio fijos.",
+                "Los gobiernos restringir\u00e1n la discusi\u00f3n sobre el trilema Mundell-Fleming porque la expresi\u00f3n es m\u00e1s f\u00e1cil de censurar que los pagos transfronterizos."
+            ],
+            "feedback": [
+                "hacer cumplir.",
+                "El l\u00edmite de 21 millones es realmente fascinante, pero la existencia de Bitcoin en realidad hace que sea m\u00e1s dif\u00edcil para las naciones establecer tipos de cambio fijos. Intentar otra vez",
+                "Si bien eso es completamente posible, por supuesto, no es el resultado m\u00e1s probable en este caso. \u00a1Intentar otra vez!"
+            ],
+            "id": "imposibleTrinidad",
+            "question": "\u00bfC\u00f3mo afecta la existencia de Bitcoin al trilema Mundell-Fleming?",
+            "text": "La Trinidad Imposible, tambi\u00e9n conocida como el Trilema Mundell-Fleming, es un concepto que explica las compensaciones involucradas en el establecimiento de la pol\u00edtica monetaria internacional para una naci\u00f3n soberana.\n\nDice que un pa\u00eds s\u00f3lo puede elegir dos de las tres opciones siguientes: tipos de cambio fijos, flujos de capital libres y pol\u00edtica monetaria independiente.\n\n  Estas tres opciones no pueden perseguirse al mismo tiempo. Esto se debe a que los flujos de capital de un pa\u00eds, o el movimiento de dinero dentro y fuera del pa\u00eds, pueden verse influenciados por el valor de su moneda y su pol\u00edtica monetaria, que establece las reglas sobre cu\u00e1nto dinero est\u00e1 en circulaci\u00f3n.\n\n  A medida que el capital se vuelve m\u00e1s m\u00f3vil y puede moverse libremente a trav\u00e9s de las fronteras, a un pa\u00eds le resulta m\u00e1s dif\u00edcil controlar y dirigir sus flujos de capital. El auge del bitcoin, una moneda digital sin fronteras e inmune a los cambios de valor, puede desafiar a\u00fan m\u00e1s la capacidad de un pa\u00eds para establecer una pol\u00edtica monetaria.\n",
+            "title": "La Trinidad imposible",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "El fen\u00f3meno del mayor consumo de un recurso debido a una mayor eficiencia.",
+                "Un tipo de fruta que lleva el nombre de un economista.",
+                "Una paradoja que afirma que cuanto m\u00e1s tenemos de algo, menos lo queremos"
+            ],
+            "feedback": [
+                "\u00a1Correcto! Bien hecho, tienes un conocimiento firme de la paradoja de Jevons. Dato curioso: el fen\u00f3meno lleva el nombre de William Stanley Jevons, un economista ingl\u00e9s que lo describi\u00f3 por primera vez en el siglo XIX.",
+                "\u00a1Equivocado! Lo sentimos, no existe la fruta Jevons. Tendr\u00e1s que encontrar tu sustento en otra parte.",
+                "Lo siento, eso no est\u00e1 del todo bien. La paradoja de Jevons en realidad afirma que una mayor eficiencia puede conducir a un mayor consumo, no a una disminuci\u00f3n del deseo de un recurso. Pero bueno, \u00a1al menos est\u00e1s pensando parad\u00f3jicamente!"
+            ],
+            "id": "jevonsParadoja",
+            "question": "\u00bfQu\u00e9 es la paradoja de Jevons?",
+            "text": "La paradoja de Jevons es un fen\u00f3meno que ocurre cuando usamos m\u00e1s un recurso, incluso cuando lo estamos usando de manera m\u00e1s eficiente. Esto sucede porque una mayor eficiencia a menudo conduce a menores costos, lo que puede aumentar la demanda del recurso.\n\nUn ejemplo de esto es el uso del carb\u00f3n como fuente de energ\u00eda. A finales del siglo XVIII, la gente pensaba que los dep\u00f3sitos de carb\u00f3n se estaban agotando, pero la m\u00e1quina de vapor de James Watt hizo posible utilizar el carb\u00f3n de manera m\u00e1s eficiente. Esto provoc\u00f3 un aumento de la demanda de carb\u00f3n, a pesar de que se utilizaba de forma m\u00e1s eficiente. Tambi\u00e9n es importante considerar la relaci\u00f3n entre energ\u00eda y dinero.\n\nAlgunas personas han propuesto utilizar la energ\u00eda como medida del valor del dinero, pero esto no ha tenido \u00e9xito en la pr\u00e1ctica. Bitcoin, por otro lado, utiliza un sistema llamado prueba de trabajo, que incentiva a las personas a usar la energ\u00eda de manera eficiente para obtener recompensas.\n\nSi bien algunas personas critican el uso de la energ\u00eda de esta manera, es importante recordar que los humanos constantemente encontramos nuevas formas de generar energ\u00eda y no debemos asumir que la energ\u00eda es un recurso fijo o limitado.\n",
+            "title": "Paradoja de Jevons",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Una ley de potencia en econom\u00eda.",
+                "Un tipo de plato de pasta.",
+                "Una forma de doblar la ropa"
+            ],
+            "feedback": [
+                "\u00a1Buen trabajo! El principio de Pareto, tambi\u00e9n conocido como regla 80\/20, es una ley potencial que explica c\u00f3mo una peque\u00f1a cantidad de algo (como el 20% de los productores) puede tener un gran impacto (como el 80% de la cuota de mercado).",
+                "Lo siento, pero parece que necesitas repasar tus habilidades econ\u00f3micas y no tus habilidades culinarias. El principio de Pareto no es un tipo de pasta, aunque puede ser una forma sabrosa de recordarlo",
+                "Me temo que tendr\u00e1s que guardar la ropa y prestar un poco m\u00e1s de atenci\u00f3n a la econom\u00eda. El principio de Pareto no es una forma de doblar la ropa, pero es una forma \u00fatil de comprender c\u00f3mo peque\u00f1os cambios en una cosa pueden conducir a cambios mayores en otra."
+            ],
+            "id": "poderLeyes",
+            "question": "\u00bfQu\u00e9 es el principio de Pareto, tambi\u00e9n conocido como regla 80\/20, un ejemplo de",
+            "text": "Las leyes de potencia son una forma de entender c\u00f3mo se relacionan dos cosas. Cuando una cosa cambia, la otra cambia de una manera relacionada con el primer cambio. Las leyes de potencia pueden aparecer en diferentes \u00e1reas, como el lenguaje, la biolog\u00eda y el espacio. Peque\u00f1os cambios en una cosa a menudo pueden conducir a cambios mayores en otra cosa.\n\nEn econom\u00eda, las leyes de potencia a menudo se muestran en gr\u00e1ficos. Un ejemplo de ley potencial es el principio de Pareto, que dice que alrededor del 80% de los resultados provienen del 20% de las cosas que los causan. En un mercado, esto podr\u00eda significar que el 20% de los productores constituyen el 80% del mercado.\n\nLas leyes de energ\u00eda tambi\u00e9n se pueden ver en otras partes de bitcoin, como la cantidad de energ\u00eda que tienen los grupos de miner\u00eda o la cantidad de billeteras de hardware que venden las diferentes empresas. Tambi\u00e9n se pueden ver en c\u00f3mo se distribuye bitcoin entre diferentes direcciones.\n",
+            "title": "Leyes de poder",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Porque es la forma m\u00e1s l\u00edquida y la mejor de almacenar valor.",
+                "Porque sabe mejor",
+                "Porque tiene el color m\u00e1s bonito."
+            ],
+            "feedback": [
+                "Lo hiciste bien. La raz\u00f3n principal por la que la gente suele estar de acuerdo en usar un tipo de dinero en un \u00e1rea determinada es porque es la forma m\u00e1s l\u00edquida y mejor de almacenar valor.",
+                "Me temo que podr\u00edas estar confundiendo dinero con tu sabor de helado favorito. Intentar otra vez",
+                "Lo sentimos, pero el color del dinero no es el factor m\u00e1s importante para determinar qu\u00e9 tipo usar. \u00a1Mejor suerte la pr\u00f3xima vez!"
+            ],
+            "id": "El ganador lo toma todo",
+            "question": "\u00bfCu\u00e1l es la raz\u00f3n principal por la que la gente suele estar de acuerdo en utilizar un tipo de dinero en un \u00e1rea determinada?",
+            "text": "El concepto de efectos en el que el ganador se lo lleva todo se produce cuando s\u00f3lo un producto o servicio es el mejor y todos quieren utilizarlo. Esto puede suceder en mercados donde una peque\u00f1a ventaja puede llevar a quedarse con todo el negocio.\n\nEl dinero es una red como esta, donde solo se usa un tipo de dinero en un \u00e1rea determinada porque es el m\u00e1s \u00fatil y tiene m\u00e1s opciones para comerciar con otras personas. Esto sucede porque las personas quieren utilizar el dinero que les brinde m\u00e1s opciones y que sea m\u00e1s \u00fatil en muchas situaciones diferentes.\n\nEl dinero tambi\u00e9n es una buena manera de almacenar valor durante mucho tiempo. Cuando se trata de sistemas monetarios, la gente suele estar de acuerdo en utilizar un tipo de dinero porque es el m\u00e1s l\u00edquido o el m\u00e1s f\u00e1cil de usar, y es la mejor manera de almacenar valor.\n",
+            "title": "Efectos de que el ganador se lo lleva todo",
+            "type": "Texto"
+        }
+    ],
+    "meta": {
+        "id": "BitcoinyEconom\u00edaII",
+        "title": "Bitcoin y Econom\u00eda II"
+    }
+}

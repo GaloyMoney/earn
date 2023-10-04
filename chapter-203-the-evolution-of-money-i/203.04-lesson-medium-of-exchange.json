@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "The first time bitcoin had market value",
+    "The invention of pineapple as a pizza topping",
+    "again"
+  ],
+  "feedback": [
+    "You got it right. Bitcoin Pizza Day is celebrated to mark the first time that bitcoin had market value, which was when Laszlo Hanyecz traded 10,000 bitcoins for two pizzas. It's an important event in the evolution of bitcoin",
+    "While pineapple is a beautiful fruit, it has no place on a real pizza! Apart from this side note, your answer is wrong. Try again",
+    "Sorry, the best pizza recipe is a matter of personal preference. While pizza is always delicious, it's not the focus of Bitcoin Pizza Day. Maybe try considering the significance of the event in the history of bitcoin."
+  ],
+  "id": "mediumOfExchange",
+  "question": "What is Bitcoin Pizza Day celebrated for",
+  "text": "When money is used to store value, its value becomes stable eventually. And when the value of money is stable, it becomes the best option to facilitate trade as it's easy to use and doesn't have the coordination burden of barter.\n\nIn the early days of Bitcoin in 2010, some people did not recognize the opportunity cost to use Bitcoin as a medium of exchange rather than a nascent store of value.\n\nThere is a famous story about Laszlo Hanyecz who traded 10,000 bitcoins (which were worth about $165 million at the time of this writing) for just two pizzas. When Laszlo acquired those pizzas, it marked the first time that bitcoin had market value.\n\nToday, Laszlo's pizza is celebrated globally on May 22 as Bitcoin Pizza Day as an important step and milestone in the evolution of bitcoin as money.\n",
+  "title": "Four Stages of Money: Medium of Exchange",
+  "type": "Text"
+}

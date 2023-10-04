@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "When merchants are willing to accept it as payment without considering the exchange rate with other currencies",
+    "When it is used to buy ice cream",
+    "When it is used to play games with friends"
+  ],
+  "feedback": [
+    "Congrats! For bitcoin to be considered a unit of account, it needs to be widely accepted as a form of payment without regard to its exchange rate with other currencies. This means that merchants would be willing to accept it as payment without considering the value of bitcoin in terms of other currencie",
+    "I'm sorry, but while ice cream is delicious, it's not quite the right answer. Maybe try considering other factors that could affect the acceptance of bitcoin as a unit of account",
+    "Playing games with friends is always fun, but unfortunately it's not the correct answer. Maybe try thinking about what it would take for bitcoin to be widely accepted as a form of payment.\""
+  ],
+  "id": "unitOfAccount",
+  "question": "How can bitcoin be considered a unit of account",
+  "text": "When money is commonly used for trading, goods are priced in terms of it. This means that most goods can be exchanged for money at a certain rate.\n\nIt is not accurate to say that many goods can be bought with bitcoin today. For example, while a cup of coffee might be available for purchase using bitcoin, the price listed is not the true value of bitcoin. Instead, it is the dollar price that the merchant wants, converted into bitcoin based on the current exchange rate between dollars and bitcoin.\n\nIf the value of bitcoin goes down in terms of dollars, the merchant will ask for more bitcoin to equal the same dollar amount.\n\nBitcoin can only be considered a unit of account (a standard way to measure the value of goods) when merchants are willing to accept it for payment without considering the exchange rate with other currencies.\n",
+  "title": "Four Stages of Money: Unit of Account",
+  "type": "Text"
+}

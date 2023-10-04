@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "No. Bitcoin is completely “decentralized”.",
+    "Yes. It is centrally controlled by the United Nations.",
+    "Yes. It is centrally controlled by the world’s largest banks."
+  ],
+  "feedback": [
+    "That is correct. There is no company, government or institution that controls bitcoin. Anyone can use bitcoin — all need is a smartphone and an internet connection.",
+    "Wrong answer. Please try again.",
+    "Incorrect. You already know this is not true!"
+  ],
+  "id": "Decentralized",
+  "question": "Is bitcoin centralized?",
+  "text": "Fiat money is controlled by banks and governments — which is why people refer to it as a “centralized” currency.\n\nBitcoin is not controlled by any person, government or company — which makes it “decentralized”\n\nNot having banks involved means that nobody can deny you access to bitcoin — because of race, gender, income, credit history, geographical location — or any other factor.\n\nAnybody — anywhere in the world — can access and use Bitcoin anytime you want. All you need is a computer or smartphone, and an internet connection. In fact, even a feature phone with no internet can utilize Bitcoin with services like Machankura!\n",
+  "title": "Special Characteristic",
+  "type": "Text"
+}

@@ -1,0 +1,110 @@
+{
+    "content": [
+        {
+            "answers": [
+                "Enviando una transacci\u00f3n v\u00eda SMS",
+                "Publicando un mensaje en una plataforma de redes sociales.",
+                "Enviando un correo electr\u00f3nico"
+            ],
+            "feedback": [
+                "Ha identificado una forma de enviar transacciones de bitcoins incluso cuando Internet no funciona. Buen pensamiento",
+                "Bueno, parece que est\u00e1s intentando mantenerte conectado en la era digital incluso durante un corte de Internet, pero eso es incorrecto.",
+                "Veo que est\u00e1s intentando mantenerte conectado a trav\u00e9s de medios tradicionales, pero desafortunadamente enviar un correo electr\u00f3nico puede no ser la forma m\u00e1s confiable de enviar transacciones de bitcoins durante una interrupci\u00f3n de Internet. \u00a1Intentar otra vez!"
+            ],
+            "id": "internetDependiente",
+            "question": "\u00bfC\u00f3mo se pueden enviar transacciones de bitcoins en caso de una interrupci\u00f3n de Internet?",
+            "text": "Por supuesto, existe el riesgo de que se pierda el acceso a Internet debido a fallas en la infraestructura, desastres naturales o cortes intencionales. Sin embargo, es posible realizar transacciones con bitcoins utilizando m\u00e9todos fuera de l\u00ednea y otras redes de comunicaci\u00f3n.\n\nPor ejemplo, una transacci\u00f3n de bitcoin firmada puede transmitirse a un solo nodo y transmitirse a la red para que los mineros la incluyan en un bloque. Hay varias formas de hacer esto, como enviar una transacci\u00f3n a trav\u00e9s de SMS, usar una billetera f\u00edsica con una clave privada de uso \u00fanico a prueba de manipulaciones o recibir bloques v\u00eda sat\u00e9lite. Estas opciones permiten el uso de bitcoins incluso en caso de una interrupci\u00f3n de Internet.\n",
+            "title": "Bitcoin depende demasiado de Internet",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "No",
+                "S\u00ed",
+                "Depende de las circunstancias individuales."
+            ],
+            "feedback": [
+                "\u00a1Bien hecho! Ha identificado correctamente que no es exacto afirmar que las propiedades de bitcoin han provocado un aumento general de la actividad delictiva.",
+                "Veo que eres fan\u00e1tico de los titulares sensacionalistas y de sacar conclusiones precipitadas. Desafortunadamente, eso no se basa en la realidad.",
+                "Parece que est\u00e1 intentando adoptar un enfoque equilibrado, pero no es exacto hacer esta afirmaci\u00f3n independientemente de las circunstancias individuales. Intentar otra vez."
+            ],
+            "id": "solo para el crimen",
+            "question": "\u00bfEs exacto afirmar que las propiedades de bitcoin han provocado un aumento general de la actividad delictiva?",
+            "text": "Bitcoin es una herramienta neutral para intercambiar valor y no tiene creencias, opiniones o valores inherentes. Su significado est\u00e1 determinado por c\u00f3mo se usa. No es exacto afirmar que las propiedades de bitcoin han llevado a un aumento general de la actividad criminal.\n\nLa delincuencia no surge del acceso a herramientas, sino de circunstancias individuales. Si bitcoin es \u00fatil, cualquiera puede usarlo, incluidos los delincuentes. Si no es \u00fatil, nadie puede utilizarlo, ni siquiera los delincuentes.\n\nComo afirm\u00f3 Parker Lewis: \"No hay nada inherente en las herramientas utilizadas para facilitar los delitos que los convierta en criminales en s\u00ed mismos. A pesar del uso criminal, nadie pide la prohibici\u00f3n de las carreteras, Internet, el correo, etc.\"\n",
+            "title": "Bitcoin es para criminales",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "es una forma de dinero",
+                "es un esquema ponzi",
+                "Es un esquema de inversi\u00f3n de c\u00f3digo abierto."
+            ],
+            "feedback": [
+                "\u00a1Felicidades! Obtuviste algunos sats por identificar correctamente que bitcoin es una forma de dinero. \u00bfSab\u00edas que bitcoin fue la primera moneda digital descentralizada que se cre\u00f3 y opera sin un banco central ni un administrador \u00fanico?",
+                "\u00a1Ah, ja! \u00a1Ca\u00edste en el viejo truco del esquema Ponzi! Es broma, pero en serio, eso no es lo que es bitcoin",
+                "\u00a1No, lo siento! Bitcoin no es un plan de inversi\u00f3n de c\u00f3digo abierto. Pero bueno, al menos est\u00e1s aprendiendo sobre esto, \u00bfverdad?"
+            ],
+            "id": "esquema ponzi",
+            "question": "\u00bfCu\u00e1l de las siguientes afirmaciones es cierta sobre bitcoin?",
+            "text": "Llamar a Bitcoin un esquema Ponzi muestra una falta de comprensi\u00f3n tanto de Bitcoin como de la definici\u00f3n de un esquema Ponzi. Un esquema Ponzi implica promesas de rendimientos superiores a los del mercado a los inversores, pero como red sin permiso, bitcoin no tiene una autoridad central que pueda hacer tales promesas.\n\nAdem\u00e1s, bitcoin no es un plan de inversi\u00f3n, es una forma de dinero. A diferencia de las oportunidades de inversi\u00f3n opacas que pueden promocionarse entre personas desprevenidas, el c\u00f3digo de bitcoin es de c\u00f3digo abierto y su suministro puede verificarse de forma independiente en todo momento.\n",
+            "title": "Bitcoin es un esquema Ponzi",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Los pagos con tarjeta de cr\u00e9dito pasan por varias partes antes de llegar al comerciante, mientras que los pagos con bitcoins van directamente al destinatario sin intermediarios.",
+                "Los pagos con tarjeta de cr\u00e9dito son definitivos una vez confirmados, mientras que los pagos con bitcoins se pueden revertir",
+                "pero al menos est\u00e1s aprendiendo sobre bitcoin"
+            ],
+            "feedback": [
+                "\u00a1Felicidades! Has desbloqueado el m\u00e1ximo dominio en pagos con bitcoins. Parece comprender que Bitcoin opera sin un banco central ni un administrador \u00fanico.",
+                "Oh oh, parece que es posible que hayas recibido la respuesta equivocada, pero al menos est\u00e1s aprendiendo sobre bitcoin.",
+                "\u00a1No, lo siento! Los pagos con tarjeta de cr\u00e9dito est\u00e1n siendo censurados todo el tiempo, pero buen intento. \u00a1Sigue aprendiendo sobre bitcoin!"
+            ],
+            "id": "bitcoinisDemasiado lento",
+            "question": "\u00bfCu\u00e1l es la principal diferencia entre pagar con tarjeta de cr\u00e9dito y pagar con bitcoin en cadena?",
+            "text": "No es lo mismo pagar con bitcoin que utilizar una tarjeta de cr\u00e9dito para realizar una compra. Cuando utiliza una tarjeta de cr\u00e9dito, su pago pasa por varias partes antes de llegar a la cuenta bancaria del comerciante despu\u00e9s de d\u00edas o incluso semanas de procesamiento.\n\nPor el contrario, cuando pagas con bitcoin en la cadena de bloques principal, est\u00e1s enviando dinero real directamente al destinatario sin intermediarios. Esto significa que no hay riesgo de censura y la transacci\u00f3n se considera definitiva una vez que ha sido confirmada por seis bloques en la cadena de bloques.\n\nLa comparaci\u00f3n adecuada ser\u00eda entre la capa base de bitcoin y la Reserva Federal como emisor de moneda y como mecanismo de compensaci\u00f3n.\n\nDesde la llegada de Lightning Network, la cr\u00edtica de que \"Bitcoin es demasiado lento\" se ha silenciado en gran medida.\n",
+            "title": "Bitcoin es demasiado lento",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "A trav\u00e9s de un proceso de consenso descentralizado en el que cada transacci\u00f3n es validada de forma independiente por nodos de la red.",
+                "A trav\u00e9s de un proceso centralizado en el que una \u00fanica autoridad controla la emisi\u00f3n de nuevas monedas.",
+                "Fijando la oferta m\u00e1xima en un n\u00famero arbitrario, como 100 millones"
+            ],
+            "feedback": [
+                "\u00a1Felicidades! Has desbloqueado el m\u00e1ximo dominio en el suministro de bitcoins. \u00bfSab\u00edas que la naturaleza descentralizada de la red bitcoin permite una mayor transparencia, ya que cada transacci\u00f3n es validada de forma independiente por los nodos de la red?",
+                "\u00a1No, lo siento! El suministro de Bitcoin no est\u00e1 controlado por una autoridad central. Intentar otra vez",
+                "Oh oh, parece que es posible que hayas obtenido la respuesta incorrecta. La oferta m\u00e1xima de bitcoins se fija en 21 millones, no en 100 millones. \u00a1Pero al menos est\u00e1s aprendiendo sobre bitcoin!"
+            ],
+            "id": "l\u00edmite de suministro",
+            "question": "\u00bfC\u00f3mo se protege el suministro de bitcoins contra la corrupci\u00f3n?",
+            "text": "La naturaleza descentralizada de Bitcoin permite que cada nodo de la red valide su suministro de forma independiente, lo que garantiza que no pueda corromperse. Esto se logra mediante un proceso de consenso en el que cada transacci\u00f3n que se ha confirmado en la red bitcoin se valida de forma independiente.\n\nSi bien cualquiera puede bifurcar el c\u00f3digo y realizar cambios en las reglas, es poco probable que esta versi\u00f3n del c\u00f3digo sea adoptada por la red en general. El proceso de consenso descentralizado y el suministro incorruptible de bitcoin son cruciales para su atractivo como forma de dinero.\n\nEl suministro m\u00e1ximo de bitcoins est\u00e1 fijado en 21 millones, y cualquier intento de aumentar este l\u00edmite requerir\u00eda el consenso de una parte importante de la red bitcoin, lo que es muy poco probable que suceda.\n",
+            "title": "El l\u00edmite de oferta de Bitcoin podr\u00eda estar corrupto",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "No, porque la naturaleza descentralizada de la red bitcoin dificulta la aplicaci\u00f3n de una prohibici\u00f3n.",
+                "S\u00ed, evitando la generaci\u00f3n de n\u00fameros aleatorios.",
+                "S\u00ed, cerrando Internet."
+            ],
+            "feedback": [
+                "Correcto. La naturaleza descentralizada de la red bitcoin dificulta la aplicaci\u00f3n de una prohibici\u00f3n.",
+                "\u00a1No, tonto! Si bien es t\u00e9cnicamente posible que los gobiernos proh\u00edban el bitcoin, ser\u00eda casi imposible hacer cumplir dicha prohibici\u00f3n. Intentar otra vez",
+                "Oh oh, parece que es posible que hayas obtenido la respuesta incorrecta. Cerrar Internet no necesariamente impedir\u00eda que la gente use bitcoin."
+            ],
+            "id": "gobiernoProhibici\u00f3n",
+            "question": "\u00bfPueden los gobiernos prohibir efectivamente el bitcoin?",
+            "text": "Es t\u00e9cnicamente posible que los gobiernos proh\u00edban Bitcoin, pero hacer cumplir dicha prohibici\u00f3n ser\u00eda dif\u00edcil debido a la naturaleza descentralizada de la red Bitcoin.\n\nBitcoin se basa en claves privadas, que son simplemente n\u00fameros aleatorios, para controlar el acceso a las transacciones registradas en la cadena de bloques. Estas claves privadas se pueden generar y almacenar en cualquier lugar, lo que las hace en gran medida indetectables.\n\nAdem\u00e1s, la infraestructura necesaria para acceder a la red bitcoin es relativamente simple y est\u00e1 ampliamente disponible, lo que facilita que las personas verifiquen las transacciones sin confianza.\n\nComo dijo Saifedean Ammous, \"Prohibir bitcoin no es muy diferente de intentar prohibir las matem\u00e1ticas. Simplemente demostrar\u00e1 su utilidad y atraer\u00e1 a m\u00e1s personas\".\n",
+            "title": "Los gobiernos prohibir\u00e1n Bitcoin",
+            "type": "Texto"
+        }
+    ],
+    "meta": {
+        "id": "BitcoinCr\u00edticas y falaciasII",
+        "title": "Cr\u00edticas y falacias de Bitcoin II"
+    }
+}

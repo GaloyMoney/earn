@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "By using a network of intermediaries to route payments between users",
+    "By using teleportation to instantly transfer bitcoin from one user to another",
+    "By using a virtual reality simulation to simulate the transfer of bitcoin between users"
+  ],
+  "feedback": [
+    "Correct! This is like delivering a package from one person to another by passing it along a series of friendly postmen! Congrats",
+    "Hah no, this isn't science-fiction from Star Trek, but real world cryptographic engineering! Try again",
+    "May I interest you for a simulation of a simulation? Jokes aside, this isn't it. Try again!"
+  ],
+  "id": "routing",
+  "question": "How does the Lightning Network allow users to pay each other if they are not directly connected through a payment channel",
+  "text": "You may be thinking that setting up a payment channel with hundreds of businesses could be tedious, but no. The beauty of the Lightning Network is that it is a network of channels stitched together.\n\nLet us say Bob convinced his friend Carol to also join the Lightning Network. Alice has a channel with Bob, and Bob has a channel with Carol. Alice and Carol can then pay each other by “routing” through Bob.\n\nSome pretty clever cryptographic tricks guarantee that Bob cannot steal the money while it’s passing through him.\n\nWhen you make a payment on the Lightning Network, your node searches for a path of channels between you and your destination. This is what’s referred to as routing. This is of course all done automatically by the involved Lightning nodes, enabling it to happen in the blink of an eye.\n",
+  "title": "Routing",
+  "type": "Text"
+}

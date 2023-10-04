@@ -1,0 +1,144 @@
+{
+  "content": [
+    {
+      "answers": [
+        "It takes too long to confirm transactions",
+        "It is difficult to use",
+        "It is not a trusted intermediary"
+      ],
+      "feedback": [
+        "Correct! Great job! You may be pleased to hear that solutions have been deployed to improve the settlement time of Bitcoin payments to a few seconds.&#x20",
+        "Wrong! But you are forgiven, Bitcoin is actually very easy to use. Try again",
+        "Wrong! But don't worry, Bitcoin actually allows anyone to send value without a trusted intermediary. Try again!"
+      ],
+      "id": "bitcoinDrawbacks",
+      "question": "What is a drawback of Bitcoin's design",
+      "text": "Bitcoin, the world's most widely used and valuable digital currency, allows anyone to send value without a trusted intermediary.\n\nThere are, however, some drawbacks to bitcoin's design which prioritizes security and decentralization at the cost of scalability.\n\nTransactions confirmed on the bitcoin blockchain take up to one hour before they are irreversible.\n\nMicropayments, or payments less than a few cents, are inconsistently confirmed, and fees render such transactions unviable on the network today.\n\nCurrently, Bitcoin's blockchain can process around 3 transactions per second. This is generally seen as an impediment for Bitcoin to become a currency that facilitates the everyday retail transactions of millions around the world.\n",
+      "title": "Drawbacks of Bitcoin",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "Whether or not to increase the blocksize",
+        "Whether or not to censor certain transactions",
+        "Whether or not to change the consensus algorithm to proof of stake"
+      ],
+      "feedback": [
+        "Correct. The users ultimately prevailed in preserving the decentralization and censorship-resistance of the Bitcoin network, showing that Bitcoin is controlled by users, not corporations",
+        "Not quite. Both sides were publicly in favor of preserving censorship-resistance, however companies in the Bitcoin ecosystem were willing to accept some centralization in exchange for quick wins in scalability. Try again",
+        "Haha, but no. While there are some dubious voices that demand the abolishment of proof of work in favor of proof of stake, this was never a debate in Bitcoin, and never will be. Try again."
+      ],
+      "id": "blocksizeWars",
+      "question": "What was the contention in the Blocksize Wars",
+      "text": "These drawbacks lead to a debate within the Bitcoin community about the best way to scale the Bitcoin network, often dubbed the Blocksize Wars.\n\nCompanies in the Bitcoin ecosystem argued that increasing the blocksize, which is the maximum size of a block of transactions on the blockchain, would allow more transactions to be processed per second, making the network more efficient and able to handle a larger volume of transactions.\n\nBitcoin users on the other side of the debate argued that increasing the blocksize would centralize the network, as it would require more expensive and powerful computers to process the larger blocks, and could potentially lead to Bitcoin becoming prone to censorship.\n\nThe users ultimately prevailed in preserving the decentralization and censorship-resistance of the Bitcoin network and demonstrated that Bitcoin is controlled by users, not corporations. This also meant that scaling Bitcoin would require a different enigneering solution than merely increasing the blocksize.\n",
+      "title": "The Blocksize Wars",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "It allows users to make small, near instant payments at low cost",
+        "It helps users preserve the decentralization of the Bitcoin network",
+        "It ensures that every transaction is added to the Bitcoin blockchain"
+      ],
+      "feedback": [
+        "Correct! The Lightning Network allows users to make small, near instant payments at low cost, and it eliminates the need for every transaction to be added to the Bitcoin blockchain. Congrats! As a fun fact, the Lightning Network has helped increase the adoption of Bitcoin by allowing it to process more transactions per second and handle higher volumes of transactions",
+        "Incorrect! The Lightning Network is actually a scaling solution built on top of the Bitcoin protocol. Try again",
+        "Incorrect! The Lightning Network actually eliminates the need for every transaction to be added to the Bitcoin blockchain, as it allows for smaller payments to be made off-chain."
+      ],
+      "id": "lightningNetwork",
+      "question": "What does the Lightning Network do",
+      "text": "While users prevailed and preserved the decentralization of the Bitcoin network, a solution to scale Bitcoin proposed by researchers Tadge Dryja and Joseph Poon, called the Lightning Network, started to gain traction and was launched in 2017.\n\nThe Lightning Network, often referred to as just Lightning or LN, is a scaling solution built on top of the Bitcoin protocol. It facilitates smaller, near instant payments between users at very low cost and eliminates the need for every transaction to be added to the Bitcoin blockchain whilst ensuring that the value being transacted abides by the rules of the Bitcoin network.\n",
+      "title": "The Lightning Network",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "A matter of seconds",
+        "10 minutes",
+        "1 hour"
+      ],
+      "feedback": [
+        "Correct! This makes the Lightning Network a great option for situations where you need to make a payment immediately, such as retail transactions or peer-to-peer payments",
+        "Incorrect! On the Bitcoin network, transactions are grouped into blocks that are added to the blockchain about every 10 minutes. However, on the Lightning Network, payments do not need to wait for block confirmations to be considered secure. Try again",
+        "Incorrect! On the Bitcoin network, payments are considered secure after they have been confirmed by six blocks, or about an hour. However, on the Lightning Network, payments do not need to wait for block confirmations to be considered secure."
+      ],
+      "id": "instantPayments",
+      "question": "How long does it take for a payment to be considered secure on the Lightning Network",
+      "text": "In the Bitcoin network, transactions are grouped together in blocks, and new blocks are added to the blockchain about every 10 minutes. When a payment is made using Bitcoin, it is considered secure after it has been confirmed by six blocks, or about an hour.\n\nOn the Lightning Network, payments do not have to wait for block confirmations to be considered secure. Instead, they are instant and completed all at once in a matter of few seconds.\n\nThis makes it possible to use the Lightning Network for retail transactions, peer-to-peer payments, or any other situation where you need to make a payment immediately.\n",
+      "title": "Instant Payments",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "A payment for a small amount of money, often less than a dollar",
+        "A payment that requires a minimum amount and fixed fee",
+        "A payment made using the Lightning Network"
+      ],
+      "feedback": [
+        "Exactly! These types of payments can be difficult to make using traditional financial systems or the Bitcoin network, as they often have minimum amounts that can be transferred and fixed fees that can make small payments impractical",
+        "Nope**.** While traditional financial systems may require a minimum amount and fixed fee for payments, the Lightning Network allows for the possibility of making very small payments without these limitations",
+        "Not quite! While the Lightning Network does allow for the possibility of making micropayments, a micropayment is not defined as a payment made using the Lightning Network. Try again!"
+      ],
+      "id": "micropayments",
+      "question": "What is a micropayment",
+      "text": "Micropayments refer to very small financial transactions, often for amounts less than a dollar. These types of payments can be difficult to make using traditional financial systems, as they often have minimum amounts that can be transferred and fixed fees that can make small payments impractical.\n\nThe Lightning Network allows for the possibility of making micropayments using Bitcoin. It enables users to send very small amounts of Bitcoin, down to 1 sat, without the risk of losing control of their funds to a third party (called \"custodial risk\").&#x20;\n\nIn contrast, the Bitcoin blockchain currently has minimum transaction amounts and fees that make micropayments impractical. The Lightning Network allows for minimal payments denominated in Bitcoin, using actual Bitcoin transactions. This opens up the possibility of creating new markets and making small payments more practical.\n",
+      "title": "Micropayments",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "To meet the demand for retail and automated payments",
+        "To make Bitcoin more attractive to investors",
+        "To get the required licences for interoperability with financial institutions"
+      ],
+      "feedback": [
+        "That's right. The Lightning Network helps the Bitcoin network achieve scalability by allowing users to conduct nearly unlimited transactions off-chain on a second layer",
+        "That's not it! While improving the attractiveness of Bitcoin to investors could be a benefit of improving scalability, it is not the main reason why scalability is important for the Bitcoin network",
+        "Try again! **** Obtaining required licenses for interoperability with financial institutions may be a goal for some organizations working with Bitcoin, but it is not directly related to the concept of scalability."
+      ],
+      "id": "scalability",
+      "question": "Why is scalability important for the Bitcoin network",
+      "text": "Scalability refers to the ability of a system, such as a network or platform, to handle a large amount of usage or traffic without experiencing issues or slowdowns.\n\nScalability is important for Bitcoin because the network will need to be able to support a much higher volume of transactions in order to meet the demand of retail and automated payments.\n\nThe Lightning Network allows users to conduct nearly unlimited transactions between each other outside of the Bitcoin blockchain, or off-chain.\n\nThis means that transactions can be conducted without the need for each one to be recorded on the blockchain, which helps to reduce the load on the network and allows it to handle more transactions.\n",
+      "title": "Scalability",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "By pushing bitcoin from one side of the channel to the other each time a payment is made",
+        "By broadcasting every transaction immediately to the Bitcoin blockchain as soon as it happens",
+        "By paying a commission to a 3rd party payment provider"
+      ],
+      "feedback": [
+        "That's right! Think of moving bitcoin in a Lightning channel like moving beads on an abacus. Each side keeps track of how much is on their side until it's time to settle on the Bitcoin blockchain. Good job",
+        "Quite the opposite! Payment channels in Lightning avoid broadcasting every transaction by aggregating them. Try again",
+        "Uhm no, actually payments in Lightning Network save the users fees for not settling every transaction on the blockchain. Try again!"
+      ],
+      "id": "paymentChannels",
+      "question": "How do payment channels in the Lightning Network allow users to pay each other",
+      "text": "The Lightning Network consists of thousands of two party payment channels.\n\nYou may think of a Lightning channel like opening a tab at your local bar. Instead of pulling out your wallet and paying each time you order a drink, it makes sense to save time, energy and fees by tallying all your drinks together at the end of the night and making the final settlement in one payment.\n\nLightning works similar. Each time a payment is made from person A to person B, bitcoin are pushed from one side of the channel to the other. Two users can pay one another back and forth as many times as they like, almost instantly and with close to no fees.\n",
+      "title": "How does Lighning work?",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "By using a network of intermediaries to route payments between users",
+        "By using teleportation to instantly transfer bitcoin from one user to another",
+        "By using a virtual reality simulation to simulate the transfer of bitcoin between users"
+      ],
+      "feedback": [
+        "Correct! This is like delivering a package from one person to another by passing it along a series of friendly postmen! Congrats",
+        "Hah no, this isn't science-fiction from Star Trek, but real world cryptographic engineering! Try again",
+        "May I interest you for a simulation of a simulation? Jokes aside, this isn't it. Try again!"
+      ],
+      "id": "routing",
+      "question": "How does the Lightning Network allow users to pay each other if they are not directly connected through a payment channel",
+      "text": "You may be thinking that setting up a payment channel with hundreds of businesses could be tedious, but no. The beauty of the Lightning Network is that it is a network of channels stitched together.\n\nLet us say Bob convinced his friend Carol to also join the Lightning Network. Alice has a channel with Bob, and Bob has a channel with Carol. Alice and Carol can then pay each other by “routing” through Bob.\n\nSome pretty clever cryptographic tricks guarantee that Bob cannot steal the money while it’s passing through him.\n\nWhen you make a payment on the Lightning Network, your node searches for a path of channels between you and your destination. This is what’s referred to as routing. This is of course all done automatically by the involved Lightning nodes, enabling it to happen in the blink of an eye.\n",
+      "title": "Routing",
+      "type": "Text"
+    }
+  ],
+  "meta": {
+    "id": "Lightning:Whatdoesitsolve?",
+    "title": "Lightning: What does it solve?"
+  }
+}

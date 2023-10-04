@@ -1,0 +1,93 @@
+{
+  "content": [
+    {
+      "answers": [
+        "Money is the most tradable good in any given market.",
+        "Money is a government creation.",
+        "Money is a magical substance created by fairies."
+      ],
+      "feedback": [
+        "Correct. It's interesting to think about how different societies throughout history have used different items as a form of currency, from seashells to cattle to gold. But ultimately, it's the willingness of people to trade and accept an item as payment that determines its value as money",
+        "Nope, sorry! Looks like the government isn't as powerful as we thought they were. Better luck next time",
+        "Sorry, but it looks like the tooth fairy is the only one making magic money these days. Better luck with your next answer!"
+      ],
+      "id": "notFromGovernment",
+      "question": "What is money",
+      "text": "There is a popular misconception that money is a government creation and cannot exist without government. This is false.\n\nThe history of money goes back thousands of years to times when governments did not exist, but money did.\n\nThis proves that money is emergent and simply the most tradable good in a market. It is not a government creation and certainly does not require a government to make money work.\n",
+      "title": "Money is not a government creation",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "To improve the workings of small barter networks.",
+        "To facilitate large scale trade networks.",
+        "To reduce the need for credit."
+      ],
+      "feedback": [
+        "Congratulations! It's interesting to think about how money has evolved over time, from its early use as a means of facilitating trade in small communities to its current role as a medium of exchange in modern economies",
+        "Sorry, looks like you got it backwards! Better luck with your next guess",
+        "Wrong! Credit has been around for almost as long as money, and it's likely here to stay. Better luck with your next answer."
+      ],
+      "id": "primaryFunction",
+      "question": "What was the primary function of money",
+      "text": "Primitive money existed long before large scale trade networks. Archeologists found that early humans used valuable tools like arrowheads, collectibles like cowry shells and commodities like barley as primitive money.\n\nThe main advantage and primary function of these primitive moneys was to improve the workings of even small barter networks. Primitive moneys achieved this by eliminating the need to match coincidences of wants, interests, supply or skill. They also greatly reduced the need for credit, which, in the absence of writing in prehistoric times, was difficult to keep track of.\n",
+      "title": "The primary function of money",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "Their ability to withstand time and wear.",
+        "Their rarity and difficulty to produce.",
+        "Their colorful and decorative appearance."
+      ],
+      "feedback": [
+        "Correct! It's impressive to think about how certain materials, like metal, have been able to hold value over centuries and even millennia. Good work",
+        "Nice try, but not quite right. Better luck with your next answer",
+        "Sorry, looks like you were a little off the mark this time. Maybe try focusing on the functional aspects of money rather than its aesthetic appeal."
+      ],
+      "id": "monetaryMetals",
+      "question": "What made metals valuable as a form of money",
+      "text": "Metals were difficult to make, which made them rare. They also lasted longer than other materials like shells, grains, and beads. This made them valuable and easy to carry, or portable.\n\nAs technology improved, especially in the production of metal, humans were able to create more advanced, better forms of money.\n",
+      "title": "Monetary Metals",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "A measure of the rate at which new units of a monetary good are introduced into the existing supply.",
+        "A measure of a company's financial stability.",
+        "A ratio used to compare the value of different currencies."
+      ],
+      "feedback": [
+        "That's right! The Stock to Flow ratio can be a useful tool for understanding the stability and scarcity of a particular currency or commodity. Good job",
+        "Sorry, looks like you're mixing up your business jargon. Better luck with your next answer",
+        "Wrong! But hey, at least you're thinking about the global economy. Better luck with your next guess."
+      ],
+      "id": "stockToFlow",
+      "question": "What is the Stock to Flow ratio",
+      "text": "The Stock to Flow ratio is a measure of the rate at which new units of money are added to the existing supply.\n\nTo calculate it, you divide the existing amount of money by the amount produced each year.\n\nFor something to be a good way to save value, it should become more valuable when people want to use it to save, but the people who make it should not be able to add too much of it, which would make it less valuable.\n",
+      "title": "Understanding the Stock to Flow Ratio",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "The difficulty of producing new units of a monetary good.",
+        "The value of money compared to other currencies.",
+        "The amount of money in circulation."
+      ],
+      "feedback": [
+        "That's it! **** It's interesting to think about how the hardness of money can change over time as technology advances and what was once difficult to produce becomes easier. Good job",
+        "Sorry, looks like you got it backwards! Better luck with your next guess",
+        "Wrong! The hardness of money has more to do with its production than its quantity. Better luck with your next answer."
+      ],
+      "id": "hardMoney",
+      "question": "What is the hardness of money",
+      "text": "The difficulty of producing new units of money compared to other forms of money is called its hardness. This can change over time as technology improves and what was once difficult to produce could become easier.\n\nIn precolonial Ghana (Africa), aggry beads (made of glass) were used as money. Glassmaking was an expensive craft in that region, which gave the aggry beads a high stock-to-flow ratio and made them rather scarce.\n\nIn the 16th century, European explorers discovered the high value ascribed to these beads by the west Africans and began importing them in mass quantities; as European glassmaking technology made them extremely cheap to produce.\n\nSlowly but surely, the Europeans used these cheaply produced beads to acquire most of the precious resources of Africa. The net effect of this incursion into Africa was the transference its vast natural resource wealth to Europeans and the conversion of aggry beads from hard money to soft money.\n\nAs societies continued to evolve, they began to move away from artifact money like stones and glass beads and towards monetary metals.\n",
+      "title": "Hard Money and Easy Money",
+      "type": "Text"
+    }
+  ],
+  "meta": {
+    "id": "TheEvolutionofMoneyII",
+    "title": "The Evolution of Money II"
+  }
+}

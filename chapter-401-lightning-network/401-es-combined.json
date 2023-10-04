@@ -1,0 +1,144 @@
+{
+    "content": [
+        {
+            "answers": [
+                "Se tarda demasiado en confirmar las transacciones.",
+                "Es dificil de usar",
+                "No es un intermediario de confianza."
+            ],
+            "feedback": [
+                "\u00a1Correcto! \u00a1Gran trabajo! Quiz\u00e1s le complazca saber que se han implementado soluciones para mejorar el tiempo de liquidaci\u00f3n de los pagos de Bitcoin a unos pocos segundos.",
+                "\u00a1Equivocado! Pero est\u00e1s perdonado, Bitcoin es realmente muy f\u00e1cil de usar. Intentar otra vez",
+                "\u00a1Equivocado! Pero no te preocupes, Bitcoin permite a cualquiera enviar valor sin un intermediario de confianza. \u00a1Intentar otra vez!"
+            ],
+            "id": "bitcoinDesventajas",
+            "question": "\u00bfCu\u00e1l es el inconveniente del dise\u00f1o de Bitcoin?",
+            "text": "Bitcoin, la moneda digital m\u00e1s utilizada y valiosa del mundo, permite a cualquiera enviar valor sin un intermediario confiable.\n\nSin embargo, existen algunos inconvenientes en el dise\u00f1o de Bitcoin, que prioriza la seguridad y la descentralizaci\u00f3n a costa de la escalabilidad.\n\nLas transacciones confirmadas en la cadena de bloques de bitcoin tardan hasta una hora antes de que sean irreversibles.\n\nLos micropagos, o pagos de menos de unos pocos centavos, se confirman de manera inconsistente y las tarifas hacen que dichas transacciones sean inviables en la red actual.\n\nActualmente, la cadena de bloques de Bitcoin puede procesar alrededor de 3 transacciones por segundo. En general, esto se considera un impedimento para que Bitcoin se convierta en una moneda que facilite las transacciones minoristas diarias de millones de personas en todo el mundo.\n",
+            "title": "Desventajas de Bitcoin",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Si aumentar o no el tama\u00f1o del bloque",
+                "Si censurar o no ciertas transacciones",
+                "Si se debe cambiar o no el algoritmo de consenso a prueba de participaci\u00f3n"
+            ],
+            "feedback": [
+                "Correcto. Los usuarios finalmente prevalecieron en la preservaci\u00f3n de la descentralizaci\u00f3n y la resistencia a la censura de la red Bitcoin, lo que demuestra que Bitcoin est\u00e1 controlado por los usuarios, no por las corporaciones.",
+                "No exactamente. Ambas partes estaban p\u00fablicamente a favor de preservar la resistencia a la censura, sin embargo, las empresas del ecosistema Bitcoin estaban dispuestas a aceptar cierta centralizaci\u00f3n a cambio de ganancias r\u00e1pidas en escalabilidad. Intentar otra vez",
+                "Jaja, pero no. Si bien hay algunas voces dudosas que exigen la abolici\u00f3n de la prueba de trabajo en favor de la prueba de participaci\u00f3n, esto nunca fue un debate en Bitcoin, y nunca lo ser\u00e1. Intentar otra vez."
+            ],
+            "id": "tama\u00f1o de bloqueGuerras",
+            "question": "\u00bfCu\u00e1l fue la contienda en las Guerras de Tama\u00f1o de Bloques?",
+            "text": "Estos inconvenientes llevan a un debate dentro de la comunidad Bitcoin sobre la mejor manera de escalar la red Bitcoin, a menudo denominado Blocksize Wars.\n\nLas empresas del ecosistema Bitcoin argumentaron que aumentar el tama\u00f1o del bloque, que es el tama\u00f1o m\u00e1ximo de un bloque de transacciones en la cadena de bloques, permitir\u00eda procesar m\u00e1s transacciones por segundo, haciendo que la red sea m\u00e1s eficiente y capaz de manejar un mayor volumen de transacciones.\n\nLos usuarios de Bitcoin del otro lado del debate argumentaron que aumentar el tama\u00f1o de los bloques centralizar\u00eda la red, ya que requerir\u00eda computadoras m\u00e1s caras y potentes para procesar los bloques m\u00e1s grandes, y podr\u00eda llevar potencialmente a que Bitcoin se volviera propenso a la censura.\n\nLos usuarios finalmente prevalecieron en la preservaci\u00f3n de la descentralizaci\u00f3n y la resistencia a la censura de la red Bitcoin y demostraron que Bitcoin est\u00e1 controlado por los usuarios, no por las corporaciones. Esto tambi\u00e9n significaba que escalar Bitcoin requerir\u00eda una soluci\u00f3n de ingenier\u00eda diferente a simplemente aumentar el tama\u00f1o del bloque.\n",
+            "title": "Las guerras del tama\u00f1o de bloques",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Permite a los usuarios realizar pagos peque\u00f1os, casi instant\u00e1neos y a bajo coste.",
+                "Ayuda a los usuarios a preservar la descentralizaci\u00f3n de la red Bitcoin.",
+                "Garantiza que cada transacci\u00f3n se agregue a la cadena de bloques de Bitcoin."
+            ],
+            "feedback": [
+                "\u00a1Correcto! Lightning Network permite a los usuarios realizar pagos peque\u00f1os, casi instant\u00e1neos, a bajo costo y elimina la necesidad de agregar cada transacci\u00f3n a la cadena de bloques de Bitcoin. \u00a1Felicitaciones! Como dato curioso, Lightning Network ha ayudado a aumentar la adopci\u00f3n de Bitcoin al permitirle procesar m\u00e1s transacciones por segundo y manejar mayores vol\u00famenes de transacciones.",
+                "\u00a1Incorrecto! Lightning Network es en realidad una soluci\u00f3n de escalabilidad construida sobre el protocolo Bitcoin. Intentar otra vez",
+                "\u00a1Incorrecto! Lightning Network en realidad elimina la necesidad de agregar cada transacci\u00f3n a la cadena de bloques de Bitcoin, ya que permite realizar pagos m\u00e1s peque\u00f1os fuera de la cadena."
+            ],
+            "id": "rel\u00e1mpagored",
+            "question": "\u00bfQu\u00e9 hace Lightning Network?",
+            "text": "Si bien los usuarios prevalecieron y preservaron la descentralizaci\u00f3n de la red Bitcoin, una soluci\u00f3n para escalar Bitcoin propuesta por los investigadores Tadge Dryja y Joseph Poon, llamada Lightning Network, comenz\u00f3 a ganar terreno y se lanz\u00f3 en 2017.\n\nLightning Network, a menudo denominada simplemente Lightning o LN, es una soluci\u00f3n de escalabilidad construida sobre el protocolo Bitcoin. Facilita pagos m\u00e1s peque\u00f1os y casi instant\u00e1neos entre usuarios a un costo muy bajo y elimina la necesidad de agregar cada transacci\u00f3n a la cadena de bloques de Bitcoin, al tiempo que garantiza que el valor de la transacci\u00f3n cumpla con las reglas de la red de Bitcoin.\n",
+            "title": "La red rel\u00e1mpago",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Cuesti\u00f3n de segundos",
+                "10 minutos",
+                "1 hora"
+            ],
+            "feedback": [
+                "\u00a1Correcto! Esto hace que Lightning Network sea una excelente opci\u00f3n para situaciones en las que necesita realizar un pago de inmediato, como transacciones minoristas o pagos entre pares.",
+                "\u00a1Incorrecto! En la red Bitcoin, las transacciones se agrupan en bloques que se agregan a la cadena de bloques cada 10 minutos aproximadamente. Sin embargo, en Lightning Network, los pagos no necesitan esperar a que se confirmen los bloques para considerarse seguros. Intentar otra vez",
+                "\u00a1Incorrecto! En la red Bitcoin, los pagos se consideran seguros despu\u00e9s de haber sido confirmados por seis bloques, o aproximadamente una hora. Sin embargo, en Lightning Network, los pagos no necesitan esperar a que se confirmen los bloques para considerarse seguros."
+            ],
+            "id": "pagos instant\u00e1neos",
+            "question": "\u00bfCu\u00e1nto tiempo lleva para que un pago se considere seguro en Lightning Network?",
+            "text": "En la red Bitcoin, las transacciones se agrupan en bloques y se agregan nuevos bloques a la cadena de bloques aproximadamente cada 10 minutos. Cuando se realiza un pago con Bitcoin, se considera seguro despu\u00e9s de haber sido confirmado por seis bloques, o aproximadamente una hora.\n\nEn Lightning Network, los pagos no tienen que esperar a que se confirmen los bloques para considerarse seguros. En cambio, son instant\u00e1neos y se completan todos a la vez en cuesti\u00f3n de segundos.\n\nEsto hace posible utilizar Lightning Network para transacciones minoristas, pagos entre pares o cualquier otra situaci\u00f3n en la que necesite realizar un pago de inmediato.\n",
+            "title": "Pagos instant\u00e1neos",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Un pago por una peque\u00f1a cantidad de dinero, a menudo menos de un d\u00f3lar.",
+                "Un pago que requiere un monto m\u00ednimo y una tarifa fija",
+                "Un pago realizado utilizando Lightning Network"
+            ],
+            "feedback": [
+                "\u00a1Exactamente! Estos tipos de pagos pueden ser dif\u00edciles de realizar utilizando los sistemas financieros tradicionales o la red Bitcoin, ya que a menudo tienen montos m\u00ednimos que se pueden transferir y tarifas fijas que pueden hacer que los pagos peque\u00f1os no sean pr\u00e1cticos.",
+                "No**.** Si bien los sistemas financieros tradicionales pueden requerir un monto m\u00ednimo y una tarifa fija para los pagos, Lightning Network permite la posibilidad de realizar pagos muy peque\u00f1os sin estas limitaciones.",
+                "\u00a1No exactamente! Si bien Lightning Network permite la posibilidad de realizar micropagos, un micropago no se define como un pago realizado mediante Lightning Network. \u00a1Intentar otra vez!"
+            ],
+            "id": "micropagos",
+            "question": "\u00bfQu\u00e9 es un micropago?",
+            "text": "Los micropagos se refieren a transacciones financieras muy peque\u00f1as, a menudo por montos inferiores a un d\u00f3lar. Estos tipos de pagos pueden ser dif\u00edciles de realizar utilizando los sistemas financieros tradicionales, ya que a menudo tienen montos m\u00ednimos que pueden transferirse y tarifas fijas que pueden hacer que los pagos peque\u00f1os no sean pr\u00e1cticos.\n\nLightning Network permite la posibilidad de realizar micropagos utilizando Bitcoin. Permite a los usuarios enviar cantidades muy peque\u00f1as de Bitcoin, hasta 1 sat, sin el riesgo de perder el control de sus fondos a un tercero (lo que se denomina \"riesgo de custodia\").\n\nPor el contrario, la cadena de bloques de Bitcoin actualmente tiene montos m\u00ednimos de transacci\u00f3n y tarifas que hacen que los micropagos no sean pr\u00e1cticos. Lightning Network permite pagos m\u00ednimos denominados en Bitcoin, utilizando transacciones reales de Bitcoin. Esto abre la posibilidad de crear nuevos mercados y hacer m\u00e1s pr\u00e1cticos los peque\u00f1os pagos.\n",
+            "title": "Micropagos",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Para satisfacer la demanda de pagos minoristas y automatizados",
+                "Para hacer que Bitcoin sea m\u00e1s atractivo para los inversores",
+                "Obtener las licencias requeridas para la interoperabilidad con instituciones financieras."
+            ],
+            "feedback": [
+                "As\u00ed es. Lightning Network ayuda a la red Bitcoin a lograr escalabilidad al permitir a los usuarios realizar transacciones casi ilimitadas fuera de la cadena en una segunda capa.",
+                "Eso no es todo! Si bien mejorar el atractivo de Bitcoin para los inversores podr\u00eda ser un beneficio al mejorar la escalabilidad, no es la raz\u00f3n principal por la que la escalabilidad es importante para la red Bitcoin.",
+                "\u00a1Intentar otra vez! **** Obtener las licencias necesarias para la interoperabilidad con instituciones financieras puede ser un objetivo para algunas organizaciones que trabajan con Bitcoin, pero no est\u00e1 directamente relacionado con el concepto de escalabilidad."
+            ],
+            "id": "escalabilidad",
+            "question": "\u00bfPor qu\u00e9 es importante la escalabilidad para la red Bitcoin?",
+            "text": "La escalabilidad se refiere a la capacidad de un sistema, como una red o plataforma, para manejar una gran cantidad de uso o tr\u00e1fico sin experimentar problemas o ralentizaciones.\n\nLa escalabilidad es importante para Bitcoin porque la red deber\u00e1 poder soportar un volumen mucho mayor de transacciones para satisfacer la demanda de pagos minoristas y automatizados.\n\nLightning Network permite a los usuarios realizar transacciones casi ilimitadas entre s\u00ed fuera de la cadena de bloques de Bitcoin o fuera de la cadena.\n\nEsto significa que las transacciones se pueden realizar sin necesidad de que cada una quede registrada en la blockchain, lo que ayuda a reducir la carga en la red y le permite manejar m\u00e1s transacciones.\n",
+            "title": "Escalabilidad",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Empujando bitcoin de un lado al otro del canal cada vez que se realiza un pago",
+                "Transmitiendo cada transacci\u00f3n inmediatamente a la cadena de bloques de Bitcoin tan pronto como suceda.",
+                "Pagando una comisi\u00f3n a un proveedor de pagos externo"
+            ],
+            "feedback": [
+                "\u00a1As\u00ed es! Piense en mover bitcoins en un canal Lightning como mover cuentas en un \u00e1baco. Cada lado realiza un seguimiento de cu\u00e1nto est\u00e1 de su lado hasta que llega el momento de decidirse por la cadena de bloques de Bitcoin. Buen trabajo",
+                "\u00a1Todo lo contrario! Los canales de pago en Lightning evitan transmitir cada transacci\u00f3n al agregarlas. Intentar otra vez",
+                "Uhm no, en realidad los pagos en Lightning Network ahorran a los usuarios tarifas por no liquidar todas las transacciones en la cadena de bloques. \u00a1Intentar otra vez!"
+            ],
+            "id": "canales de pago",
+            "question": "\u00bfC\u00f3mo los canales de pago en Lightning Network permiten a los usuarios pagarse entre s\u00ed?",
+            "text": "Lightning Network consta de miles de canales de pago bipartitos.\n\nPuede pensar en un canal Lightning como abrir una pesta\u00f1a en su bar local. En lugar de sacar su billetera y pagar cada vez que pide una bebida, tiene sentido ahorrar tiempo, energ\u00eda y tarifas contabilizando todas sus bebidas al final de la noche y realizando la liquidaci\u00f3n final en un solo pago.\n\nLos rayos funcionan de manera similar. Cada vez que se realiza un pago de la persona A a la persona B, los bitcoins se env\u00edan de un lado al otro del canal. Dos usuarios pueden pagarse entre s\u00ed tantas veces como quieran, casi al instante y pr\u00e1cticamente sin cargos.\n",
+            "title": "\u00bfC\u00f3mo funciona el rayo?",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Utilizando una red de intermediarios para enrutar pagos entre usuarios",
+                "Utilizando la teletransportaci\u00f3n para transferir bitcoins instant\u00e1neamente de un usuario a otro",
+                "Mediante el uso de una simulaci\u00f3n de realidad virtual para simular la transferencia de bitcoin entre usuarios"
+            ],
+            "feedback": [
+                "\u00a1Correcto! \u00a1Esto es como entregar un paquete de una persona a otra pas\u00e1ndolo entre una serie de carteros amigables! Felicitaciones",
+                "\u00a1Ja, no, esto no es ciencia ficci\u00f3n de Star Trek, sino ingenier\u00eda criptogr\u00e1fica del mundo real! Intentar otra vez",
+                "\u00bfPuedo interesarte por una simulaci\u00f3n de una simulaci\u00f3n? Bromas aparte, esto no es todo. \u00a1Intentar otra vez!"
+            ],
+            "id": "enrutamiento",
+            "question": "\u00bfC\u00f3mo permite Lightning Network que los usuarios se paguen entre s\u00ed si no est\u00e1n conectados directamente a trav\u00e9s de un canal de pago?",
+            "text": "Quiz\u00e1s est\u00e9s pensando que montar un canal de pago con cientos de comercios podr\u00eda resultar tedioso, pero no. La belleza de Lightning Network es que es una red de canales unidos.\n\nDigamos que Bob convenci\u00f3 a su amiga Carol para que tambi\u00e9n se uniera a Lightning Network. Alice tiene un canal con Bob y Bob tiene un canal con Carol. Luego, Alice y Carol pueden pagarse mutuamente \"enrutando\" a trav\u00e9s de Bob.\n\nAlgunos trucos criptogr\u00e1ficos bastante inteligentes garantizan que Bob no pueda robar el dinero mientras pasa a trav\u00e9s de \u00e9l.\n\nCuando realiza un pago en Lightning Network, su nodo busca una ruta de canales entre usted y su destino. Esto es lo que se conoce como enrutamiento. Por supuesto, todo esto lo hacen autom\u00e1ticamente los nodos Lightning involucrados, lo que permite que suceda en un abrir y cerrar de ojos.\n",
+            "title": "Enrutamiento",
+            "type": "Texto"
+        }
+    ],
+    "meta": {
+        "id": "Rayo: \u00bfQu\u00e9 resuelve?",
+        "title": "Rayo: \u00bfQu\u00e9 soluciona?"
+    }
+}

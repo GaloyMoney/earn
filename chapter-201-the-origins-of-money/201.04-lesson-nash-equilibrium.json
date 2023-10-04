@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "A concept that helps societies decide on a single store of value",
+    "A type of dance that promotes trade and the division of labor",
+    "A musical instrument that makes it easier to conduct trade and specialize in different tasks"
+  ],
+  "feedback": [
+    "Congratulations, you are correct! A Nash Equilibrium is a concept in game theory that refers to a situation in which no player can gain an advantage by changing their strategy. In the context of choosing a store of value, achieving a Nash Equilibrium means that society has converged on a single store of value, which greatly facilitates trade and the division of labor. Fun fact: Bitcoin is often cited as an example of a Nash Equilibrium, as it has become the dominant cryptocurrency due to its perceived value and widespread adoption",
+    "Sorry, that is not the correct answer. While a Nash Equilibrium has nothing to do with dance, it is an important concept in game theory that can benefit society",
+    "I'm afraid that is not the correct answer. While music can bring people together and facilitate cooperation, a Nash Equilibrium has nothing to do with musical instruments. It is a concept in game theory that refers to a situation in which no player can gain an advantage by changing their strategy."
+  ],
+  "id": "nashEquilibrium",
+  "question": "What is a Nash Equilibrium and how does it benefit society",
+  "text": "Acquiring an item with the expectation that it will be desired as a future store of value can accelerate its adoption for that purpose. This process can create a feedback loop that drives societies towards adopting a single store of value.\n\nIn game theory, this is known as a \"Nash Equilibrium\". Reaching a Nash Equilibrium for a store of value can greatly benefit a society, as it makes trade and the division of labor easier and paves the way for the development of civilization.\n",
+  "title": "The Key to Facilitating Trade",
+  "type": "Text"
+}

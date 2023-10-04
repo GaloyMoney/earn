@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "Digital Money",
+    "A video game",
+    "A new cartoon character"
+  ],
+  "feedback": [
+    "Correct. You just earned 1 “sat”!",
+    "Incorrect, please try again.",
+    "Nope. At least not one that we know of!"
+  ],
+  "id": "whatIsBitcoin",
+  "question": "So what exactly is Bitcoin",
+  "text": "Bitcoin is digital money. It can be transferred instantly and securely between any two people in the world — without the need for a bank or any other financial company in the middle.",
+  "title": "So what exactly is Bitcoin?",
+  "type": "Text"
+}

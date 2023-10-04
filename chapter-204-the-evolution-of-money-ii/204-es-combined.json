@@ -1,0 +1,93 @@
+{
+    "content": [
+        {
+            "answers": [
+                "El dinero es el bien m\u00e1s comercializable en cualquier mercado.",
+                "El dinero es una creaci\u00f3n del gobierno.",
+                "El dinero es una sustancia m\u00e1gica creada por las hadas."
+            ],
+            "feedback": [
+                "Correcto. Es interesante pensar en c\u00f3mo diferentes sociedades a lo largo de la historia han utilizado diferentes art\u00edculos como forma de moneda, desde conchas marinas hasta ganado y oro. Pero, en \u00faltima instancia, es la voluntad de las personas de comerciar y aceptar un art\u00edculo como pago lo que determina su valor como dinero.",
+                "\u00a1No, lo siento! Parece que el gobierno no es tan poderoso como pens\u00e1bamos. Mejor suerte la pr\u00f3xima vez",
+                "Lo siento, pero parece que el Ratoncito P\u00e9rez es el \u00fanico que gana dinero m\u00e1gico en estos d\u00edas. \u00a1M\u00e1s suerte con tu pr\u00f3xima respuesta!"
+            ],
+            "id": "no del gobierno",
+            "question": "Qu\u00e9 es el dinero",
+            "text": "Existe una idea err\u00f3nea popular de que el dinero es una creaci\u00f3n del gobierno y no puede existir sin el gobierno. Esto es falso.\n\nLa historia del dinero se remonta a miles de a\u00f1os atr\u00e1s, a tiempos en los que no exist\u00edan los gobiernos, pero s\u00ed el dinero.\n\nEsto demuestra que el dinero es emergente y simplemente el bien m\u00e1s comercializable en un mercado. No es una creaci\u00f3n del gobierno y ciertamente no requiere que un gobierno haga funcionar el dinero.\n",
+            "title": "El dinero no es una creaci\u00f3n del gobierno.",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Mejorar el funcionamiento de las peque\u00f1as redes de trueque.",
+                "Facilitar redes comerciales a gran escala.",
+                "Reducir la necesidad de cr\u00e9dito."
+            ],
+            "feedback": [
+                "\u00a1Felicidades! Es interesante pensar en c\u00f3mo ha evolucionado el dinero a lo largo del tiempo, desde su uso inicial como medio para facilitar el comercio en peque\u00f1as comunidades hasta su papel actual como medio de intercambio en las econom\u00edas modernas.",
+                "Lo siento, \u00a1parece que lo entendiste al rev\u00e9s! M\u00e1s suerte con tu pr\u00f3xima suposici\u00f3n.",
+                "\u00a1Equivocado! El cr\u00e9dito existe desde hace casi tanto tiempo como el dinero, y probablemente lleg\u00f3 para quedarse. M\u00e1s suerte con tu pr\u00f3xima respuesta."
+            ],
+            "id": "funci\u00f3n primaria",
+            "question": "\u00bfCu\u00e1l era la funci\u00f3n principal del dinero?",
+            "text": "El dinero primitivo existi\u00f3 mucho antes de las redes comerciales a gran escala. Los arque\u00f3logos descubrieron que los primeros humanos utilizaban herramientas valiosas como puntas de flecha, objetos de colecci\u00f3n como conchas de cauri y productos b\u00e1sicos como la cebada como dinero primitivo.\n\nLa principal ventaja y funci\u00f3n principal de estas monedas primitivas era mejorar el funcionamiento incluso de las peque\u00f1as redes de trueque. Los dineros primitivos lograron esto eliminando la necesidad de igualar coincidencias de deseos, intereses, oferta o habilidad. Tambi\u00e9n redujeron en gran medida la necesidad de cr\u00e9dito, que, a falta de escritura en tiempos prehist\u00f3ricos, era dif\u00edcil de seguir.\n",
+            "title": "La funci\u00f3n principal del dinero.",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Su capacidad para resistir el tiempo y el desgaste.",
+                "Su rareza y dificultad de producir.",
+                "Su aspecto colorido y decorativo."
+            ],
+            "feedback": [
+                "\u00a1Correcto! Es impresionante pensar en c\u00f3mo ciertos materiales, como el metal, han podido mantener su valor durante siglos e incluso milenios. Buen trabajo",
+                "Buen intento, pero no del todo bien. M\u00e1s suerte con tu pr\u00f3xima respuesta.",
+                "Lo siento, parece que esta vez te equivocaste un poco. Quiz\u00e1s intente centrarse en los aspectos funcionales del dinero en lugar de en su atractivo est\u00e9tico."
+            ],
+            "id": "monetarioMetales",
+            "question": "\u00bfQu\u00e9 hizo que los metales fueran valiosos como forma de dinero?",
+            "text": "Los metales eran dif\u00edciles de fabricar, lo que los hac\u00eda raros. Tambi\u00e9n duraban m\u00e1s que otros materiales como conchas, granos y cuentas. Esto los hac\u00eda valiosos y f\u00e1ciles de transportar o port\u00e1tiles.\n\nA medida que la tecnolog\u00eda mejor\u00f3, especialmente en la producci\u00f3n de metales, los humanos pudieron crear formas de dinero mejores y m\u00e1s avanzadas.\n",
+            "title": "Metales monetarios",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Medida de la tasa a la que se introducen nuevas unidades de un bien monetario en la oferta existente.",
+                "Una medida de la estabilidad financiera de una empresa.",
+                "Una relaci\u00f3n utilizada para comparar el valor de diferentes monedas."
+            ],
+            "feedback": [
+                "\u00a1As\u00ed es! La relaci\u00f3n entre existencias y flujos puede ser una herramienta \u00fatil para comprender la estabilidad y la escasez de una moneda o materia prima en particular. Buen trabajo",
+                "Lo siento, parece que est\u00e1s mezclando tu jerga empresarial. M\u00e1s suerte con tu pr\u00f3xima respuesta.",
+                "\u00a1Equivocado! Pero bueno, al menos est\u00e1s pensando en la econom\u00eda global. M\u00e1s suerte con tu pr\u00f3xima suposici\u00f3n."
+            ],
+            "id": "stockToFlow",
+            "question": "\u00bfCu\u00e1l es la relaci\u00f3n entre existencias y flujo?",
+            "text": "La relaci\u00f3n entre existencias y flujo es una medida de la tasa a la que se agregan nuevas unidades de dinero a la oferta existente.\n\nPara calcularlo, se divide la cantidad de dinero existente por la cantidad producida cada a\u00f1o.\n\nPara que algo sea una buena forma de ahorrar valor, deber\u00eda volverse m\u00e1s valioso cuando la gente quiera usarlo para ahorrar, pero las personas que lo fabrican no deber\u00edan poder agregar demasiado, lo que lo har\u00eda menos valioso.\n",
+            "title": "Comprender la relaci\u00f3n stock-flujo",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "La dificultad de producir nuevas unidades de un bien monetario.",
+                "El valor del dinero en comparaci\u00f3n con otras monedas.",
+                "La cantidad de dinero en circulaci\u00f3n."
+            ],
+            "feedback": [
+                "\u00a1Eso es todo! **** Es interesante pensar en c\u00f3mo la dureza del dinero puede cambiar con el tiempo a medida que avanza la tecnolog\u00eda y lo que antes era dif\u00edcil de producir se vuelve m\u00e1s f\u00e1cil. Buen trabajo",
+                "Lo siento, \u00a1parece que lo entendiste al rev\u00e9s! M\u00e1s suerte con tu pr\u00f3xima suposici\u00f3n.",
+                "\u00a1Equivocado! La dureza del dinero tiene m\u00e1s que ver con su producci\u00f3n que con su cantidad. M\u00e1s suerte con tu pr\u00f3xima respuesta."
+            ],
+            "id": "dinero duro",
+            "question": "\u00bfCu\u00e1l es la dureza del dinero?",
+            "text": "La dificultad de producir nuevas unidades de dinero en comparaci\u00f3n con otras formas de dinero se llama dureza. Esto puede cambiar con el tiempo a medida que la tecnolog\u00eda mejore y lo que antes era dif\u00edcil de producir pueda volverse m\u00e1s f\u00e1cil.\n\nEn la Ghana precolonial (\u00c1frica), las cuentas aggry (hechas de vidrio) se utilizaban como dinero. La fabricaci\u00f3n de vidrio era un oficio costoso en esa regi\u00f3n, lo que daba a las perlas aggry una alta relaci\u00f3n stock-flujo y las hac\u00eda bastante escasas.\n\nEn el siglo XVI, los exploradores europeos descubrieron el alto valor que los africanos occidentales atribu\u00edan a estas cuentas y comenzaron a importarlas en cantidades masivas; ya que la tecnolog\u00eda europea de fabricaci\u00f3n de vidrio hizo que su producci\u00f3n fuera extremadamente barata.\n\nDe forma lenta pero segura, los europeos utilizaron estas cuentas de producci\u00f3n barata para adquirir la mayor\u00eda de los preciosos recursos de \u00c1frica. El efecto neto de esta incursi\u00f3n en \u00c1frica fue la transferencia de su vasta riqueza de recursos naturales a los europeos y la conversi\u00f3n de cuentas agresivas de dinero fuerte a dinero blando.\n\nA medida que las sociedades continuaron evolucionando, comenzaron a alejarse del dinero artefacto, como piedras y cuentas de vidrio, hacia los metales monetarios.\n",
+            "title": "Dinero duro y dinero f\u00e1cil",
+            "type": "Texto"
+        }
+    ],
+    "meta": {
+        "id": "La evoluci\u00f3n del dinero II",
+        "title": "La evoluci\u00f3n del dinero II"
+    }
+}

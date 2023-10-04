@@ -1,0 +1,93 @@
+{
+    "content": [
+        {
+            "answers": [
+                "La creencia de que una unidad de algo es siempre la cantidad correcta para usar cuando se compara con otras cosas.",
+                "La creencia de que un tipo de moneda es mejor que todos los dem\u00e1s.",
+                "La creencia de que todas las unidades de algo deben tener el mismo tama\u00f1o."
+            ],
+            "feedback": [
+                "\u00a1S\u00ed! El sesgo unitario es la creencia de que una unidad de algo es siempre la cantidad correcta para usar al compararla con otras cosas. Sin embargo, esto no siempre es cierto y puede llevar a un razonamiento err\u00f3neo. Buen trabajo",
+                "Me temo que este equivocado. El sesgo unitario no consiste en creer que un tipo de moneda es mejor que todos los dem\u00e1s. Tal vez deber\u00edas limitarte a contar tus monedas en lugar de intentar determinar el valor de la moneda.",
+                "Lo sentimos, pero el sesgo unitario no tiene que ver con el tama\u00f1o de las unidades. Pero no te preocupes: a\u00fan puedes divertirte con unidades de diferentes tama\u00f1os jugando con bloques de construcci\u00f3n o ladrillos LEGO."
+            ],
+            "id": "unidadBias",
+            "question": "\u00bfQu\u00e9 es el sesgo unitario?",
+            "text": "El sesgo unitario es un tipo de pensamiento que supone que una unidad de algo es la cantidad correcta para usar al compararla con otras cosas.\n\nEsto no siempre es cierto, especialmente cuando se trata de bitcoin. Para comprender c\u00f3mo se compara Bitcoin con otras reservas de valor, es necesario observar la cantidad total de Bitcoin disponible y su valor, no solo el precio de una unidad. Bitcoin es muy peque\u00f1o y se puede dividir en cantidades muy peque\u00f1as, hasta 8 decimales. Esto significa que puedes comprar una parte muy peque\u00f1a de un bitcoin si lo deseas.\n\nLa gente a veces piensa que otras criptomonedas son m\u00e1s baratas que bitcoin porque cuestan menos por unidad, pero esto no siempre es cierto. Bitcoin es un tipo especial de dinero digital porque su oferta es limitada y no se puede fabricar en cantidades mayores.\n\nEsto lo convierte en una buena forma de almacenar valor porque el valor no disminuye con el tiempo. Cuando miras a Bitcoin de esta manera, puedes ver que es solo una peque\u00f1a parte de la cantidad total de riqueza no gubernamental en el mundo.\n",
+            "title": "Sesgo unitario",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Un tipo de bien que la gente quiere m\u00e1s cuando el precio sube.",
+                "Un tipo de comida que sabe mejor cuando es cara",
+                "Un tipo de bien que la gente quiere m\u00e1s cuando tiene m\u00e1s dinero para gastar."
+            ],
+            "feedback": [
+                "\u00a1Exactamente! Un bien Veblen es un tipo de bien que la gente quiere m\u00e1s cuando el precio sube. Esto es inusual porque la mayor\u00eda de las personas quieren m\u00e1s cosas cuando tienen m\u00e1s dinero para gastar.",
+                "Lo siento, pero un bien Veblen no es un tipo de comida. Tal vez deber\u00edas limitarte a comer tus comidas favoritas en lugar de intentar entender la econom\u00eda.",
+                "Me temo que este equivocado. Un bien Veblen no es un tipo de bien que la gente quiera m\u00e1s cuando tiene m\u00e1s dinero para gastar. \u00a1Quiz\u00e1s deber\u00edas prestar m\u00e1s atenci\u00f3n a la econom\u00eda en lugar de simplemente gastar tu dinero!"
+            ],
+            "id": "veblenBueno",
+            "question": "\u00bfQu\u00e9 es bueno un Veblen?",
+            "text": "Los productos Veblen son cosas que la gente quiere m\u00e1s cuando el precio sube. Los bienes normales son cosas que la gente suele querer m\u00e1s cuando tiene m\u00e1s dinero para gastar.\n\nLos productos Veblen son inusuales porque la gente los quiere m\u00e1s cuando cuestan m\u00e1s. Suelen ser art\u00edculos de lujo dif\u00edciles de conseguir o que se fabrican en cantidades limitadas. Esto se hace para que parezcan especiales o raros.\n\nEs posible que algunas personas quieran comprar bitcoins porque es un s\u00edmbolo de estatus, pero la raz\u00f3n principal por la que la gente probablemente querr\u00e1 comprarlo es porque hay una cantidad limitada.\n\nCuando m\u00e1s personas quieren comprar bitcoins, el precio sube y resulta m\u00e1s f\u00e1cil de usar. Cuando es f\u00e1cil de usar, m\u00e1s gente quiere usarlo. Esto crea un ciclo en el que aumenta la demanda de bitcoins, el precio sube y se vuelve m\u00e1s f\u00e1cil de usar.\n",
+            "title": "Veblen bueno",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Se\u00f1ales de precios distorsionadas",
+                "Extraterrestres del espacio exterior",
+                "Falta de unicornios en la econom\u00eda"
+            ],
+            "feedback": [
+                "\u00a1Respuesta correcta! Est\u00e1s en el camino correcto. Cuando los precios no son precisos, se puede invertir dinero en cosas que no son muy productivas. Buen trabajo",
+                "\u00a1Respuesta incorrecta! Pero al menos est\u00e1s pensando fuera de lo com\u00fan. Tal vez los extraterrestres est\u00e9n controlando las se\u00f1ales de precios de su nave espacial... o tal vez no. Mejor suerte la pr\u00f3xima vez",
+                "Lo sentimos, pero los unicornios no tienen el poder de controlar la econom\u00eda. Aunque ser\u00eda genial si lo hicieran. Mejor suerte la pr\u00f3xima vez."
+            ],
+            "id": "mala inversi\u00f3n",
+            "question": "\u00bfCu\u00e1l es la principal causa de las malas inversiones?",
+            "text": "La mala inversi\u00f3n se produce cuando los precios de las cosas no son exactos, lo que lleva a que se invierta dinero en cosas que no son muy productivas. Esto sucede porque es dif\u00edcil predecir el futuro y tomar buenas decisiones sobre qu\u00e9 hacer con el dinero.\n\nCuando el mercado no funciona correctamente, es como intentar utilizar una br\u00fajula cuando no est\u00e1s seguro de d\u00f3nde est\u00e1s. Un ejemplo de esto es cuando las empresas no pueden pagar sus pr\u00e9stamos y tienen que pedir prestado m\u00e1s dinero s\u00f3lo para sobrevivir. Esto es como ser una empresa \"zombi\".\n\nCuando el gobierno est\u00e1 a cargo de estas decisiones, puede cometer errores porque no tiene una buena manera de saber qu\u00e9 es una buena inversi\u00f3n y qu\u00e9 no. Esto puede llevar a cosas como la construcci\u00f3n de un metro sin suficientes trenes o la construcci\u00f3n de una presa sin suficientes l\u00edneas el\u00e9ctricas.\n",
+            "title": "Mala inversi\u00f3n",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Cuando el potencial alcista es desproporcionadamente mayor que el riesgo a la baja",
+                "Cuando las posibles ventajas y desventajas son iguales",
+                "Cuando la ventaja potencial es una llama que habla y la desventaja es una jirafa muda"
+            ],
+            "feedback": [
+                "\u00a1Respuesta correcta! \u00a1Lo entendiste! Un pago asim\u00e9trico significa que el potencial de ganancia es mucho mayor que el potencial de p\u00e9rdida. Buen trabajo",
+                "\u00a1Respuesta incorrecta! Un pago asim\u00e9trico significa que el potencial de ganancia o p\u00e9rdida es desigual, no igual. Mejor suerte la pr\u00f3xima vez",
+                "\u00a1Respuesta incorrecta! Si bien una llama parlante y una jirafa muda pueden ser una inversi\u00f3n interesante, no definen una recompensa asim\u00e9trica. Mejor suerte la pr\u00f3xima vez."
+            ],
+            "id": "pago asim\u00e9trico",
+            "question": "\u00bfQu\u00e9 es un beneficio asim\u00e9trico en el contexto de las decisiones de inversi\u00f3n?",
+            "text": "Cuando tomamos decisiones sobre invertir nuestro dinero, intentamos predecir qu\u00e9 podr\u00eda pasar y cu\u00e1nto dinero podr\u00edamos ganar o perder. A veces, la cantidad de dinero que podemos ganar o perder no es igual.\n\nPor ejemplo, si invertimos en algo que tiene muchas posibilidades de generar mucho dinero, pero s\u00f3lo una peque\u00f1a posibilidad de perder un poco de dinero, podr\u00edamos llamar a esto un \"beneficio asim\u00e9trico\". Esto significa que el potencial positivo (cu\u00e1nto podemos ganar) es mucho mayor que el potencial negativo (cu\u00e1nto podemos perder).\n\nUn ejemplo de esto es bitcoin. Los resultados potenciales de Bitcoin son similares a una opci\u00f3n, lo que significa que tiene \u00e9xito o fracasa. Si experimenta un evento catastr\u00f3fico, se minimiza el riesgo de perder dinero.\n\nSin embargo, el potencial alcista es mucho mayor, ya que el mercado total al que se dirige Bitcoin tiene el potencial de ser un principal dep\u00f3sito global de riqueza.\n\nLa asimetr\u00eda en los pagos, o resultados potenciales desiguales, s\u00f3lo ocurre cuando existe una comprensi\u00f3n o informaci\u00f3n desigual sobre una inversi\u00f3n. Si todo el mundo entendiera completamente el bitcoin, ya se utilizar\u00eda ampliamente como forma de moneda.\n\nActualmente, no todo el mundo es consciente del potencial del bitcoin como opci\u00f3n monetaria superior, por lo que la posibilidad de que aumente su valor depende de que la demanda aumente sin el correspondiente aumento de la oferta.\n",
+            "title": "Pago asim\u00e9trico",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Ayuda a identificar posibles estrategias de crecimiento para el protocolo bitcoin.",
+                "Ayuda a determinar la temperatura \u00f3ptima para almacenar bitcoins.",
+                "Ayuda a calcular el retorno potencial de la inversi\u00f3n para las operaciones mineras de bitcoins."
+            ],
+            "feedback": [
+                "\u00a1Respuesta correcta! \u00a1Lo entendiste! La Matriz de Ansoff se puede utilizar para delinear estrategias de crecimiento para el protocolo bitcoin, como desarrollarlo y venderlo en diferentes mercados. Buen trabajo",
+                "\u00a1No! La temperatura de almacenamiento de las claves privadas de bitcoin no es un problema real y no est\u00e1 relacionada con la Matriz de Ansoff. Mejor suerte la pr\u00f3xima vez",
+                "\u00a1Respuesta incorrecta! Si bien calcular el rendimiento potencial de la inversi\u00f3n es importante para los mineros de bitcoins, no est\u00e1 directamente relacionado con la Matriz de Ansoff. Mejor suerte la pr\u00f3xima vez."
+            ],
+            "id": "ansoffMatriz",
+            "question": "\u00bfC\u00f3mo es relevante la Matriz de Ansoff para el crecimiento y el potencial de bitcoin?",
+            "text": "Ansoff Matrix es una herramienta que ayuda a las empresas a pensar en c\u00f3mo pueden crecer y ganar m\u00e1s dinero. Les ayuda a descubrir qu\u00e9 hacer con un producto o servicio que tienen y c\u00f3mo venderlo a diferentes grupos de personas.\n\nEn el caso del bitcoin, es un producto que es como un tipo de dinero digital. Tiene el potencial de ser utilizado por mucha gente de muchas maneras diferentes. Las personas que trabajan con bitcoin, al igual que las personas que escriben el c\u00f3digo y ayudan a otros a entender c\u00f3mo usarlo, est\u00e1n tratando de aumentar el n\u00famero de personas que lo usan y facilitarles su uso.\n\nBitcoin se puede utilizar para ahorrar dinero y protegerlo contra robos, o se puede utilizar para enviar y recibir peque\u00f1as cantidades de dinero r\u00e1pidamente, sin tener que seguir muchos pasos. A medida que m\u00e1s personas comiencen a usar bitcoin, tiene el potencial de crecer y volverse m\u00e1s popular.\n\nTambi\u00e9n es posible que las personas y las empresas utilicen bitcoin como parte de sus planes financieros, para ayudar a proteger su dinero de la p\u00e9rdida de valor. Si bien la raz\u00f3n principal por la que las personas podr\u00edan usar bitcoin ahora es para proteger su riqueza, el caso de uso de pagos ha crecido r\u00e1pidamente desde el inicio de Lightning Network y pueden surgir otros casos de uso.\n",
+            "title": "Matriz de Ansoff",
+            "type": "Texto"
+        }
+    ],
+    "meta": {
+        "id": "BitcoinyEconom\u00edaIII",
+        "title": "Bitcoin y Econom\u00eda III"
+    }
+}

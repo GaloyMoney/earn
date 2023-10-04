@@ -1,0 +1,17 @@
+{
+  "answers": [
+    "Yes. There can never be more than 21 million bitcoin created.",
+    "No. The government can create more bitcoin at any time.",
+    "No, the bitcoin software can be changed to allow more bitcoins to be created."
+  ],
+  "feedback": [
+    "Correct. By limiting the amount that can be created, Bitcoin is designed to increase in value over time.",
+    "Wrong answer. The government has no control over Bitcoin.",
+    "Incorrect. One of the key attributes of bitcoin is that the supply is limited forever."
+  ],
+  "id": "LimitedSupply",
+  "question": "Is the supply of bitcoin limited forever?",
+  "text": "Governments can print fiat money in unlimited quantities.\n\n\nBy way of contrast, the supply of Bitcoin is fixed — and can never exceed 21 million coins.\n\n\nA continually increasing supply of fiat money creates inflation. This means that the money you hold today is less valuable in the future.\n\nOne simple example:\nA loaf of bread that cost about 8 cents in 1920. In the year 1990 one loaf cost about $1.00, and today the price is closer to $2.50 !\n\n\nThe limited supply of bitcoin has the opposite effect, one of deflation.\n\n\nThis means that the bitcoin you hold today is designed to be more valuable in the future — because it is scarce.\n",
+  "title": "Special Characteristic",
+  "type": "Text"
+}

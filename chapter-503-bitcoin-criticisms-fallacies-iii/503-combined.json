@@ -1,0 +1,110 @@
+{
+  "content": [
+    {
+      "answers": [
+        "Yes, but these wallets belong to exchanges that have millions of customers",
+        "Yes, and these wallets belong to individuals who have hoarded large amounts of bitcoin",
+        "No, the vast majority of bitcoin is evenly distributed among a large number of users"
+      ],
+      "feedback": [
+        "Congratulations! You've unlocked the ultimate bitcoin wallet mastery. Did you know that it is generally considered best practice to keep bitcoin in a self-hosted wallet for security and privacy reasons",
+        "Nope, sorry! While it is technically true that a small number of wallets hold the majority of all bitcoin, these wallets don't necessarily belong to individuals who have hoarded large amounts of bitcoin. Keep learning about bitcoin",
+        "Uh oh, looks like you might have gotten the wrong answer. The distribution of bitcoin among users is not necessarily even. But at least you're learning about bitcoin!"
+      ],
+      "id": "concentratedOwnership",
+      "question": "Is it true that a small number of wallets hold the majority of all bitcoin",
+      "text": "It is often said that a small number of wallets hold the majority of all bitcoin. While this is technically true, it is important to note that these wallets are typically owned by exchanges that have millions of customers.\n\nMany people choose to leave their bitcoin on an exchange, but it is generally considered best practice to keep bitcoin in a personal wallet for security and privacy reasons.\n\nIt is also worth noting that a single bitcoin address can contain bitcoin belonging to multiple users, and a single user can control multiple wallets. To maintain privacy, it is recommended to generate a new address for each receiving transaction instead of reusing the same address.\n",
+      "title": "Bitcoin Ownership Is Concentrated on a Few Users",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "No, because they have a strong incentive to follow the rules of the network and maintain the integrity of the blockchain",
+        "Yes, because they have a majority of the hashing power",
+        "Yes, but only if they are acting in their own self-interest"
+      ],
+      "feedback": [
+        "Yep, that's right. Did you know that the decentralized nature of the bitcoin network ensures that no single entity, including mining pools, can disrupt the network or censor transactions",
+        "Nope, sorry! While mining pools do have a significant amount of hashing power, individual miners are extremely mobile and can trivially direct their hashrate to an honest mining pool",
+        "Incorrect. While it is true that mining pools have an incentive to act in their own self-interest, this does not mean that they can disrupt the bitcoin network or censor transactions."
+      ],
+      "id": "centralizedMining",
+      "question": "Can mining pools disrupt the bitcoin network or censor transactions",
+      "text": "Some people believe that mining pools, which are groups of miners that work together to increase their chances of finding a block, could potentially disrupt the bitcoin network or censor transactions.\n\nHowever, this concern stems from a lack of understanding of the incentives of miners and their role in the network. In reality, miners have a strong incentive to follow the rules of the network and maintain the integrity of the blockchain, as their own profits depend on it.\n\nAs Jimmy Song said, \"A majority of hashing power can't: take coins you already possess away, change the rules of bitcoin, or hurt you without hurting themselves.\"\n",
+      "title": "Bitcoin Mining Is Centralized",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "By comparing the entire market capitalization of bitcoin to that of other asset classes",
+        "By comparing the unit price of one bitcoin to the unit price of another asset, such as gold",
+        "By consulting a crystal ball and going with your gut feeling"
+      ],
+      "feedback": [
+        "Congratulations, you're on the right track! It's important to consider the entire market cap of bitcoin when comparing it to other assets. Did you know that the total market cap of bitcoin reached over $1 trillion in 2021",
+        "Uh oh, it looks like you might have fallen for the unit bias trap! Better luck next time",
+        "Sorry, consulting a crystal ball might work for predicting the weather, but it's not a reliable way to assess the value of bitcoin. Better luck next time!"
+      ],
+      "id": "tooExpensive",
+      "question": "How can you accurately compare the value of bitcoin to other assets",
+      "text": "One common misconception about bitcoin is that it is too expensive to purchase.\n\nHowever, this belief is based on unit bias, as it is more accurate to compare the entire market capitalization of bitcoin to other assets rather than just the unit price of a single bitcoin.\n\nIt's also worth noting that a single bitcoin can be divided into 100 million smaller units called satoshis. As the saying goes, \"you can buy a fraction of a bitcoin!\"\n",
+      "title": "Bitcoin is too expensive",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "The efficiency and reliability of the bitcoin network as a settlement layer",
+        "The use of secondary layers such as lightning, liquid, or federated side-chains for smaller transactions",
+        "The fact that bitcoin is still a relatively new technology and has not yet reached its full potential"
+      ],
+      "feedback": [
+        "Congratulations, you've hit the nail on the head! The efficiency and reliability of the bitcoin network certainly play a role in keeping transaction fees low. Did you know that the bitcoin network can process up to 7 transactions per second, making it faster than some traditional payment systems",
+        "Nice try, but it looks like you're missing a key piece of information. Try again",
+        "Sorry, but being a newer technology does not necessarily equate to lower transaction fees. Better luck next time!"
+      ],
+      "id": "prohibitivelyHigh",
+      "question": "What is the main reason that transaction fees on the main layer of bitcoin remain relatively low compared to traditional financial systems",
+      "text": "Another misconception about bitcoin is that its transaction costs are prohibitively high.\n\nHowever, confirmed transactions on the main layer of bitcoin provide a level of finality that is unmatched in the traditional financial system. While it is true that transaction fees may occasionally spike due to the limited capacity of each block, the bitcoin network remains an efficient and reliable settlement layer for high-value transactions.\n\nIn fact, according to Saifedean Ammous, \"between October 2010 and July 2021, the average daily transaction fees came up to around 0.02% of the value of the transactions.\"\n\nIn addition, smaller transactions, including microtransactions, are often migrated to secondary layers such as lightning, liquid, or federated side-chains where fees are significantly lower than those offered by retail banks.\n",
+      "title": "Bitcoin transaction costs are prohibitively high",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "No, holding bitcoin is a way to hedge against future uncertainty and does not necessarily mean it is not being used",
+        "Yes, holding bitcoin is the same thing as hoarding bitcoin",
+        "It depends on the individual's intentions and financial goals"
+      ],
+      "feedback": [
+        "Congratulations, you're on the right track! As Pierre Rochard pointed out, 'all bitcoin are always held by someone, payments only change who is holding it.' Well done",
+        "Uh oh, it looks like you might have fallen for the hoarding misconception! Holding bitcoin is a common way to hedge against future uncertainty and does not necessarily mean it is not being used",
+        "Sorry, but the distinction between holding and hoarding bitcoin is not dependent on an individual's intentions and financial goals. Better luck next time!"
+      ],
+      "id": "willBeHoarded",
+      "question": "Is holding bitcoin the same thing as hoarding bitcoin",
+      "text": "There is a common belief that the fixed supply of bitcoin incentivizes hoarding, or the act of holding onto bitcoin rather than spending it in the economy.\n\nHowever, this logic has a few flaws. First, saving, or the act of setting aside income for future use, is often conflated with hoarding. In fact, saving is a necessary precursor to significant investment and can be seen as a responsible financial practice.\n\nSecond, holding onto bitcoin, or any form of money, is a common way to hedge against future uncertainty and does not necessarily mean that it is not being used.\n\nAs Pierre Rochard pointed out, \"all bitcoin are always held by someone, payments only change who is holding it.\" In other words, the act of holding bitcoin is itself a use of bitcoin.\n",
+      "title": "The Misconception of Bitcoin Hoarding",
+      "type": "Text"
+    },
+    {
+      "answers": [
+        "The code is heavily scrutinized and rigorously developed, ensuring its security and transparency",
+        "The fact that it is open source allows for a meritocracy and encourages the \"hive mind\" to build solutions",
+        "It is backed by a large and influential group of investors"
+      ],
+      "feedback": [
+        "That's exactly right! The code of bitcoin is indeed heavily scrutinized and rigorously developed, which adds to its value. In fact, @BTCSchellingPt noted that Bitcoin Core is probably one of the most heavily scrutinized code bases in the world",
+        "Nice try, but the value of bitcoin lies not only in its code but also in the community and infrastructure surrounding it. Better luck next time",
+        "Sorry, the value of bitcoin is not solely determined by the backing of a group of investors. Better luck next time!"
+      ],
+      "id": "canBeDuplicated",
+      "question": "What is the main reason that bitcoin is considered valuable despite the fact that its code can be copied by anyone",
+      "text": "One argument against the value of bitcoin is that it is not scarce because there are thousands of other cryptocurrencies available and because anyone can copy the code and create their own version.\n\nHowever, this overlooks the fact that bitcoin is more than just a piece of code. It is an open source protocol for transferring value that attracts people and resources due to its transparency and rigorous development process.\n\nAs @BTCSchellingPt noted, \"open source is very much a meritocracy. You've got the hive mind building solutions. You get all that scrutiny and that comes back to security. Bitcoin Core is probably one of the most heavily scrutinized code bases in the world.\"\n\nIn other words, the value of bitcoin lies not only in its code, but also in the community and infrastructure that surrounds it.\n",
+      "title": "Bitcoin is not scarce because there are thousands of cryptocurrencies",
+      "type": "Text"
+    }
+  ],
+  "meta": {
+    "id": "BitcoinCriticisms&FallaciesIII",
+    "title": "Bitcoin Criticisms & Fallacies III"
+  }
+}

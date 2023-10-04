@@ -1,0 +1,144 @@
+{
+    "content": [
+        {
+            "answers": [
+                "Termin\u00f3 y fue reemplazado por un nuevo sistema monetario basado en tipos de cambio flotantes.",
+                "Se convirti\u00f3 en un popular programa de juegos de televisi\u00f3n.",
+                "Se convirti\u00f3 en una monta\u00f1a rusa gigante."
+            ],
+            "feedback": [
+                "\u00a1Correcto! En 1971, el presidente Nixon orden\u00f3 al Secretario del Tesoro de Estados Unidos que dejara de permitir a los gobiernos extranjeros cambiar sus d\u00f3lares por oro.",
+                "No del todo, pero una versi\u00f3n de programa de juegos del sistema de Bretton Woods parece que podr\u00eda ser entretenida.",
+                "Veo lo que hiciste all\u00ed, pero esta no es la respuesta correcta aqu\u00ed. \u00a1Intentar otra vez!"
+            ],
+            "id": "nixonchoque",
+            "question": "\u00bfQu\u00e9 pas\u00f3 con el sistema de Bretton Woods en 1971?",
+            "text": "El sistema de Bretton Woods fue un sistema monetario establecido despu\u00e9s de la Segunda Guerra Mundial para abordar la inestabilidad econ\u00f3mica global y los altos niveles de deuda.\n\nBajo este sistema, muchos pa\u00edses vinculaban sus propias monedas al valor del d\u00f3lar estadounidense, que a su vez estaba vinculado al valor del oro a un tipo de cambio fijo. Esto signific\u00f3 que el valor de las monedas de otros pa\u00edses estaba indirectamente vinculado al valor del oro a trav\u00e9s del d\u00f3lar estadounidense.\n\nEn 1971, el presidente estadounidense Richard Nixon orden\u00f3 al Tesoro estadounidense que dejara de permitir a los gobiernos extranjeros cambiar sus d\u00f3lares por oro, un proceso conocido como \"convertibilidad\".\n\nEl repentino fin de la convertibilidad del d\u00f3lar por oro conmocion\u00f3 al mundo y se conoci\u00f3 como el Shock de Nixon, poniendo fin de hecho al sistema de tipos de cambio fijos de Bretton Woods. Marc\u00f3 el comienzo de un nuevo sistema monetario basado en tipos de cambio flotantes.\n",
+            "title": "El shock de Nixon",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Una moneda emitida por un decreto gubernamental.",
+                "Un tipo de moneda que s\u00f3lo aceptan los comerciantes amantes de la pizza",
+                "Una moneda hecha de gemas y metales preciosos."
+            ],
+            "feedback": [
+                "Buen trabajo. El dinero fiduciario, como los billetes de la Reserva Federal, es un tipo de moneda emitida por un gobierno que no se puede cambiar directamente por una cantidad fija de otra cosa, como oro o plata. Su valor proviene del hecho de que el gobierno dice que es valioso y la gente conf\u00eda en que podr\u00e1n usarlo para comprar cosas.",
+                "No del todo, pero una moneda que s\u00f3lo aceptan los comerciantes amantes de las pizzas parece que podr\u00eda ser una forma deliciosa de pagar las cosas.",
+                "No, pero una moneda hecha de gemas y metales preciosos definitivamente ser\u00eda brillante y llamativa."
+            ],
+            "id": "fiatEra",
+            "question": "\u00bfQu\u00e9 significa la palabra \"fiat\" cuando se usa para hablar de dinero?",
+            "text": "\"Fiat\" es una palabra que proviene del lat\u00edn y significa \"h\u00e1gase\". Cuando se usa para hablar de dinero, significa que un gobierno est\u00e1 creando una moneda \u00fanicamente por decreto.\n\nDesde el shock de Nixon, el dinero fiduciario no est\u00e1 respaldado por oro o plata y tampoco puede convertirse directamente en una cantidad fija de oro, como sol\u00eda ser antes.\n\nEsto significa que su valor proviene del hecho de que el gobierno dice que son valiosos y que la gente conf\u00eda en que podr\u00e1 utilizarlos para comprar cosas.\n\nAdem\u00e1s, los gobiernos suelen convertir en ley (moneda de curso legal) que los comerciantes deben aceptar este tipo de moneda fiduciaria y que es el \u00fanico tipo de moneda que se puede utilizar para pagar impuestos.\n",
+            "title": "La era fiat",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Un dinero emitido por el gobierno que existe s\u00f3lo en forma digital, como en una computadora o un tel\u00e9fono.",
+                "Un tipo de moneda que s\u00f3lo se puede utilizar para comprar cosas en Internet.",
+                "Una moneda que s\u00f3lo se puede enviar por correo electr\u00f3nico"
+            ],
+            "feedback": [
+                "Buen trabajo. El dinero fiduciario digital es un tipo de dinero que existe s\u00f3lo en forma digital, como en una computadora o un tel\u00e9fono. Es una representaci\u00f3n digital del efectivo f\u00edsico, como billetes o monedas, y se est\u00e1 volviendo cada vez m\u00e1s popular debido a sus costos m\u00e1s bajos, velocidades m\u00e1s r\u00e1pidas y mayores capacidades de vigilancia.",
+                "No exactamente. Si bien el dinero fiduciario digital es digital como Internet, tambi\u00e9n es ampliamente aceptado entre los comerciantes tradicionales. Intentar otra vez",
+                "No, adivinaste mal. El uso de dicha moneda ser\u00eda extremadamente limitado y, hasta donde sabemos, no existe. \u00a1Intentar otra vez!"
+            ],
+            "id": "digitalFiat",
+            "question": "\u00bfQu\u00e9 es el dinero fiduciario digital?",
+            "text": "El dinero fiduciario digital es un tipo de dinero que existe s\u00f3lo en forma digital, como en una computadora o un tel\u00e9fono. Es una representaci\u00f3n digital de efectivo f\u00edsico, como papel moneda o monedas.\n\nEl fiat digital se hizo posible con la proliferaci\u00f3n de redes de comunicaci\u00f3n digitales, como Internet, y el crecimiento de dispositivos de consumo como computadoras y tel\u00e9fonos que pueden conectarse a estas redes. Los protocolos de pago estandarizados, que son formas establecidas de realizar pagos en l\u00ednea, tambi\u00e9n desempe\u00f1aron un papel en el surgimiento del dinero fiduciario digital.\n\nEl fiat digital est\u00e1 reemplazando cada vez m\u00e1s al fiat f\u00edsico debido a sus menores costos, velocidades m\u00e1s r\u00e1pidas y mayores capacidades de vigilancia. En otras palabras, es m\u00e1s barato y r\u00e1pido utilizar dinero fiduciario digital y es m\u00e1s f\u00e1cil rastrear las transacciones realizadas con dinero fiduciario digital.\n",
+            "title": "F\u00edat digital",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Un tipo de tarjeta de pago que permite a las personas pedir dinero prestado para pagar cosas.",
+                "Una tarjeta que otorga a su poseedor poderes especiales, como la capacidad de volar.",
+                "Una tarjeta que permite pagar cosas moviendo la mano sobre un sensor"
+            ],
+            "feedback": [
+                "Correcto. Una tarjeta de cr\u00e9dito es un tipo de tarjeta de pago que permite a las personas pedir dinero prestado a la compa\u00f1\u00eda de la tarjeta de cr\u00e9dito para pagar cosas ahora, en lugar de ahorrar dinero para pagarlas m\u00e1s tarde. Hoy en d\u00eda se utilizan alrededor de tres mil millones de tarjetas de cr\u00e9dito en todo el mundo.",
+                "No del todo, pero una tarjeta de cr\u00e9dito que otorga poderes especiales como la capacidad de volar parece que podr\u00eda ser muy divertida.",
+                "No, pero una tarjeta de cr\u00e9dito que permite a la gente pagar cosas moviendo la mano sobre un sensor suena como algo sacado de una pel\u00edcula de ciencia ficci\u00f3n, no de la vida real."
+            ],
+            "id": "pl\u00e1sticoCr\u00e9dito",
+            "question": "Qu\u00e9 es una tarjeta de cr\u00e9dito",
+            "text": "La tarjeta de cr\u00e9dito es un tipo de tarjeta de pago que permite a las personas pedir dinero prestado para pagar cosas. Cuando las personas usan tarjetas de cr\u00e9dito, est\u00e1n pidiendo dinero prestado a la compa\u00f1\u00eda de tarjetas de cr\u00e9dito para pagar cosas ahora, en lugar de ahorrar dinero para pagarlas m\u00e1s tarde.\n\nEsto ha ido normalizando paulatinamente el acto de endeudarse para consumo, algo que impacta en la preferencia temporal de los usuarios. En lugar de esperar para ahorrar dinero, la invenci\u00f3n de las tarjetas de cr\u00e9dito ha hecho que sea m\u00e1s com\u00fan que las personas pidan dinero prestado para comprar las cosas que desean de inmediato.\n\nHoy en d\u00eda se utilizan alrededor de tres mil millones de tarjetas de cr\u00e9dito en todo el mundo.\n",
+            "title": "Cr\u00e9dito Pl\u00e1stico",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "La capacidad de garantizar que su propietario no pueda gastar la misma unidad digital de dinero m\u00e1s de una vez.",
+                "El deseo de crear una moneda digital que solo pueda gastarse en Marte",
+                "La idea de premiar la honestidad y hacer muy costosa la deshonestidad"
+            ],
+            "feedback": [
+                "Buen trabajo. En el mundo digital, donde es f\u00e1cil copiar cosas, es importante asegurarse de que su propietario no pueda gastar la misma unidad digital de dinero (como una moneda digital) m\u00e1s de una vez. Este fue un factor clave en la creaci\u00f3n de Bitcoin, ya que es importante para un sistema monetario que funciona sin una autoridad central (como un gobierno).",
+                "No del todo, pero una moneda digital que solo podr\u00eda gastarse en Marte parece que podr\u00eda ser una forma divertida de apoyar la colonizaci\u00f3n del planeta rojo.",
+                "No, pero la idea de recompensar la honestidad y hacer que la deshonestidad sea muy costosa es un factor clave en la creaci\u00f3n de cualquier sistema monetario, ya que ayuda a garantizar la confianza y la cooperaci\u00f3n entre los participantes."
+            ],
+            "id": "doble gastoProblema",
+            "question": "\u00bfCu\u00e1l fue un factor clave en la creaci\u00f3n de Bitcoin?",
+            "text": "En el mundo digital, es f\u00e1cil copiar cosas, por lo que es importante asegurarse de que su propietario no pueda gastar la misma unidad digital de dinero m\u00e1s de una vez.\n\nEn un sistema monetario con una autoridad central (como un gobierno), este problema se resuelve trivialmente manteniendo un libro de transacciones administrado por la autoridad central. Sin embargo, esto normalmente representa un \u00fanico punto de falla tanto desde el punto de vista de la disponibilidad como de la confianza.\n\nEn un sistema descentralizado, el problema del doble gasto es mucho m\u00e1s dif\u00edcil de resolver. Muchas personas han intentado crear dinero digital que no est\u00e9 controlado por un gobierno, pero todos han tenido sus propios desaf\u00edos \u00fanicos.\n\nSatoshi Nakamoto tuvo en cuenta todas estas lecciones y fue el primero en resolver el problema del doble gasto con la implementaci\u00f3n de Bitcoin creando un sistema descentralizado que premia la honestidad y hace muy costoso ser deshonesto.\n",
+            "title": "El problema del doble gasto",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "El problema del doble gasto",
+                "El problema de la doble coincidencia de deseos",
+                "El problema de la reducci\u00f3n a la mitad"
+            ],
+            "feedback": [
+                "Buen trabajo. Bitcoin utiliza un mecanismo de consenso de prueba de trabajo en el que las transacciones se agrupan en bloques y se encadenan en una cadena de bloques. De esta manera, cada usuario sabe que cada moneda s\u00f3lo se gasta una vez.",
+                "No exactamente. La doble coincidencia de necesidades es un problema de trueque que se puede solucionar con dinero. Intentar otra vez",
+                "Ja no. \u00a1La reducci\u00f3n a la mitad de bitcoin no es un problema, sino parte de la soluci\u00f3n que dise\u00f1\u00f3 Satoshi! M\u00e1s sobre eso en el Cap\u00edtulo 302. \u00a1Int\u00e9ntalo de nuevo!"
+            ],
+            "id": "satoshisAvance",
+            "question": "\u00bfQu\u00e9 problema tuvo que resolver Satoshi para crear Bitcoin?",
+            "text": "La soluci\u00f3n de Satoshi al problema del doble gasto fue un gran avance en inform\u00e1tica y sistemas distribuidos. Hasta Bitcoin, muchos cre\u00edan que ser\u00eda irresoluble.\n\nSu soluci\u00f3n permiti\u00f3 a Satoshi desarrollar un nuevo sistema de efectivo electr\u00f3nico que por primera vez hizo posible que las personas se enviaran dinero digital directamente entre s\u00ed, sin necesidad de ayuda de un banco u otra organizaci\u00f3n.\n",
+            "title": "El avance de Satoshi",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "El dinero fiduciario digital se basa en un producto de la era industrial, mientras que Bitcoin es un dinero creado espec\u00edficamente para la era digital.",
+                "El dinero fiduciario digital es de c\u00f3digo abierto, mientras que Bitcoin es un sistema cerrado",
+                "El dinero fiduciario digital est\u00e1 dise\u00f1ado para aumentar su valor con el tiempo, mientras que Bitcoin est\u00e1 dise\u00f1ado para perder valor"
+            ],
+            "feedback": [
+                "para la era digital",
+                "Parece que confundiste las cosas. En realidad es al rev\u00e9s. Intentar otra vez",
+                "Lo siento, eso no est\u00e1 del todo bien. Es probable que Bitcoin aumente su valor con el tiempo debido a su oferta estrictamente fija y su creciente demanda, mientras que la inflaci\u00f3n disminuye el valor de las monedas fiduciarias de manera bastante confiable."
+            ],
+            "id": "de forma nativaDigital",
+            "question": "\u00bfCu\u00e1l es la principal diferencia entre el dinero fiduciario digital y Bitcoin?",
+            "text": "El dinero fiduciario digital es una versi\u00f3n digital de un producto dise\u00f1ado para la era industrial. Tiene los mismos problemas y limitaciones que el producto original. Es un sistema cerrado, fuertemente controlado y dise\u00f1ado para perder valor con el tiempo.\n\nBitcoin es un tipo de dinero digital dise\u00f1ado espec\u00edficamente para la era digital. Se puede mejorar y actualizar, y cualquiera puede ver y cambiar el c\u00f3digo en el que se basa. Se beneficia de las ideas y la creatividad de cualquiera que trabaje en \u00e9l.\n",
+            "title": "Dise\u00f1ado espec\u00edficamente para la era digital",
+            "type": "Texto"
+        },
+        {
+            "answers": [
+                "Proporcionar capacidades de vigilancia y censura al emisor.",
+                "Competir con Bitcoin como reserva de valor",
+                "Para crear una moneda digital descentralizada y sin permisos"
+            ],
+            "feedback": [
+                "\u00a1Eso es correcto! Las CBDC son como el Gran Hermano de las monedas digitales, dise\u00f1adas para brindar capacidades de vigilancia y censura al emisor. Espeluznante, pero correcto",
+                "Jaja, lo siento pero no. Si bien Bitcoin y CBDC son monedas digitales, tienen prop\u00f3sitos y caracter\u00edsticas muy diferentes. Las CBDC son emitidas y respaldadas por bancos centrales, mientras que Bitcoin est\u00e1 descentralizado y no est\u00e1 controlado por ning\u00fan gobierno o instituci\u00f3n financiera.",
+                "Vaya, esa es una respuesta creativa pero desafortunadamente no del todo correcta. Las CBDC no est\u00e1n dise\u00f1adas para ser descentralizadas o sin permisos como Bitcoin. De hecho, son emitidos y respaldados por bancos centrales, y su objetivo principal es ser la herramienta definitiva de control en la era digital. \u00a1Mejor suerte la pr\u00f3xima vez!"
+            ],
+            "id": "CBDC",
+            "question": "\u00bfCu\u00e1l es el objetivo principal de las monedas digitales de los bancos centrales (CBDC)?",
+            "text": "Las monedas digitales del banco central (CBDC) son versiones digitales de la moneda tradicional emitidas y respaldadas por un banco central.\n\nLas CBDC no est\u00e1n descentralizadas ni carecen de permisos como Bitcoin, sino que est\u00e1n destinadas a competir con otras formas de m\u00e9todos de pago digitales por el dominio del mercado.\n\nUna de las principales razones para el desarrollo de las CBDC son las capacidades de vigilancia y censura que brindan al emisor.\n\nAdem\u00e1s, en una era de tipos de inter\u00e9s reales negativos (cuando la tasa de inflaci\u00f3n es superior a la tasa de inter\u00e9s), la adopci\u00f3n generalizada de CBDC suele ir de la mano de la eliminaci\u00f3n gradual del efectivo f\u00edsico, lo que puede conducir a la devaluaci\u00f3n de la moneda. En t\u00e9rminos reales.\n",
+            "title": "Monedas digitales del banco central",
+            "type": "Texto"
+        }
+    ],
+    "meta": {
+        "id": "La evoluci\u00f3n del dinero IV",
+        "title": "La evoluci\u00f3n del dinero IV"
+    }
+}
