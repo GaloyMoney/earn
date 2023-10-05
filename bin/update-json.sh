@@ -9,7 +9,7 @@ find . -type f -path '*chapter*' -name '*.yml' | while read path; do
   new_path="$dir/$file.json"
 
   echo "Templating $path to $new_path"
-  echo "$(cat $path | yq -o json | jq '{answers: [.answers[].answer], feedback: [.answers[].feedback], id: .screen, question: .question, text: .text, title: .title, type: "Text"}')" > $new_path
+  echo "$(cat $path | yq -o json | jq '{ (.screen): {title: .title, questions: { (.screen): { answers: [.answers[].answer], feedback: [.answers[].feedback], question: .question, text: .text, title: .question} } } }')" > $new_path
 
 done
 
@@ -22,11 +22,10 @@ find . -type d -path '*chapter*' | sort | while read dirname; do
 
   echo "Combining chapter $chapter to $new_file"
 
-  chapterfiles=$(find $dirname -type f -name '*.json' | sort)
+  chapterfiles=$(find $dirname -type f -name '*.json' -not -name '*-combined.json' | sort)
   chaptermeta=$(find $dirname -type f -name 'README.md')
   chaptertitle=$(head -n 1 $chaptermeta | sed 's/#//g' | sed 's/Chapter [0-9][0-9][0-9] - //' | xargs)
-  chapterid=$(echo $chaptertitle | sed 's/ //g')
+  chapterid=$(echo $chaptertitle | sed 's/ //g' | sed "s/[^[:alpha:]]//g")
 
-  jq --arg chaptertitle "$chaptertitle" --arg chapterid "$chapterid" -s '{content: map(.), meta: {id: $chapterid, title: $chaptertitle }}' $chapterfiles > $new_file
-
+  jq --arg chaptertitle "$chaptertitle" --arg chapterid "$chapterid" -s '{($chapterid): .}' $chapterfiles | jq -n 'inputs | add'  > $new_file
 done
