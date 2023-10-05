@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "Coincidence of wants",
-    "Coincidence of day and night",
-    "Coincidence of the moon blocking the sun"
-  ],
-  "feedback": [
-    "That is right. Money allows you to easily purchase something, without haggling about the form of payment",
-    "No silly, you know that is not the answer.",
-    "Not quite. We call that a solar eclipse 🌚"
-  ],
-  "id": "coincidenceOfWants",
-  "question": "Which coincidence does money solve?",
-  "text": "Centuries ago, before people had money, they would barter -- or haggle over how to trade one unique item, in exchange for another item or service. Let’s say you wanted to have a meal at the local restaurant, and offered the owner a broom. The owner might say “no” -- but I will accept three hats instead, if you happen to have them. You can imagine how difficult and inefficient a “barter economy” would be! By contrast, with money, you can simply present a $20 bill. And you know that the restaurant owner will readily accept it.\n",
-  "title": "Money solves the “coincidence of wants”... What is that??",
-  "type": "Text"
+  "coincidenceOfWants": {
+    "title": "Money solves the “coincidence of wants”... What is that??",
+    "questions": {
+      "coincidenceOfWants": {
+        "answers": [
+          "Coincidence of wants",
+          "Coincidence of day and night",
+          "Coincidence of the moon blocking the sun"
+        ],
+        "feedback": [
+          "That is right. Money allows you to easily purchase something, without haggling about the form of payment",
+          "No silly, you know that is not the answer.",
+          "Not quite. We call that a solar eclipse 🌚"
+        ],
+        "question": "Which coincidence does money solve?",
+        "text": "Centuries ago, before people had money, they would barter -- or haggle over how to trade one unique item, in exchange for another item or service. Let’s say you wanted to have a meal at the local restaurant, and offered the owner a broom. The owner might say “no” -- but I will accept three hats instead, if you happen to have them. You can imagine how difficult and inefficient a “barter economy” would be! By contrast, with money, you can simply present a $20 bill. And you know that the restaurant owner will readily accept it.\n",
+        "title": "Which coincidence does money solve?"
+      }
+    }
+  }
 }

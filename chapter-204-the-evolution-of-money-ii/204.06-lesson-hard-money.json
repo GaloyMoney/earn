@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "The difficulty of producing new units of a monetary good.",
-    "The value of money compared to other currencies.",
-    "The amount of money in circulation."
-  ],
-  "feedback": [
-    "That's it! **** It's interesting to think about how the hardness of money can change over time as technology advances and what was once difficult to produce becomes easier. Good job",
-    "Sorry, looks like you got it backwards! Better luck with your next guess",
-    "Wrong! The hardness of money has more to do with its production than its quantity. Better luck with your next answer."
-  ],
-  "id": "hardMoney",
-  "question": "What is the hardness of money",
-  "text": "The difficulty of producing new units of money compared to other forms of money is called its hardness. This can change over time as technology improves and what was once difficult to produce could become easier.\n\nIn precolonial Ghana (Africa), aggry beads (made of glass) were used as money. Glassmaking was an expensive craft in that region, which gave the aggry beads a high stock-to-flow ratio and made them rather scarce.\n\nIn the 16th century, European explorers discovered the high value ascribed to these beads by the west Africans and began importing them in mass quantities; as European glassmaking technology made them extremely cheap to produce.\n\nSlowly but surely, the Europeans used these cheaply produced beads to acquire most of the precious resources of Africa. The net effect of this incursion into Africa was the transference its vast natural resource wealth to Europeans and the conversion of aggry beads from hard money to soft money.\n\nAs societies continued to evolve, they began to move away from artifact money like stones and glass beads and towards monetary metals.\n",
-  "title": "Hard Money and Easy Money",
-  "type": "Text"
+  "hardMoney": {
+    "title": "Hard Money and Easy Money",
+    "questions": {
+      "hardMoney": {
+        "answers": [
+          "The difficulty of producing new units of a monetary good.",
+          "The value of money compared to other currencies.",
+          "The amount of money in circulation."
+        ],
+        "feedback": [
+          "That's it! **** It's interesting to think about how the hardness of money can change over time as technology advances and what was once difficult to produce becomes easier. Good job",
+          "Sorry, looks like you got it backwards! Better luck with your next guess",
+          "Wrong! The hardness of money has more to do with its production than its quantity. Better luck with your next answer."
+        ],
+        "question": "What is the hardness of money",
+        "text": "The difficulty of producing new units of money compared to other forms of money is called its hardness. This can change over time as technology improves and what was once difficult to produce could become easier.\n\nIn precolonial Ghana (Africa), aggry beads (made of glass) were used as money. Glassmaking was an expensive craft in that region, which gave the aggry beads a high stock-to-flow ratio and made them rather scarce.\n\nIn the 16th century, European explorers discovered the high value ascribed to these beads by the west Africans and began importing them in mass quantities; as European glassmaking technology made them extremely cheap to produce.\n\nSlowly but surely, the Europeans used these cheaply produced beads to acquire most of the precious resources of Africa. The net effect of this incursion into Africa was the transference its vast natural resource wealth to Europeans and the conversion of aggry beads from hard money to soft money.\n\nAs societies continued to evolve, they began to move away from artifact money like stones and glass beads and towards monetary metals.\n",
+        "title": "What is the hardness of money"
+      }
+    }
+  }
 }

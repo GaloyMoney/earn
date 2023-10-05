@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "Through a decentralized consensus process in which every transaction is independently validated by nodes on the network",
-    "Through a centralized process in which a single authority controls the issuance of new coins",
-    "By fixing the maximum supply at an arbitrary number, such as 100 million"
-  ],
-  "feedback": [
-    "Congratulations! You've unlocked the ultimate bitcoin supply mastery. Did you know that the decentralized nature of the bitcoin network allows for greater transparency, as every transaction is independently validated by nodes on the network",
-    "Nope, sorry! Bitcoin's supply isn't controlled by a central authority. Try again",
-    "Uh oh, looks like you might have gotten the wrong answer. The maximum supply of bitcoin is fixed at 21 million, not 100 million. But at least you're learning about bitcoin!"
-  ],
-  "id": "supplyLimit",
-  "question": "How is the supply of bitcoin protected from being corrupted",
-  "text": "Bitcoin's decentralized nature allows for its supply to be independently validated by each node on the network, ensuring that it cannot be corrupted. This is achieved through a consensus process in which every transaction that has been confirmed on the bitcoin network is independently validated.\n\nWhile anyone can fork the code and make changes to the rules, it is unlikely that this version of the code would be adopted by the wider network. The decentralized consensus process and the incorruptible supply of bitcoin are crucial to its appeal as a form of money.\n\nThe maximum supply of bitcoin is fixed at 21 million, and any attempt to increase this limit would require consensus from a significant portion of the bitcoin network, which is highly unlikely to happen.\n",
-  "title": "Bitcoin's Supply Limit Could Be Corrupted",
-  "type": "Text"
+  "supplyLimit": {
+    "title": "Bitcoin's Supply Limit Could Be Corrupted",
+    "questions": {
+      "supplyLimit": {
+        "answers": [
+          "Through a decentralized consensus process in which every transaction is independently validated by nodes on the network",
+          "Through a centralized process in which a single authority controls the issuance of new coins",
+          "By fixing the maximum supply at an arbitrary number, such as 100 million"
+        ],
+        "feedback": [
+          "Congratulations! You've unlocked the ultimate bitcoin supply mastery. Did you know that the decentralized nature of the bitcoin network allows for greater transparency, as every transaction is independently validated by nodes on the network",
+          "Nope, sorry! Bitcoin's supply isn't controlled by a central authority. Try again",
+          "Uh oh, looks like you might have gotten the wrong answer. The maximum supply of bitcoin is fixed at 21 million, not 100 million. But at least you're learning about bitcoin!"
+        ],
+        "question": "How is the supply of bitcoin protected from being corrupted",
+        "text": "Bitcoin's decentralized nature allows for its supply to be independently validated by each node on the network, ensuring that it cannot be corrupted. This is achieved through a consensus process in which every transaction that has been confirmed on the bitcoin network is independently validated.\n\nWhile anyone can fork the code and make changes to the rules, it is unlikely that this version of the code would be adopted by the wider network. The decentralized consensus process and the incorruptible supply of bitcoin are crucial to its appeal as a form of money.\n\nThe maximum supply of bitcoin is fixed at 21 million, and any attempt to increase this limit would require consensus from a significant portion of the bitcoin network, which is highly unlikely to happen.\n",
+        "title": "How is the supply of bitcoin protected from being corrupted"
+      }
+    }
+  }
 }

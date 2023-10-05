@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "Coins made of copper and silver",
-    "Shells, beads, and gold",
-    "Paper bills with pictures of famous leaders"
-  ],
-  "feedback": [
-    "Sorry, that's incorrect. Copper and silver coins were not used as money in the very beginning of its evolution",
-    "Congratulations, you got it right! It's interesting to note that shells, beads, and gold were all valued for their appearance or special qualities before becoming widely used as money",
-    "Wrong! But at least you're thinking about the more modern forms of money. Paper bills with pictures of famous leaders were not used in the very beginning of money's evolution."
-  ],
-  "id": "collectible",
-  "question": "What were some examples of early forms of money that were valued for their appearance or special qualities",
-  "text": "Throughout history, money has gone through four stages of development. In the very beginning, people only wanted money because of its special qualities, and it was mostly seen as a decorative item or a collectible.;\n\nExamples of this include shells, beads, and gold, which were all collectibles before becoming widely used as money.\n",
-  "title": "Four Stages of Money: Collectible",
-  "type": "Text"
+  "collectible": {
+    "title": "Four Stages of Money: Collectible",
+    "questions": {
+      "collectible": {
+        "answers": [
+          "Coins made of copper and silver",
+          "Shells, beads, and gold",
+          "Paper bills with pictures of famous leaders"
+        ],
+        "feedback": [
+          "Sorry, that's incorrect. Copper and silver coins were not used as money in the very beginning of its evolution",
+          "Congratulations, you got it right! It's interesting to note that shells, beads, and gold were all valued for their appearance or special qualities before becoming widely used as money",
+          "Wrong! But at least you're thinking about the more modern forms of money. Paper bills with pictures of famous leaders were not used in the very beginning of money's evolution."
+        ],
+        "question": "What were some examples of early forms of money that were valued for their appearance or special qualities",
+        "text": "Throughout history, money has gone through four stages of development. In the very beginning, people only wanted money because of its special qualities, and it was mostly seen as a decorative item or a collectible.;\n\nExamples of this include shells, beads, and gold, which were all collectibles before becoming widely used as money.\n",
+        "title": "What were some examples of early forms of money that were valued for their appearance or special qualities"
+      }
+    }
+  }
 }

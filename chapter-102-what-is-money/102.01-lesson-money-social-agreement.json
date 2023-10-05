@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "Because people trust that other people will value money similarly",
-    "Because your mother told you so",
-    "Because a dollar bill is worth its weight in gold"
-  ],
-  "feedback": [
-    "Correct. This is what allows money to work!",
-    "She may well have. But that is not the correct answer here!",
-    "Nope. In the past you could exchange US dollars for gold. But this is no longer the case."
-  ],
-  "id": "moneySocialAgreement",
-  "question": "Why does money have value?",
-  "text": "Money requires people to trust. People trust the paper dollar bills in their pocket. They trust the digits in their online bank account. They trust the balance on a store gift card will be redeemable. Having money allows people to easy trade it immediately for a good, or a service.\n",
-  "title": "Money is a social agreement.",
-  "type": "Text"
+  "moneySocialAgreement": {
+    "title": "Money is a social agreement.",
+    "questions": {
+      "moneySocialAgreement": {
+        "answers": [
+          "Because people trust that other people will value money similarly",
+          "Because your mother told you so",
+          "Because a dollar bill is worth its weight in gold"
+        ],
+        "feedback": [
+          "Correct. This is what allows money to work!",
+          "She may well have. But that is not the correct answer here!",
+          "Nope. In the past you could exchange US dollars for gold. But this is no longer the case."
+        ],
+        "question": "Why does money have value?",
+        "text": "Money requires people to trust. People trust the paper dollar bills in their pocket. They trust the digits in their online bank account. They trust the balance on a store gift card will be redeemable. Having money allows people to easy trade it immediately for a good, or a service.\n",
+        "title": "Why does money have value?"
+      }
+    }
+  }
 }

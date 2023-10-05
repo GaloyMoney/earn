@@ -1,161 +1,200 @@
-{
-  "content": [
-    {
-      "answers": [
-        "Durability, portability, interchangeability, verifiability, divisibility, scarcity, long history, and resistance to censorship",
-        "Tastiness, cuteness, softness, and Instagram-ability",
-        "Rarity, beauty, and sentimental value"
-      ],
-      "feedback": [
-        "Yes! A good store of value should have attributes such as durability, portability, interchangeability, verifiability, divisibility, scarcity, a long history, and resistance to censorship. These characteristics make it easier to use as a medium of exchange and store of value, and increase its demand over time",
-        "Sorry, that is not the correct answer. While tastiness, cuteness, softness, and Instagram-ability may be desirable qualities in other contexts, they are not typically considered important attributes for a store of value",
-        "I'm afraid that is not the correct answer. While rarity, beauty, and sentimental value may make an item valuable to a particular individual, they are not typically considered important attributes for a store of value that is widely accepted and used as a medium of exchange."
-      ],
-      "id": "whatIsGoodSOV",
-      "question": "What are some attributes that make a good store of value",
-      "text": "When stores of value compete with each other, the attributes that make a good store of value allow it to outperform its competitors and increase demand over time.\n\nMany goods have been used as stores of value but certain attributes are particularly desirable and allow these goods to be more successful.\n\nAn ideal store of value should be durable, portable, interchangeable, verifiable, divisible, scarce, have a long history, and resistant to censorship.\n",
+[
+  {
+    "whatIsGoodSOV": {
       "title": "Some stores of value are better than others",
-      "type": "Text"
-    },
-    {
-      "answers": [
-        "The network that secures the currency",
-        "The physical manifestation of the currency",
-        "The institution that issues the currency"
-      ],
-      "feedback": [
-        "You got it right. The network that secures the currency is an important factor in determining its durability, especially for digital currencies like bitcoin. Did you know that bitcoin has displayed a high level of \"anti-fragility\" despite attempts to regulate it and attacks by hackers? That's quite impressive for a currency that's still in its early stages",
-        "Nope, sorry! The physical manifestation of the currency is actually not as important as the institution that issues it or the network that secures it. Don't worry though, you're not alone in making this mistake. Even the Ancient Greeks used to mint their coins out of perishable materials like bronze and copper",
-        "Close, but not quite! The institution that issues the currency is actually an important factor in determining its durability. But hey, at least you're not alone in this mistake. There have been many governments and currencies that have come and gone over the centuries."
-      ],
-      "id": "durability",
-      "question": "Which of the following is an important factor in determining the durability of a good store of value",
-      "text": "The good used as money should not be perishable or easily destroyed. Gold is known for its durability and is often considered the \"king\" in this regard.\n\nA large portion of the gold that has ever been mined or minted, including the gold of the Pharaohs, still exists today and is likely to remain available for many more years. Gold coins that were used as money in ancient times still hold significant value today.\n\nFiat currencies and bitcoins are digital records that may take physical form, such as paper bills. However, it is not the physical manifestation of these currencies that should be considered for their durability, but rather the durability of the institution that issues them.\n\nMany governments and their currencies have come and gone over the centuries, while others, such as the US dollar and British pound, have survived for a longer period of time. Bitcoins have no issuing authority, so their durability depends on the network that secures them. While it is still early to draw strong conclusions about the durability of bitcoins, there are signs that the network has displayed a high level of \"anti-fragility\" despite attempts to regulate it and attacks by hackers.\n",
-      "title": "Durability is an important attribute for a good store of value",
-      "type": "Text"
-    },
-    {
-      "answers": [
-        "Its physical form",
-        "Its ability to be easily transported and stored",
-        "Its ability to facilitate long-distance trade"
-      ],
-      "feedback": [
-        "You got it right. The physical form of the good is not a factor that makes it portable. In fact, digital currencies like bitcoin are the most portable stores of value because they can be easily stored on a small device and transmitted quickly across long distances. Did you know that private keys representing hundreds of millions of dollars can be stored on a tiny USB drive and easily carried anywhere with bitcoin? That's pretty impressive",
-        "Sorry, that's incorrect! The ability to be easily transported and stored is actually an important factor that makes a good store of value portable. But don't worry, it's a common mistake. After all, who wouldn't want to carry around a cow as a store of value? It would make for a pretty impressive conversation starter at least",
-        "Oops, that's not the right answer! The ability to facilitate long-distance trade is actually an important factor that makes a good store of value portable. But hey, at least you're not alone in this mistake. It's easy to see how someone might think that cows are the perfect portable store of value, given their ability to produce milk and beef."
-      ],
-      "id": "portability",
-      "question": "Which of the following is NOT a factor that makes a good store of value portable",
-      "text": "\n\"Portability\" refers to how easy it is to move or transport a good from one place to another.\n\nBitcoins are highly portable, allowing for easy storage on a small USB drive and quick transmission across long distances. Similarly, fiat currencies are also digital and therefore portable, but government regulations and capital controls can make large transfers of value difficult or impossible.\n\nOn the other hand, gold, being physical in form and very dense, is the least portable store of value, with the majority of bullion never being transported and the transfer of physical gold being costly, risky, and time-consuming.\n",
-      "title": "The good must be easy to transport and store",
-      "type": "Text"
-    },
-    {
-      "answers": [
-        "The shape and quality of diamonds are irregular",
-        "Gold is more valuable than diamonds",
-        "Gold is more abundant than diamonds"
-      ],
-      "feedback": [
-        "Exactly**!** The irregular shape and quality of diamonds makes them less interchangeable than gold, which is why gold is considered more fungible. Did you also know that bitcoin is considered fungible at the network level, but its traceability on the blockchain can sometimes lead to it being treated as non-fungible by merchants or exchanges",
-        "Wrong answer! Gold may be more valuable than diamonds, but that's not the main reason it's considered more fungible. Looks like you need to brush up on your fungibility knowledge",
-        "Nope, sorry! While gold may be more abundant than diamonds, that's not the main reason it's considered more fungible. Better luck next time!"
-      ],
-      "id": "fungibility",
-      "question": "What is the main reason that gold is considered more fungible than diamonds",
-      "text": "\n\"Fungibility\" means that one unit of a currency is interchangeable with another unit of the same currency. This is an important attribute for a good store of value.\n\nGold is a highly fungible store of value, as when melted down, an ounce of gold is essentially indistinguishable from any other. Fiat currencies, on the other hand, may not always be completely fungible, as their issuing institutions may treat different denominations differently.\n\nLike gold, units of bitcoin are fungible, but there are some nuances to it. We'll dive into this in a later chapter.\n",
-      "title": "One specimen should be interchangeable with another of equal quantity",
-      "type": "Text"
-    },
-    {
-      "answers": [
-        "By using cryptographic signatures",
-        "By checking for gold-plated tungsten",
-        "By checking for features on banknotes to prevent counterfeiting"
-      ],
-      "feedback": [
-        "Congratulations! You are correct. Bitcoin can be verified with mathematical certainty using cryptographic signatures",
-        "Sorry, but that's not quite right. Better luck next time",
-        "Wrong! Bitcoin is purely digital and doesn't utilize banknotes. Try again!"
-      ],
-      "id": "verifiability",
-      "question": "How can bitcoin be verified",
-      "text": "It is important for a good store of value to be easily verifiable as authentic. This increases confidence in trade and the likelihood that a transaction will be completed.\n\nBoth fiat currencies and gold are generally easy to verify, but they are not foolproof. Counterfeit bills and gold-plated tungsten have been used to deceive people in the past.\n\nOn the other hand, the use of cryptography makes verification very easy for bitcoin and makes counterfeiting impossible.\n",
-      "title": "The good must be easy to quickly identify and verify as authentic",
-      "type": "Text"
-    },
-    {
-      "answers": [
-        "Gold",
-        "Bitcoin",
-        "Fiat currency"
-      ],
-      "feedback": [
-        "You are correct. Gold is difficult divide into small quantities for everyday trade. Did you know that gold has been used as a store of value for thousands of years due to its rarity and durability",
-        "Sorry, but that's not quite right. Bitcoin is highly divisible into its base unit 'satoshi', and it can even be divided into milli-satoshis (1/1000 of a satoshi) on the Lightning Network",
-        "Nope**.** While fiat currencies are not as divisible as bitcoin, they are easily divisible into smaller denominations."
-      ],
-      "id": "divisibility",
-      "question": "Which of the following is NOT a good store of value due to its difficulty in being easily divided for day-to-day trade",
-      "text": "The ability to divide a good is an important attribute for it to be a good store of value.\n\nImagine you have a $100 bill and want to buy a pack of chewing gum that costs 10 cents. The success of the trade depends on the seller having $99.90 in change available in that moment.\n\nIn societies where trade is prevalent, the ability to divide a good into smaller quantities allows for more precise exchange and can make it easier to use in day-to-day transactions.\n\nBitcoin is particularly useful in this regard, as it can be divided down to a hundred millionth of a unit and transmitted in tiny and exact amounts.\n\nFiat currencies are typically divisible down to pocket change, which has little purchasing power, making fiat divisible enough in practice.\n\nGold, while physically divisible, can be difficult to use in small quantities for everyday trade.\n",
-      "title": "The good must be easy to subdivide",
-      "type": "Text"
-    },
-    {
-      "answers": [
-        "Scarcity",
-        "Abundance",
-        "Ease of production"
-      ],
-      "feedback": [
-        "Congratulations! You are correct. Did you know that there will only ever be a maximum of 21 million bitcoins in circulation, making it a scarce and valuable asset",
-        "Sorry, but abundance is not the most important attribute for a store of value. Better luck next time",
-        "Sorry, but ease of production is not the most important attribute for a store of value. Better luck next time!"
-      ],
-      "id": "scarce",
-      "question": "What is the most important attribute of a store of value",
-      "text": "A good store of value should have a limited supply, or be scarce.\n\nThis is because scarcity can create value, as people often desire rare or hard-to-obtain items. Bitcoin, for instance, is designed to have a maximum of 21 million units, which gives each owner a known percentage of the total possible supply.\n\nIn contrast, the supply of gold can potentially increase through new mining methods, and fiat currencies are often prone to inflation, leading to a decline in value over time.\n",
-      "title": "A monetary good must scarce",
-      "type": "Text"
-    },
-    {
-      "answers": [
-        "The new arrival has a significant advantage over the established good",
-        "The established good has a longer history of being valued by society",
-        "The new arrival is cheaper to produce"
-      ],
-      "feedback": [
-        "You are correct. A long-established store of value is less likely to be displaced by a new arrival unless the new arrival has a significant advantage over the established good",
-        "Sorry, but this is actually the reason that a long-established store of value is less likely to be displaced. Better luck next time",
-        "Nope, wrong. Did you not pay attention in the previous lesson on scarcity?"
-      ],
-      "id": "establishedHistory",
-      "question": "What is the main reason that a long-established store of value could be displaced by a new arrival",
-      "text": "This is because a well-established store of value is less likely to be displaced by a newcomer, unless it has a significant advantage over the established good.\n\nAdditionally, people are creatures of habit and will keep using what they already know.\n\nGold, for example, has a long history of being valued and has maintained its value over time. In contrast, fiat currencies, which are a relatively recent invention, have a tendency to lose value over time due to inflation.\n\nBitcoin, although it has only been around for a short time, has shown resilience in the market and is likely to continue to be valued.\n",
-      "title": "An established history of being valued by society",
-      "type": "Text"
-    },
-    {
-      "answers": [
-        "Its decentralized, peer-to-peer network",
-        "Its physical nature",
-        "Its regulation by states"
-      ],
-      "feedback": [
-        "You are correct. The decentralized, peer-to-peer network of Bitcoin allows for transactions to be made without permission, making it a censorship-resistant good",
-        "No. In fact, physical goods often require permission to cross borders and can easily be confiscated. Better luck next time",
-        "Sorry, but the opposite is actually true. The fiat banking system, which is regulated by states, requires human intervention to report and prevent certain uses of monetary goods, making it prone to censorship. Try again!"
-      ],
-      "id": "censorshipResistance",
-      "question": "Which of the following is NOT a reason that Bitcoin is considered a censorship-resistant good",
-      "text": "Censorship-resistance is an attribute that has become increasingly important in the digital age, as it refers to the difficulty that external parties, such as corporations or governments, have in preventing an individual from using a particular good.\n\nThis attribute is particularly valuable for individuals living under regimes that enforce capital controls or prohibit certain forms of trade. Bitcoin is often cited as being a censorship-resistant good due to its decentralized, peer-to-peer network, which allows for transactions to be made without human intervention or permission.\n\nIn contrast, the fiat banking system is regulated by states and requires human intervention to report and prevent certain uses of monetary goods, such as capital controls.\n\nGold, although it is not issued by states, can be difficult to transmit at a distance and is therefore more subject to state regulation.\n",
-      "title": "No permission required",
-      "type": "Text"
+      "questions": {
+        "whatIsGoodSOV": {
+          "answers": [
+            "Durability, portability, interchangeability, verifiability, divisibility, scarcity, long history, and resistance to censorship",
+            "Tastiness, cuteness, softness, and Instagram-ability",
+            "Rarity, beauty, and sentimental value"
+          ],
+          "feedback": [
+            "Yes! A good store of value should have attributes such as durability, portability, interchangeability, verifiability, divisibility, scarcity, a long history, and resistance to censorship. These characteristics make it easier to use as a medium of exchange and store of value, and increase its demand over time",
+            "Sorry, that is not the correct answer. While tastiness, cuteness, softness, and Instagram-ability may be desirable qualities in other contexts, they are not typically considered important attributes for a store of value",
+            "I'm afraid that is not the correct answer. While rarity, beauty, and sentimental value may make an item valuable to a particular individual, they are not typically considered important attributes for a store of value that is widely accepted and used as a medium of exchange."
+          ],
+          "question": "What are some attributes that make a good store of value",
+          "text": "When stores of value compete with each other, the attributes that make a good store of value allow it to outperform its competitors and increase demand over time.\n\nMany goods have been used as stores of value but certain attributes are particularly desirable and allow these goods to be more successful.\n\nAn ideal store of value should be durable, portable, interchangeable, verifiable, divisible, scarce, have a long history, and resistant to censorship.\n",
+          "title": "What are some attributes that make a good store of value"
+        }
+      }
     }
-  ],
-  "meta": {
-    "id": "AttributesofagoodStoreofValue",
-    "title": "Attributes of a good Store of Value"
+  },
+  {
+    "durability": {
+      "title": "Durability is an important attribute for a good store of value",
+      "questions": {
+        "durability": {
+          "answers": [
+            "The network that secures the currency",
+            "The physical manifestation of the currency",
+            "The institution that issues the currency"
+          ],
+          "feedback": [
+            "You got it right. The network that secures the currency is an important factor in determining its durability, especially for digital currencies like bitcoin. Did you know that bitcoin has displayed a high level of \"anti-fragility\" despite attempts to regulate it and attacks by hackers? That's quite impressive for a currency that's still in its early stages",
+            "Nope, sorry! The physical manifestation of the currency is actually not as important as the institution that issues it or the network that secures it. Don't worry though, you're not alone in making this mistake. Even the Ancient Greeks used to mint their coins out of perishable materials like bronze and copper",
+            "Close, but not quite! The institution that issues the currency is actually an important factor in determining its durability. But hey, at least you're not alone in this mistake. There have been many governments and currencies that have come and gone over the centuries."
+          ],
+          "question": "Which of the following is an important factor in determining the durability of a good store of value",
+          "text": "The good used as money should not be perishable or easily destroyed. Gold is known for its durability and is often considered the \"king\" in this regard.\n\nA large portion of the gold that has ever been mined or minted, including the gold of the Pharaohs, still exists today and is likely to remain available for many more years. Gold coins that were used as money in ancient times still hold significant value today.\n\nFiat currencies and bitcoins are digital records that may take physical form, such as paper bills. However, it is not the physical manifestation of these currencies that should be considered for their durability, but rather the durability of the institution that issues them.\n\nMany governments and their currencies have come and gone over the centuries, while others, such as the US dollar and British pound, have survived for a longer period of time. Bitcoins have no issuing authority, so their durability depends on the network that secures them. While it is still early to draw strong conclusions about the durability of bitcoins, there are signs that the network has displayed a high level of \"anti-fragility\" despite attempts to regulate it and attacks by hackers.\n",
+          "title": "Which of the following is an important factor in determining the durability of a good store of value"
+        }
+      }
+    }
+  },
+  {
+    "portability": {
+      "title": "The good must be easy to transport and store",
+      "questions": {
+        "portability": {
+          "answers": [
+            "Its physical form",
+            "Its ability to be easily transported and stored",
+            "Its ability to facilitate long-distance trade"
+          ],
+          "feedback": [
+            "You got it right. The physical form of the good is not a factor that makes it portable. In fact, digital currencies like bitcoin are the most portable stores of value because they can be easily stored on a small device and transmitted quickly across long distances. Did you know that private keys representing hundreds of millions of dollars can be stored on a tiny USB drive and easily carried anywhere with bitcoin? That's pretty impressive",
+            "Sorry, that's incorrect! The ability to be easily transported and stored is actually an important factor that makes a good store of value portable. But don't worry, it's a common mistake. After all, who wouldn't want to carry around a cow as a store of value? It would make for a pretty impressive conversation starter at least",
+            "Oops, that's not the right answer! The ability to facilitate long-distance trade is actually an important factor that makes a good store of value portable. But hey, at least you're not alone in this mistake. It's easy to see how someone might think that cows are the perfect portable store of value, given their ability to produce milk and beef."
+          ],
+          "question": "Which of the following is NOT a factor that makes a good store of value portable",
+          "text": "\n\"Portability\" refers to how easy it is to move or transport a good from one place to another.\n\nBitcoins are highly portable, allowing for easy storage on a small USB drive and quick transmission across long distances. Similarly, fiat currencies are also digital and therefore portable, but government regulations and capital controls can make large transfers of value difficult or impossible.\n\nOn the other hand, gold, being physical in form and very dense, is the least portable store of value, with the majority of bullion never being transported and the transfer of physical gold being costly, risky, and time-consuming.\n",
+          "title": "Which of the following is NOT a factor that makes a good store of value portable"
+        }
+      }
+    }
+  },
+  {
+    "fungibility": {
+      "title": "One specimen should be interchangeable with another of equal quantity",
+      "questions": {
+        "fungibility": {
+          "answers": [
+            "The shape and quality of diamonds are irregular",
+            "Gold is more valuable than diamonds",
+            "Gold is more abundant than diamonds"
+          ],
+          "feedback": [
+            "Exactly**!** The irregular shape and quality of diamonds makes them less interchangeable than gold, which is why gold is considered more fungible. Did you also know that bitcoin is considered fungible at the network level, but its traceability on the blockchain can sometimes lead to it being treated as non-fungible by merchants or exchanges",
+            "Wrong answer! Gold may be more valuable than diamonds, but that's not the main reason it's considered more fungible. Looks like you need to brush up on your fungibility knowledge",
+            "Nope, sorry! While gold may be more abundant than diamonds, that's not the main reason it's considered more fungible. Better luck next time!"
+          ],
+          "question": "What is the main reason that gold is considered more fungible than diamonds",
+          "text": "\n\"Fungibility\" means that one unit of a currency is interchangeable with another unit of the same currency. This is an important attribute for a good store of value.\n\nGold is a highly fungible store of value, as when melted down, an ounce of gold is essentially indistinguishable from any other. Fiat currencies, on the other hand, may not always be completely fungible, as their issuing institutions may treat different denominations differently.\n\nLike gold, units of bitcoin are fungible, but there are some nuances to it. We'll dive into this in a later chapter.\n",
+          "title": "What is the main reason that gold is considered more fungible than diamonds"
+        }
+      }
+    }
+  },
+  {
+    "verifiability": {
+      "title": "The good must be easy to quickly identify and verify as authentic",
+      "questions": {
+        "verifiability": {
+          "answers": [
+            "By using cryptographic signatures",
+            "By checking for gold-plated tungsten",
+            "By checking for features on banknotes to prevent counterfeiting"
+          ],
+          "feedback": [
+            "Congratulations! You are correct. Bitcoin can be verified with mathematical certainty using cryptographic signatures",
+            "Sorry, but that's not quite right. Better luck next time",
+            "Wrong! Bitcoin is purely digital and doesn't utilize banknotes. Try again!"
+          ],
+          "question": "How can bitcoin be verified",
+          "text": "It is important for a good store of value to be easily verifiable as authentic. This increases confidence in trade and the likelihood that a transaction will be completed.\n\nBoth fiat currencies and gold are generally easy to verify, but they are not foolproof. Counterfeit bills and gold-plated tungsten have been used to deceive people in the past.\n\nOn the other hand, the use of cryptography makes verification very easy for bitcoin and makes counterfeiting impossible.\n",
+          "title": "How can bitcoin be verified"
+        }
+      }
+    }
+  },
+  {
+    "divisibility": {
+      "title": "The good must be easy to subdivide",
+      "questions": {
+        "divisibility": {
+          "answers": [
+            "Gold",
+            "Bitcoin",
+            "Fiat currency"
+          ],
+          "feedback": [
+            "You are correct. Gold is difficult divide into small quantities for everyday trade. Did you know that gold has been used as a store of value for thousands of years due to its rarity and durability",
+            "Sorry, but that's not quite right. Bitcoin is highly divisible into its base unit 'satoshi', and it can even be divided into milli-satoshis (1/1000 of a satoshi) on the Lightning Network",
+            "Nope**.** While fiat currencies are not as divisible as bitcoin, they are easily divisible into smaller denominations."
+          ],
+          "question": "Which of the following is NOT a good store of value due to its difficulty in being easily divided for day-to-day trade",
+          "text": "The ability to divide a good is an important attribute for it to be a good store of value.\n\nImagine you have a $100 bill and want to buy a pack of chewing gum that costs 10 cents. The success of the trade depends on the seller having $99.90 in change available in that moment.\n\nIn societies where trade is prevalent, the ability to divide a good into smaller quantities allows for more precise exchange and can make it easier to use in day-to-day transactions.\n\nBitcoin is particularly useful in this regard, as it can be divided down to a hundred millionth of a unit and transmitted in tiny and exact amounts.\n\nFiat currencies are typically divisible down to pocket change, which has little purchasing power, making fiat divisible enough in practice.\n\nGold, while physically divisible, can be difficult to use in small quantities for everyday trade.\n",
+          "title": "Which of the following is NOT a good store of value due to its difficulty in being easily divided for day-to-day trade"
+        }
+      }
+    }
+  },
+  {
+    "scarce": {
+      "title": "A monetary good must scarce",
+      "questions": {
+        "scarce": {
+          "answers": [
+            "Scarcity",
+            "Abundance",
+            "Ease of production"
+          ],
+          "feedback": [
+            "Congratulations! You are correct. Did you know that there will only ever be a maximum of 21 million bitcoins in circulation, making it a scarce and valuable asset",
+            "Sorry, but abundance is not the most important attribute for a store of value. Better luck next time",
+            "Sorry, but ease of production is not the most important attribute for a store of value. Better luck next time!"
+          ],
+          "question": "What is the most important attribute of a store of value",
+          "text": "A good store of value should have a limited supply, or be scarce.\n\nThis is because scarcity can create value, as people often desire rare or hard-to-obtain items. Bitcoin, for instance, is designed to have a maximum of 21 million units, which gives each owner a known percentage of the total possible supply.\n\nIn contrast, the supply of gold can potentially increase through new mining methods, and fiat currencies are often prone to inflation, leading to a decline in value over time.\n",
+          "title": "What is the most important attribute of a store of value"
+        }
+      }
+    }
+  },
+  {
+    "establishedHistory": {
+      "title": "An established history of being valued by society",
+      "questions": {
+        "establishedHistory": {
+          "answers": [
+            "The new arrival has a significant advantage over the established good",
+            "The established good has a longer history of being valued by society",
+            "The new arrival is cheaper to produce"
+          ],
+          "feedback": [
+            "You are correct. A long-established store of value is less likely to be displaced by a new arrival unless the new arrival has a significant advantage over the established good",
+            "Sorry, but this is actually the reason that a long-established store of value is less likely to be displaced. Better luck next time",
+            "Nope, wrong. Did you not pay attention in the previous lesson on scarcity?"
+          ],
+          "question": "What is the main reason that a long-established store of value could be displaced by a new arrival",
+          "text": "This is because a well-established store of value is less likely to be displaced by a newcomer, unless it has a significant advantage over the established good.\n\nAdditionally, people are creatures of habit and will keep using what they already know.\n\nGold, for example, has a long history of being valued and has maintained its value over time. In contrast, fiat currencies, which are a relatively recent invention, have a tendency to lose value over time due to inflation.\n\nBitcoin, although it has only been around for a short time, has shown resilience in the market and is likely to continue to be valued.\n",
+          "title": "What is the main reason that a long-established store of value could be displaced by a new arrival"
+        }
+      }
+    }
+  },
+  {
+    "censorshipResistance": {
+      "title": "No permission required",
+      "questions": {
+        "censorshipResistance": {
+          "answers": [
+            "Its decentralized, peer-to-peer network",
+            "Its physical nature",
+            "Its regulation by states"
+          ],
+          "feedback": [
+            "You are correct. The decentralized, peer-to-peer network of Bitcoin allows for transactions to be made without permission, making it a censorship-resistant good",
+            "No. In fact, physical goods often require permission to cross borders and can easily be confiscated. Better luck next time",
+            "Sorry, but the opposite is actually true. The fiat banking system, which is regulated by states, requires human intervention to report and prevent certain uses of monetary goods, making it prone to censorship. Try again!"
+          ],
+          "question": "Which of the following is NOT a reason that Bitcoin is considered a censorship-resistant good",
+          "text": "Censorship-resistance is an attribute that has become increasingly important in the digital age, as it refers to the difficulty that external parties, such as corporations or governments, have in preventing an individual from using a particular good.\n\nThis attribute is particularly valuable for individuals living under regimes that enforce capital controls or prohibit certain forms of trade. Bitcoin is often cited as being a censorship-resistant good due to its decentralized, peer-to-peer network, which allows for transactions to be made without human intervention or permission.\n\nIn contrast, the fiat banking system is regulated by states and requires human intervention to report and prevent certain uses of monetary goods, such as capital controls.\n\nGold, although it is not issued by states, can be difficult to transmit at a distance and is therefore more subject to state regulation.\n",
+          "title": "Which of the following is NOT a reason that Bitcoin is considered a censorship-resistant good"
+        }
+      }
+    }
   }
-}
+]

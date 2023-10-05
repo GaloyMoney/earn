@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "On the Internet",
-    "On the moon",
-    "In a Federal bank account"
-  ],
-  "feedback": [
-    "Correct. You just earned another 5 sats.",
-    "Incorrect. Well… at least not yet ;)",
-    "Wrong. Please try again."
-  ],
-  "id": "whereBitcoinExist",
-  "question": "Where do the bitcoins exist?",
-  "text": "Bitcoin is a new form of money. It can be used by anyone, anytime -- anywhere in the world. It is not tied to a specific government or region (like US Dollars). There are also no paper bills, metal coins or plastic cards. Everything is 100% digital. Bitcoin is a network of computers running on the internet. Your bitcoin is easily managed with software on your smartphone or computer!\n",
-  "title": "Where do the bitcoins exist?",
-  "type": "Text"
+  "whereBitcoinExist": {
+    "title": "Where do the bitcoins exist?",
+    "questions": {
+      "whereBitcoinExist": {
+        "answers": [
+          "On the Internet",
+          "On the moon",
+          "In a Federal bank account"
+        ],
+        "feedback": [
+          "Correct. You just earned another 5 sats.",
+          "Incorrect. Well… at least not yet ;)",
+          "Wrong. Please try again."
+        ],
+        "question": "Where do the bitcoins exist?",
+        "text": "Bitcoin is a new form of money. It can be used by anyone, anytime -- anywhere in the world. It is not tied to a specific government or region (like US Dollars). There are also no paper bills, metal coins or plastic cards. Everything is 100% digital. Bitcoin is a network of computers running on the internet. Your bitcoin is easily managed with software on your smartphone or computer!\n",
+        "title": "Where do the bitcoins exist?"
+      }
+    }
+  }
 }

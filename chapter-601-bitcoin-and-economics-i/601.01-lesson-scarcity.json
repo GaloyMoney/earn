@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "A resource that is limited in quantity or availability and can lead to competition for possession",
-    "A resource that is abundant and easy to come by",
-    "A resource that can only be obtained through time travel"
-  ],
-  "feedback": [
-    "Remark:** Correct! Good job, you understood the concept of scarcity. Scarcity can lead to competition and can affect the value of goods and services in a free market",
-    "Wrong! Sorry to burst your bubble, but if something is easy to come by, it can't be scarce",
-    "Wrong! Time travel is a great idea for a sci-fi movie, but it doesn't have anything to do with scarce resources."
-  ],
-  "id": "scarcity",
-  "question": "What is a scarce resource",
-  "text": "When there are not enough resources to go around, people and organizations compete for them.\n\nThis competition is often reflected in the price of goods and services in a free market. If the demand for a particular resource increases faster than the supply, it can become scarce and more valuable.\n\nMoney is often used as a way to buy things because it is easy to trade and is valuable because it is scarce. Bitcoin is a digital form of money that has a fixed supply, which makes it rare and valuable.\n\nThe idea that there is never enough of something to go around is a basic principle of economics, but it is often ignored in political decisions.\n",
-  "title": "How limited resources are allocated and competed for",
-  "type": "Text"
+  "scarcity": {
+    "title": "How limited resources are allocated and competed for",
+    "questions": {
+      "scarcity": {
+        "answers": [
+          "A resource that is limited in quantity or availability and can lead to competition for possession",
+          "A resource that is abundant and easy to come by",
+          "A resource that can only be obtained through time travel"
+        ],
+        "feedback": [
+          "Remark:** Correct! Good job, you understood the concept of scarcity. Scarcity can lead to competition and can affect the value of goods and services in a free market",
+          "Wrong! Sorry to burst your bubble, but if something is easy to come by, it can't be scarce",
+          "Wrong! Time travel is a great idea for a sci-fi movie, but it doesn't have anything to do with scarce resources."
+        ],
+        "question": "What is a scarce resource",
+        "text": "When there are not enough resources to go around, people and organizations compete for them.\n\nThis competition is often reflected in the price of goods and services in a free market. If the demand for a particular resource increases faster than the supply, it can become scarce and more valuable.\n\nMoney is often used as a way to buy things because it is easy to trade and is valuable because it is scarce. Bitcoin is a digital form of money that has a fixed supply, which makes it rare and valuable.\n\nThe idea that there is never enough of something to go around is a basic principle of economics, but it is often ignored in political decisions.\n",
+        "title": "What is a scarce resource"
+      }
+    }
+  }
 }

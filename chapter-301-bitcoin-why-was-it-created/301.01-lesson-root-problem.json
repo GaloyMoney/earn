@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "The trust that is required to make it work",
-    "The color of the physical bills",
-    "The fact that it requires physical storage"
-  ],
-  "feedback": [
-    "You got it right! The root problem with conventional currency is the trust that is required to make it work. It's an interesting point, as trust is a fundamental aspect of any currency system",
-    "Interesting take, but unfortunately not the correct answer. Conventional currency isn't just about the aesthetics of its physical form, although I'm sure some people might argue otherwise",
-    "Haha, while it might be inconvenient to lug around a wallet full of cash, that's not the root problem with conventional currency. But don't worry, you can try again!"
-  ],
-  "id": "rootProblem",
-  "question": "What is the root problem with conventional currency according to Satoshi Nakamoto",
-  "text": "So what was the motivation to create Bitcoin? In his announcement of the project, Satoshi Nakamoto gave the following explanation:\n\n\"The root problem with conventional currency is all the trust that’s required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve.\"\n",
-  "title": "The Root Problem",
-  "type": "Text"
+  "rootProblem": {
+    "title": "The Root Problem",
+    "questions": {
+      "rootProblem": {
+        "answers": [
+          "The trust that is required to make it work",
+          "The color of the physical bills",
+          "The fact that it requires physical storage"
+        ],
+        "feedback": [
+          "You got it right! The root problem with conventional currency is the trust that is required to make it work. It's an interesting point, as trust is a fundamental aspect of any currency system",
+          "Interesting take, but unfortunately not the correct answer. Conventional currency isn't just about the aesthetics of its physical form, although I'm sure some people might argue otherwise",
+          "Haha, while it might be inconvenient to lug around a wallet full of cash, that's not the root problem with conventional currency. But don't worry, you can try again!"
+        ],
+        "question": "What is the root problem with conventional currency according to Satoshi Nakamoto",
+        "text": "So what was the motivation to create Bitcoin? In his announcement of the project, Satoshi Nakamoto gave the following explanation:\n\n\"The root problem with conventional currency is all the trust that’s required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve.\"\n",
+        "title": "What is the root problem with conventional currency according to Satoshi Nakamoto"
+      }
+    }
+  }
 }

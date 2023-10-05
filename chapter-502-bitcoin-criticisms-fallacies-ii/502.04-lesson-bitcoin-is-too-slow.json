@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "Credit card payments go through multiple parties before reaching the merchant, while bitcoin payments go directly to the recipient without intermediaries",
-    "Credit card payments are final once they are confirmed, while bitcoin payments can be reversed",
-    "but at least you're learning about bitcoin"
-  ],
-  "feedback": [
-    "Congratulations! You've unlocked the ultimate bitcoin payment mastery. You seem to understand that bitcoin operates without a central bank or single administrator",
-    "Uh oh, looks like you might have gotten the wrong answer, but at least you're learning about bitcoin",
-    "Nope, sorry! Credit card payments are being censored all the time, but good try. Keep learning about bitcoin!"
-  ],
-  "id": "bitcoinisTooSlow",
-  "question": "What is the main difference between paying with a credit card and paying with bitcoin on-chain",
-  "text": "Paying with bitcoin is not the same as using a credit card to make a purchase. When you use a credit card, your payment goes through multiple parties before reaching the merchant's bank account after days or even weeks of processing.\n\nIn contrast, when you pay with bitcoin on the main blockchain, you are sending actual money directly to the recipient without any intermediaries. This means there is no risk of censorship and the transaction is considered final once it has been confirmed by six blocks on the blockchain.\n\nThe proper comparison would be between bitcoin base layer and the Fed as currency issuer and as a clearing mechanism.\n\nSince the advent of the Lightning Network, the \"Bitcoin is too slow\" criticism has largely fallen silent.\n",
-  "title": "Bitcoin is too slow",
-  "type": "Text"
+  "bitcoinisTooSlow": {
+    "title": "Bitcoin is too slow",
+    "questions": {
+      "bitcoinisTooSlow": {
+        "answers": [
+          "Credit card payments go through multiple parties before reaching the merchant, while bitcoin payments go directly to the recipient without intermediaries",
+          "Credit card payments are final once they are confirmed, while bitcoin payments can be reversed",
+          "but at least you're learning about bitcoin"
+        ],
+        "feedback": [
+          "Congratulations! You've unlocked the ultimate bitcoin payment mastery. You seem to understand that bitcoin operates without a central bank or single administrator",
+          "Uh oh, looks like you might have gotten the wrong answer, but at least you're learning about bitcoin",
+          "Nope, sorry! Credit card payments are being censored all the time, but good try. Keep learning about bitcoin!"
+        ],
+        "question": "What is the main difference between paying with a credit card and paying with bitcoin on-chain",
+        "text": "Paying with bitcoin is not the same as using a credit card to make a purchase. When you use a credit card, your payment goes through multiple parties before reaching the merchant's bank account after days or even weeks of processing.\n\nIn contrast, when you pay with bitcoin on the main blockchain, you are sending actual money directly to the recipient without any intermediaries. This means there is no risk of censorship and the transaction is considered final once it has been confirmed by six blocks on the blockchain.\n\nThe proper comparison would be between bitcoin base layer and the Fed as currency issuer and as a clearing mechanism.\n\nSince the advent of the Lightning Network, the \"Bitcoin is too slow\" criticism has largely fallen silent.\n",
+        "title": "What is the main difference between paying with a credit card and paying with bitcoin on-chain"
+      }
+    }
+  }
 }

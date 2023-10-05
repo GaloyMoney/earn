@@ -1,93 +1,112 @@
-{
-  "content": [
-    {
-      "answers": [
-        "They are created by order of the National government in a given country.",
-        "By the manager of the local branch bank.",
-        "The Monopoly Money Man."
-      ],
-      "feedback": [
-        "Correct. The central bank of a government creates fiat currencies.",
-        "Not quite. While local banks can give out loans based on credit and create money by doing so, they cannot create fiat currencies. Try again.",
-        "Nope. Try again!"
-      ],
-      "id": "WhatIsFiat",
-      "question": "Who creates fiat currencies, such as US Dollars or Swiss Francs?",
-      "text": "All national currencies in circulation today are called “fiat” money. This includes US Dollars, Japanese Yen, Swiss Francs, and so forth.\n\n\nThe word “fiat” is latin for “by decree” -- which means “by official order”.\n\n\nThis means that all fiat money -- including the US Dollar -- is simply created by the order of the national government.\n",
+[
+  {
+    "WhatIsFiat": {
       "title": "Fiat Currency: What is that?",
-      "type": "Text"
-    },
-    {
-      "answers": [
-        "All fiat currency is eventually abused by government authorities.",
-        "Local banks might not have enough vault space to hold all of the dollar bills.",
-        "There might not be enough trees to make paper for all of the additional dollar bills."
-      ],
-      "feedback": [
-        "Correct. Throughout history, governments have been unable to resist the ability to print money, as they effectively have no obligation to repay this money.",
-        "Nope, that is certainly not the case.",
-        "Wrong. Please try again."
-      ],
-      "id": "whyCareAboutFiatMoney",
-      "question": "Why should I care about the government controlling fiat money?",
-      "text": "As shared in a prior quiz, the US Central Bank is the Federal Reserve, or the “Fed”.\n\n\nThe Fed can print more dollars at any time -- and does not need permission from the President, nor Congress, and certainly not from US citizens.\n\n\nHaving control of money can be very tempting for authorities to abuse -- and often time leads to massive inflation, arbitrary confiscation and corruption.\n\n\nIn fact, Alan Greenspan, the famous former chairman of The Fed, famously said the US “can pay any debt that it has, because we can always print more to do that”.\n",
-      "title": "I trust my government. Why should I care about fiat money?",
-      "type": "Text"
-    },
-    {
-      "answers": [
-        "The printing of additional money leads to inflation.",
-        "People must exchange old dollar bills at the bank every year.",
-        "The appearance of the dollar bill changes."
-      ],
-      "feedback": [
-        "Correct. This means that goods and services will cost more in the future.",
-        "Nope. Older dollar bills are just as valid as newer ones.",
-        "Incorrect. Although the government may issue new looks for bills, this has nothing to do with increasing the money supply."
-      ],
-      "id": "GovernementCanPrintMoney",
-      "question": "What does it mean when the government prints money?",
-      "text": "Well, everybody should care!\n\n\nThe practice of government printing money -- or increasing the supply of dollars -- leads to inflation.\n\n\nInflation is an increase in the price of goods and services. In other words, the price for something in the future will be more expensive than today.\n\n\nSo what does inflation mean for citizens?\n\n\nIn the United Kingdom, the Pound Sterling has lost 99.5% of its value since being introduced over 300 years ago.\n\n\nIn the United States, the dollar has lost 97% of its value since the end of WWI, about 100 years ago.\n\n\nThis means a steak that cost $0.30 in 1920... was $3 in 1990… and about $15 today, in the year 2020!\n",
-      "title": "Who should care that the government can print unlimited money?",
-      "type": "Text"
-    },
-    {
-      "answers": [
-        "Every fiat currency that ever existed has lost a massive amount of value.",
-        "The value stays the same forever.",
-        "The look and design of paper bills is updated every 10 years or so."
-      ],
-      "feedback": [
-        "Correct. This is true even for USD, which has lost 97% of its value during the last 100 years.",
-        "Incorrect. Please try again.",
-        "Not quite. Although the design of papers bills may change, this has nothing to do with their value."
-      ],
-      "id": "FiatLosesValueOverTime",
-      "question": "What happens to the value of all fiat money over time?",
-      "text": "That is correct.\n\n\nIn the history of the world, there have been 775 fiat currencies created. Most no longer exist, and the average life for any fiat money is only 27 years.\n\n\nThe British Pound is the oldest fiat currency. It has lost more than 99% of its value since 1694.\n\n\nThere is no precedent for any fiat money maintaining its value over time. This is inflation.\nIt is effectively a form of theft of your own hard earned money !\n",
-      "title": "Does this mean that all fiat money loses value over time?",
-      "type": "Text"
-    },
-    {
-      "answers": [
-        "Money is difficult to move around the world, and can also be surveilled.",
-        "Money is no longer needed in the 21st Century.",
-        "Money is the root of all evil."
-      ],
-      "feedback": [
-        "Correct. We will explain more about these issues in subsequent quiz modules. Keep digging!!",
-        "Wrong answer. You know that is not true.",
-        "While some may believe this to be so, it is not the answer we are looking for here."
-      ],
-      "id": "OtherIssues",
-      "question": "What are some other issues that exist with fiat money?",
-      "text": "Yes, there are many other issues that exist with modern fiat money.\n\n\nFirst, it can be extremely difficult to move money around the world. Often, governments will outright restrict the movement -- and sometimes even confiscate money -- without a valid reason or explanation. And even when you can send money, high transaction fees make it very expensive.\n\n\nSecond, even in the US, there has been a complete loss of privacy, as the majority of commerce takes places with debit and credit cards, as well as online with other systems such as PayPal and Apple Pay.\n\n\nEver notice how an ad appears in your social media or Gmail just moments after searching for a certain product or service? This is known as “surveillance capitalism”, and is based on companies selling your personal financial data.\n",
-      "title": "OK, fiat money loses value over time. Are there other issues?",
-      "type": "Text"
+      "questions": {
+        "WhatIsFiat": {
+          "answers": [
+            "They are created by order of the National government in a given country.",
+            "By the manager of the local branch bank.",
+            "The Monopoly Money Man."
+          ],
+          "feedback": [
+            "Correct. The central bank of a government creates fiat currencies.",
+            "Not quite. While local banks can give out loans based on credit and create money by doing so, they cannot create fiat currencies. Try again.",
+            "Nope. Try again!"
+          ],
+          "question": "Who creates fiat currencies, such as US Dollars or Swiss Francs?",
+          "text": "All national currencies in circulation today are called “fiat” money. This includes US Dollars, Japanese Yen, Swiss Francs, and so forth.\n\n\nThe word “fiat” is latin for “by decree” -- which means “by official order”.\n\n\nThis means that all fiat money -- including the US Dollar -- is simply created by the order of the national government.\n",
+          "title": "Who creates fiat currencies, such as US Dollars or Swiss Francs?"
+        }
+      }
     }
-  ],
-  "meta": {
-    "id": "HowDoesMoneyWork?",
-    "title": "How Does Money Work?"
+  },
+  {
+    "whyCareAboutFiatMoney": {
+      "title": "I trust my government. Why should I care about fiat money?",
+      "questions": {
+        "whyCareAboutFiatMoney": {
+          "answers": [
+            "All fiat currency is eventually abused by government authorities.",
+            "Local banks might not have enough vault space to hold all of the dollar bills.",
+            "There might not be enough trees to make paper for all of the additional dollar bills."
+          ],
+          "feedback": [
+            "Correct. Throughout history, governments have been unable to resist the ability to print money, as they effectively have no obligation to repay this money.",
+            "Nope, that is certainly not the case.",
+            "Wrong. Please try again."
+          ],
+          "question": "Why should I care about the government controlling fiat money?",
+          "text": "As shared in a prior quiz, the US Central Bank is the Federal Reserve, or the “Fed”.\n\n\nThe Fed can print more dollars at any time -- and does not need permission from the President, nor Congress, and certainly not from US citizens.\n\n\nHaving control of money can be very tempting for authorities to abuse -- and often time leads to massive inflation, arbitrary confiscation and corruption.\n\n\nIn fact, Alan Greenspan, the famous former chairman of The Fed, famously said the US “can pay any debt that it has, because we can always print more to do that”.\n",
+          "title": "Why should I care about the government controlling fiat money?"
+        }
+      }
+    }
+  },
+  {
+    "GovernementCanPrintMoney": {
+      "title": "Who should care that the government can print unlimited money?",
+      "questions": {
+        "GovernementCanPrintMoney": {
+          "answers": [
+            "The printing of additional money leads to inflation.",
+            "People must exchange old dollar bills at the bank every year.",
+            "The appearance of the dollar bill changes."
+          ],
+          "feedback": [
+            "Correct. This means that goods and services will cost more in the future.",
+            "Nope. Older dollar bills are just as valid as newer ones.",
+            "Incorrect. Although the government may issue new looks for bills, this has nothing to do with increasing the money supply."
+          ],
+          "question": "What does it mean when the government prints money?",
+          "text": "Well, everybody should care!\n\n\nThe practice of government printing money -- or increasing the supply of dollars -- leads to inflation.\n\n\nInflation is an increase in the price of goods and services. In other words, the price for something in the future will be more expensive than today.\n\n\nSo what does inflation mean for citizens?\n\n\nIn the United Kingdom, the Pound Sterling has lost 99.5% of its value since being introduced over 300 years ago.\n\n\nIn the United States, the dollar has lost 97% of its value since the end of WWI, about 100 years ago.\n\n\nThis means a steak that cost $0.30 in 1920... was $3 in 1990… and about $15 today, in the year 2020!\n",
+          "title": "What does it mean when the government prints money?"
+        }
+      }
+    }
+  },
+  {
+    "FiatLosesValueOverTime": {
+      "title": "Does this mean that all fiat money loses value over time?",
+      "questions": {
+        "FiatLosesValueOverTime": {
+          "answers": [
+            "Every fiat currency that ever existed has lost a massive amount of value.",
+            "The value stays the same forever.",
+            "The look and design of paper bills is updated every 10 years or so."
+          ],
+          "feedback": [
+            "Correct. This is true even for USD, which has lost 97% of its value during the last 100 years.",
+            "Incorrect. Please try again.",
+            "Not quite. Although the design of papers bills may change, this has nothing to do with their value."
+          ],
+          "question": "What happens to the value of all fiat money over time?",
+          "text": "That is correct.\n\n\nIn the history of the world, there have been 775 fiat currencies created. Most no longer exist, and the average life for any fiat money is only 27 years.\n\n\nThe British Pound is the oldest fiat currency. It has lost more than 99% of its value since 1694.\n\n\nThere is no precedent for any fiat money maintaining its value over time. This is inflation.\nIt is effectively a form of theft of your own hard earned money !\n",
+          "title": "What happens to the value of all fiat money over time?"
+        }
+      }
+    }
+  },
+  {
+    "OtherIssues": {
+      "title": "OK, fiat money loses value over time. Are there other issues?",
+      "questions": {
+        "OtherIssues": {
+          "answers": [
+            "Money is difficult to move around the world, and can also be surveilled.",
+            "Money is no longer needed in the 21st Century.",
+            "Money is the root of all evil."
+          ],
+          "feedback": [
+            "Correct. We will explain more about these issues in subsequent quiz modules. Keep digging!!",
+            "Wrong answer. You know that is not true.",
+            "While some may believe this to be so, it is not the answer we are looking for here."
+          ],
+          "question": "What are some other issues that exist with fiat money?",
+          "text": "Yes, there are many other issues that exist with modern fiat money.\n\n\nFirst, it can be extremely difficult to move money around the world. Often, governments will outright restrict the movement -- and sometimes even confiscate money -- without a valid reason or explanation. And even when you can send money, high transaction fees make it very expensive.\n\n\nSecond, even in the US, there has been a complete loss of privacy, as the majority of commerce takes places with debit and credit cards, as well as online with other systems such as PayPal and Apple Pay.\n\n\nEver notice how an ad appears in your social media or Gmail just moments after searching for a certain product or service? This is known as “surveillance capitalism”, and is based on companies selling your personal financial data.\n",
+          "title": "What are some other issues that exist with fiat money?"
+        }
+      }
+    }
   }
-}
+]

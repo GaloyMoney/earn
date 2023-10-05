@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "The belief that one unit of something is always the right amount to use when comparing it to other things",
-    "The belief that one type of currency is better than all others",
-    "The belief that all units of something should be the same size"
-  ],
-  "feedback": [
-    "Yep! Unit bias is the belief that one unit of something is always the right amount to use when comparing it to other things. However, this is not always true and can lead to faulty reasoning. Good job",
-    "I'm afraid you're mistaken. Unit bias is not about believing that one type of currency is better than all others. Maybe you should stick to counting your coins instead of trying to determine the value of currency",
-    "Sorry, but unit bias is not about the size of units. Don't worry, though – you can still have fun with different sizes of units by playing with building blocks or LEGO bricks."
-  ],
-  "id": "unitBias",
-  "question": "What is unit bias",
-  "text": "Unit bias is a type of thinking that assumes that one unit of something is the right amount to use when comparing it to other things.\n\nThis is not always true, especially when it comes to bitcoin. To understand how bitcoin compares to other stores of value, you need to look at the total amount of bitcoin that is available and its value, not just the price of one unit. Bitcoin is very small and can be divided into very small amounts, down to 8 decimal places. This means that you can buy a very small part of a bitcoin if you want.\n\nPeople sometimes think that other cryptocurrencies are cheaper than bitcoin because they cost less per unit, but this is not always true. Bitcoin is a special type of digital money because it is limited in supply and cannot be made in larger amounts.\n\nThis makes it a good way to store value because the value does not decrease over time. When you look at bitcoin in this way, you can see that it is just a small part of the total amount of non-government wealth in the world.\n",
-  "title": "Unit Bias",
-  "type": "Text"
+  "unitBias": {
+    "title": "Unit Bias",
+    "questions": {
+      "unitBias": {
+        "answers": [
+          "The belief that one unit of something is always the right amount to use when comparing it to other things",
+          "The belief that one type of currency is better than all others",
+          "The belief that all units of something should be the same size"
+        ],
+        "feedback": [
+          "Yep! Unit bias is the belief that one unit of something is always the right amount to use when comparing it to other things. However, this is not always true and can lead to faulty reasoning. Good job",
+          "I'm afraid you're mistaken. Unit bias is not about believing that one type of currency is better than all others. Maybe you should stick to counting your coins instead of trying to determine the value of currency",
+          "Sorry, but unit bias is not about the size of units. Don't worry, though – you can still have fun with different sizes of units by playing with building blocks or LEGO bricks."
+        ],
+        "question": "What is unit bias",
+        "text": "Unit bias is a type of thinking that assumes that one unit of something is the right amount to use when comparing it to other things.\n\nThis is not always true, especially when it comes to bitcoin. To understand how bitcoin compares to other stores of value, you need to look at the total amount of bitcoin that is available and its value, not just the price of one unit. Bitcoin is very small and can be divided into very small amounts, down to 8 decimal places. This means that you can buy a very small part of a bitcoin if you want.\n\nPeople sometimes think that other cryptocurrencies are cheaper than bitcoin because they cost less per unit, but this is not always true. Bitcoin is a special type of digital money because it is limited in supply and cannot be made in larger amounts.\n\nThis makes it a good way to store value because the value does not decrease over time. When you look at bitcoin in this way, you can see that it is just a small part of the total amount of non-government wealth in the world.\n",
+        "title": "What is unit bias"
+      }
+    }
+  }
 }

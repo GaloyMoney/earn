@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "It has consistently gone up",
-    "It has consistently gone down",
-    "It has gone up and down randomly"
-  ],
-  "feedback": [
-    "Well done! You seem to have a good grasp on the overall trend of bitcoin's exchange rate. Despite some fluctuations, it has consistently been on the rise. Keep up the good work",
-    "I'm sorry, that's not quite right. While the exchange rate of bitcoin has certainly had its ups and downs, the overall trend has not been consistently downward. Try again",
-    "Sorry, that's incorrect. While the exchange rate of bitcoin has certainly had its ups and downs, the overall trend has not been completely random. Keep trying!"
-  ],
-  "id": "itsaBubble",
-  "question": "How has the exchange rate of bitcoin trended over time",
-  "text": "Over the years, bitcoin has often been called a bubble by various people. While its price has had several significant declines that may have warranted this label, the overall trend for bitcoin has been consistently upward.\n\nCritics who have proclaimed the death of bitcoin after each market cycle have been proven wrong, as the nascent digital money has continued to thrive despite their predictions. As these critics run out of analogies to use, it has become clear that their accusations are unfounded.\n",
-  "title": "Is bitcoin a bubble?",
-  "type": "Text"
+  "itsaBubble": {
+    "title": "Is bitcoin a bubble?",
+    "questions": {
+      "itsaBubble": {
+        "answers": [
+          "It has consistently gone up",
+          "It has consistently gone down",
+          "It has gone up and down randomly"
+        ],
+        "feedback": [
+          "Well done! You seem to have a good grasp on the overall trend of bitcoin's exchange rate. Despite some fluctuations, it has consistently been on the rise. Keep up the good work",
+          "I'm sorry, that's not quite right. While the exchange rate of bitcoin has certainly had its ups and downs, the overall trend has not been consistently downward. Try again",
+          "Sorry, that's incorrect. While the exchange rate of bitcoin has certainly had its ups and downs, the overall trend has not been completely random. Keep trying!"
+        ],
+        "question": "How has the exchange rate of bitcoin trended over time",
+        "text": "Over the years, bitcoin has often been called a bubble by various people. While its price has had several significant declines that may have warranted this label, the overall trend for bitcoin has been consistently upward.\n\nCritics who have proclaimed the death of bitcoin after each market cycle have been proven wrong, as the nascent digital money has continued to thrive despite their predictions. As these critics run out of analogies to use, it has become clear that their accusations are unfounded.\n",
+        "title": "How has the exchange rate of bitcoin trended over time"
+      }
+    }
+  }
 }

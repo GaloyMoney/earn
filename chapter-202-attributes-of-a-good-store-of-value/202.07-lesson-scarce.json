@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "Scarcity",
-    "Abundance",
-    "Ease of production"
-  ],
-  "feedback": [
-    "Congratulations! You are correct. Did you know that there will only ever be a maximum of 21 million bitcoins in circulation, making it a scarce and valuable asset",
-    "Sorry, but abundance is not the most important attribute for a store of value. Better luck next time",
-    "Sorry, but ease of production is not the most important attribute for a store of value. Better luck next time!"
-  ],
-  "id": "scarce",
-  "question": "What is the most important attribute of a store of value",
-  "text": "A good store of value should have a limited supply, or be scarce.\n\nThis is because scarcity can create value, as people often desire rare or hard-to-obtain items. Bitcoin, for instance, is designed to have a maximum of 21 million units, which gives each owner a known percentage of the total possible supply.\n\nIn contrast, the supply of gold can potentially increase through new mining methods, and fiat currencies are often prone to inflation, leading to a decline in value over time.\n",
-  "title": "A monetary good must scarce",
-  "type": "Text"
+  "scarce": {
+    "title": "A monetary good must scarce",
+    "questions": {
+      "scarce": {
+        "answers": [
+          "Scarcity",
+          "Abundance",
+          "Ease of production"
+        ],
+        "feedback": [
+          "Congratulations! You are correct. Did you know that there will only ever be a maximum of 21 million bitcoins in circulation, making it a scarce and valuable asset",
+          "Sorry, but abundance is not the most important attribute for a store of value. Better luck next time",
+          "Sorry, but ease of production is not the most important attribute for a store of value. Better luck next time!"
+        ],
+        "question": "What is the most important attribute of a store of value",
+        "text": "A good store of value should have a limited supply, or be scarce.\n\nThis is because scarcity can create value, as people often desire rare or hard-to-obtain items. Bitcoin, for instance, is designed to have a maximum of 21 million units, which gives each owner a known percentage of the total possible supply.\n\nIn contrast, the supply of gold can potentially increase through new mining methods, and fiat currencies are often prone to inflation, leading to a decline in value over time.\n",
+        "title": "What is the most important attribute of a store of value"
+      }
+    }
+  }
 }

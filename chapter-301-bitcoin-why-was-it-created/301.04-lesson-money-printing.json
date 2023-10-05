@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "Asset bubbles in stock and real estate markets that experience corrections roughly every decade",
-    "A sudden increase in the popularity of polka music",
-    "A decrease in the number of people who believe in extraterrestrial life forms"
-  ],
-  "feedback": [
-    "Bullseye! Asset bubbles in stock and real estate markets are indeed one of the main consequences of excessive money printing and credit expansion. It's worth noting that these bubbles often disproportionately benefit those closest to the source of new money, while lower income individuals are often the most affected by the inflation and economic booms and busts that result",
-    "That's not the right wavelength here! While some believe easy money has a negative impact on music, this is not the right answer",
-    "Your guess is out of this world. While it's certainly interesting to speculate about the existence of aliens, it has nothing to do with the consequences of excessive money printing and credit expansion."
-  ],
-  "id": "moneyPrinting",
-  "question": "What is one of the main consequences of excessive money printing and credit expansion",
-  "text": "Excessive money printing and credit expansion can cause numerous social and economic issues, including asset bubbles in stocks and real estate markets which tend to experience corrections roughly every decade.\n\nWhile those closest to the source of new money often benefit greatly from these cycles, lower income individuals who don't own valuable assets and rely on regular paychecks are often the most affected by inflation and economic booms and busts created by the fiat currency system.\n\nA well-known example of this is the Global Financial Crisis that began in 2008, which was preceded by a significant accumulation of debt and risk in the commercial banking sector.\n",
-  "title": "Money Printing and Credit Expansion",
-  "type": "Text"
+  "moneyPrinting": {
+    "title": "Money Printing and Credit Expansion",
+    "questions": {
+      "moneyPrinting": {
+        "answers": [
+          "Asset bubbles in stock and real estate markets that experience corrections roughly every decade",
+          "A sudden increase in the popularity of polka music",
+          "A decrease in the number of people who believe in extraterrestrial life forms"
+        ],
+        "feedback": [
+          "Bullseye! Asset bubbles in stock and real estate markets are indeed one of the main consequences of excessive money printing and credit expansion. It's worth noting that these bubbles often disproportionately benefit those closest to the source of new money, while lower income individuals are often the most affected by the inflation and economic booms and busts that result",
+          "That's not the right wavelength here! While some believe easy money has a negative impact on music, this is not the right answer",
+          "Your guess is out of this world. While it's certainly interesting to speculate about the existence of aliens, it has nothing to do with the consequences of excessive money printing and credit expansion."
+        ],
+        "question": "What is one of the main consequences of excessive money printing and credit expansion",
+        "text": "Excessive money printing and credit expansion can cause numerous social and economic issues, including asset bubbles in stocks and real estate markets which tend to experience corrections roughly every decade.\n\nWhile those closest to the source of new money often benefit greatly from these cycles, lower income individuals who don't own valuable assets and rely on regular paychecks are often the most affected by inflation and economic booms and busts created by the fiat currency system.\n\nA well-known example of this is the Global Financial Crisis that began in 2008, which was preceded by a significant accumulation of debt and risk in the commercial banking sector.\n",
+        "title": "What is one of the main consequences of excessive money printing and credit expansion"
+      }
+    }
+  }
 }

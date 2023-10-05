@@ -1,17 +1,22 @@
 {
-  "answers": [
-    "Because it cannot be destroyed or synthesized from other materials.",
-    "Because it is abundant and easy to find.",
-    "Because it is the most attractive and visually appealing metal."
-  ],
-  "feedback": [
-    "Exactly**.** It's interesting to think about how the qualities of different materials, such as gold's durability and rarity, can make them more valuable and desirable as a form of money. Good job",
-    "Sorry, looks like you got it backwards! Better luck with your next guess",
-    "Wrong! While gold may have a certain aesthetic appeal, it's ultimately its functional qualities that make it a valuable form of money. Better luck with your next answer."
-  ],
-  "id": "convergingOnGold",
-  "question": "Why did the free market choose gold as a form of money",
-  "text": "From all monetary metals, the free market ultimately chose gold as a form of money because it has two important qualities that keep its value stable over long periods of time and across many regions of the world:\n\n1\\) Gold cannot be destroyed, and\n\n2\\) Gold cannot be made from other materials.\n",
-  "title": "Convergence on Gold",
-  "type": "Text"
+  "convergingOnGold": {
+    "title": "Convergence on Gold",
+    "questions": {
+      "convergingOnGold": {
+        "answers": [
+          "Because it cannot be destroyed or synthesized from other materials.",
+          "Because it is abundant and easy to find.",
+          "Because it is the most attractive and visually appealing metal."
+        ],
+        "feedback": [
+          "Exactly**.** It's interesting to think about how the qualities of different materials, such as gold's durability and rarity, can make them more valuable and desirable as a form of money. Good job",
+          "Sorry, looks like you got it backwards! Better luck with your next guess",
+          "Wrong! While gold may have a certain aesthetic appeal, it's ultimately its functional qualities that make it a valuable form of money. Better luck with your next answer."
+        ],
+        "question": "Why did the free market choose gold as a form of money",
+        "text": "From all monetary metals, the free market ultimately chose gold as a form of money because it has two important qualities that keep its value stable over long periods of time and across many regions of the world:\n\n1\\) Gold cannot be destroyed, and\n\n2\\) Gold cannot be made from other materials.\n",
+        "title": "Why did the free market choose gold as a form of money"
+      }
+    }
+  }
 }
