@@ -9,7 +9,7 @@ find . -type f -path '*chapter*' -name '*.yml' | while read path; do
   new_path="$dir/$file.json"
 
   echo "Templating $path to $new_path"
-  echo "$(cat $path | yq -o json | jq '{ (.screen): {title: .title, questions: { (.screen): { answers: [.answers[].answer], feedback: [.answers[].feedback], question: .question, text: .text, title: .question} } } }')" > $new_path
+  echo "$(cat $path | yq -o json | jq '{ (.screen): {screen: .screen, answers: [.answers[].answer], feedback: [.answers[].feedback], question: .question, text: .text, title: .question} }')" > $new_path
 
 done
 
@@ -27,5 +27,5 @@ find . -type d -path '*chapter*' | sort | while read dirname; do
   chaptertitle=$(head -n 1 $chaptermeta | sed 's/#//g' | sed 's/Chapter [0-9][0-9][0-9] - //' | xargs)
   chapterid=$(echo $chaptertitle | sed 's/ //g' | sed "s/[^[:alpha:]]//g")
 
-  jq --arg chaptertitle "$chaptertitle" --arg chapterid "$chapterid" -s '{($chapterid): .}' $chapterfiles | jq -n 'inputs | add'  > $new_file
+  jq -n '[ inputs[] | { (.screen|tostring): del(.screen) }]' $chapterfiles | jq --arg chaptertitle "$chaptertitle" --arg chapterid "$chapterid" '{ ($chapterid): { title: $chaptertitle, questions: (. |= add) } }' > $new_file
 done
