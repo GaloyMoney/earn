@@ -1,22 +1,18 @@
 {
   "whyStonesShellGold": {
-    "title": "Why were stones, shells and gold commonly used as money in the past?",
-    "questions": {
-      "whyStonesShellGold": {
-        "answers": [
-          "Because they have key characteristics -- such as being durable, uniform and divisible.",
-          "Because they are pretty and shiny.",
-          "Because they fit inside of your pocket"
-        ],
-        "feedback": [
-          "Correct. More key characteristics include being scarce and portable.",
-          "Incorrect. That may be true, but alone are not great characteristics of money.",
-          "Not quite. Although these items were surely portable, that alone was not the reason to be used as money."
-        ],
-        "question": "Why were stones, seashells and gold used as units of money?",
-        "text": "Well, these items all had some -- but not all -- of the characteristics of good money.\n\n\n\nSo what characteristics make for “good” money?\nScarce: not abundant, nor easy to reproduce or copy\nAccepted: relatively easy for people to verify its authenticity\nDurable: easy to maintain, and does not perish or fall apart\nUniform: readily interchangeable with another item of the same form\nPortable: easy to transport\nDivisible: can be split and shared in smaller pieces\n",
-        "title": "Why were stones, seashells and gold used as units of money?"
-      }
-    }
+    "screen": "whyStonesShellGold",
+    "answers": [
+      "Because they have key characteristics -- such as being durable, uniform and divisible.",
+      "Because they are pretty and shiny.",
+      "Because they fit inside of your pocket"
+    ],
+    "feedback": [
+      "Correct. More key characteristics include being scarce and portable.",
+      "Incorrect. That may be true, but alone are not great characteristics of money.",
+      "Not quite. Although these items were surely portable, that alone was not the reason to be used as money."
+    ],
+    "question": "Why were stones, seashells and gold used as units of money?",
+    "text": "Well, these items all had some -- but not all -- of the characteristics of good money.\n\n\n\nSo what characteristics make for “good” money?\nScarce: not abundant, nor easy to reproduce or copy\nAccepted: relatively easy for people to verify its authenticity\nDurable: easy to maintain, and does not perish or fall apart\nUniform: readily interchangeable with another item of the same form\nPortable: easy to transport\nDivisible: can be split and shared in smaller pieces\n",
+    "title": "Why were stones, seashells and gold used as units of money?"
   }
 }

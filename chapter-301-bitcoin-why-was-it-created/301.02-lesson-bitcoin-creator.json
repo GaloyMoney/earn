@@ -1,22 +1,18 @@
 {
   "bitcoinCreator": {
-    "title": "Bitcoin's Creator Satoshi Nakamoto",
-    "questions": {
-      "bitcoinCreator": {
-        "answers": [
-          "An unknown programmer who used the pseudonym \"Satoshi Nakamoto\"",
-          "Craig Wright",
-          "Elon Musk"
-        ],
-        "feedback": [
-          "Correct! It's an interesting mystery, but it's worth noting that the bitcoin protocol is based on open source code, meaning that anyone can review it. This transparency makes it the most reviewed code in existence. Despite the mystery of its creator, bitcoin itself is an open and transparent monetary network that can be examined and used by anyone",
-          "I'm sorry, but it looks like Craig Wright's claim to being the creator of bitcoin has been thoroughly debunked. Better luck with the next answer",
-          "Nope! Elon Musk's talents might be better suited to launching rockets and building electric cars rather than creating revolutionary digital currencies. Try again!"
-        ],
-        "question": "Who is the creator of bitcoin",
-        "text": "The creator of bitcoin, who used the pseudonym \"Satoshi Nakamoto,\" is unknown and no claims of being the creator have been verified. Satoshi was only involved in the project for a short time before disappearing.\n\nThe bitcoin protocol is based on open source code, meaning that anyone can review it. This transparency makes it the most reviewed code in existence. Despite the mystery of its creator, bitcoin itself is an open and transparent monetary network that can be examined and used by anyone.\n",
-        "title": "Who is the creator of bitcoin"
-      }
-    }
+    "screen": "bitcoinCreator",
+    "answers": [
+      "An unknown programmer who used the pseudonym \"Satoshi Nakamoto\"",
+      "Craig Wright",
+      "Elon Musk"
+    ],
+    "feedback": [
+      "Correct! It's an interesting mystery, but it's worth noting that the bitcoin protocol is based on open source code, meaning that anyone can review it. This transparency makes it the most reviewed code in existence. Despite the mystery of its creator, bitcoin itself is an open and transparent monetary network that can be examined and used by anyone",
+      "I'm sorry, but it looks like Craig Wright's claim to being the creator of bitcoin has been thoroughly debunked. Better luck with the next answer",
+      "Nope! Elon Musk's talents might be better suited to launching rockets and building electric cars rather than creating revolutionary digital currencies. Try again!"
+    ],
+    "question": "Who is the creator of bitcoin",
+    "text": "The creator of bitcoin, who used the pseudonym \"Satoshi Nakamoto,\" is unknown and no claims of being the creator have been verified. Satoshi was only involved in the project for a short time before disappearing.\n\nThe bitcoin protocol is based on open source code, meaning that anyone can review it. This transparency makes it the most reviewed code in existence. Despite the mystery of its creator, bitcoin itself is an open and transparent monetary network that can be examined and used by anyone.\n",
+    "title": "Who is the creator of bitcoin"
   }
 }

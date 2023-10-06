@@ -1,22 +1,18 @@
 {
   "toomuchEnergy": {
-    "title": "Is bitcoin's energy consumption excessive?",
-    "questions": {
-      "toomuchEnergy": {
-        "answers": [
-          "It helps to even out the distribution of energy consumption around the world.",
-          "It increases the distribution of energy consumption around the world.",
-          "It decreases the distribution of energy consumption around the world."
-        ],
-        "feedback": [
-          "You got it right. Did you know that bitcoin's fixed energy price helps to incentivize the use of renewable energy sources in areas where they may not have been economically viable before",
-          "Well, I see you're a fan of chaos and global energy inequality, but this answer is wrong",
-          "Looks like you're trying to save the world one energy imbalance at a time. This answer is clearly incorrect."
-        ],
-        "question": "How does bitcoin impact global energy consumption",
-        "text": "Bitcoin is a decentralized digital currency that is accessible to users around the world and is resistant to censorship due to its Proof of Work mechanism.\n\nWith an estimated four billion people currently living under authoritarianism, bitcoin provides a way for individuals to send, receive, save, and transport wealth. It is important to consider the amount of energy that a monetary network like this should consume and to carefully evaluate who is best equipped to make decisions about this.\n\nOne way to think about the impact of bitcoin on global energy consumption is to imagine a topographic map of the world, with local electricity costs represented by the peaks and troughs. Adding bitcoin to the mix is like pouring a glass of water over the map - it settles in the troughs, smoothing them out. This is because bitcoin is a global buyer of energy at a fixed price, which helps to even out the distribution of energy consumption around the world.\n",
-        "title": "How does bitcoin impact global energy consumption"
-      }
-    }
+    "screen": "toomuchEnergy",
+    "answers": [
+      "It helps to even out the distribution of energy consumption around the world.",
+      "It increases the distribution of energy consumption around the world.",
+      "It decreases the distribution of energy consumption around the world."
+    ],
+    "feedback": [
+      "You got it right. Did you know that bitcoin's fixed energy price helps to incentivize the use of renewable energy sources in areas where they may not have been economically viable before",
+      "Well, I see you're a fan of chaos and global energy inequality, but this answer is wrong",
+      "Looks like you're trying to save the world one energy imbalance at a time. This answer is clearly incorrect."
+    ],
+    "question": "How does bitcoin impact global energy consumption",
+    "text": "Bitcoin is a decentralized digital currency that is accessible to users around the world and is resistant to censorship due to its Proof of Work mechanism.\n\nWith an estimated four billion people currently living under authoritarianism, bitcoin provides a way for individuals to send, receive, save, and transport wealth. It is important to consider the amount of energy that a monetary network like this should consume and to carefully evaluate who is best equipped to make decisions about this.\n\nOne way to think about the impact of bitcoin on global energy consumption is to imagine a topographic map of the world, with local electricity costs represented by the peaks and troughs. Adding bitcoin to the mix is like pouring a glass of water over the map - it settles in the troughs, smoothing them out. This is because bitcoin is a global buyer of energy at a fixed price, which helps to even out the distribution of energy consumption around the world.\n",
+    "title": "How does bitcoin impact global energy consumption"
   }
 }

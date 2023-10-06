@@ -1,22 +1,18 @@
 {
   "monetizationStage": {
-    "title": "Bitcoin is in the stage of monetization",
-    "questions": {
-      "monetizationStage": {
-        "answers": [
-          "It is in the process of becoming more widely accepted as money",
-          "It is currently being used as a way to trade goods and services, like other currencies.",
-          "It has already completed the process of becoming more widely accepted as money and is now being used as a form of currency."
-        ],
-        "feedback": [
-          "Bingo! You're right on the money (pun intended) with this answer. Did you know that the process of Bitcoin becoming more widely accepted as money is similar to the process gold went through to become a widely accepted form of currency",
-          "Ha! You must have missed the part about it taking several years for Bitcoin to reach this stage. Keep reading",
-          "Sorry to break it to you, but Bitcoin is still in the process of becoming more widely accepted as money. Better luck next time!"
-        ],
-        "question": "What is the current stage of Bitcoin's evolution",
-        "text": "Bitcoin is currently changing from the first stage of being used as money to the second stage. It may take several years for Bitcoin to be used as a way to trade goods and services, like other currencies.\n\nThe process of Bitcoin becoming more widely accepted as money is uncertain, as the same process took a long time for gold and no one alive has seen a good become money in the same way that is happening with Bitcoin. There is not a lot of experience with this process, but developments around the world are very promising and happening faster in the interconnected digital age.\n",
-        "title": "What is the current stage of Bitcoin's evolution"
-      }
-    }
+    "screen": "monetizationStage",
+    "answers": [
+      "It is in the process of becoming more widely accepted as money",
+      "It is currently being used as a way to trade goods and services, like other currencies.",
+      "It has already completed the process of becoming more widely accepted as money and is now being used as a form of currency."
+    ],
+    "feedback": [
+      "Bingo! You're right on the money (pun intended) with this answer. Did you know that the process of Bitcoin becoming more widely accepted as money is similar to the process gold went through to become a widely accepted form of currency",
+      "Ha! You must have missed the part about it taking several years for Bitcoin to reach this stage. Keep reading",
+      "Sorry to break it to you, but Bitcoin is still in the process of becoming more widely accepted as money. Better luck next time!"
+    ],
+    "question": "What is the current stage of Bitcoin's evolution",
+    "text": "Bitcoin is currently changing from the first stage of being used as money to the second stage. It may take several years for Bitcoin to be used as a way to trade goods and services, like other currencies.\n\nThe process of Bitcoin becoming more widely accepted as money is uncertain, as the same process took a long time for gold and no one alive has seen a good become money in the same way that is happening with Bitcoin. There is not a lot of experience with this process, but developments around the world are very promising and happening faster in the interconnected digital age.\n",
+    "title": "What is the current stage of Bitcoin's evolution"
   }
 }

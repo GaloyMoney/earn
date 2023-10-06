@@ -1,22 +1,18 @@
 {
   "concentratedOwnership": {
-    "title": "Bitcoin Ownership Is Concentrated on a Few Users",
-    "questions": {
-      "concentratedOwnership": {
-        "answers": [
-          "Yes, but these wallets belong to exchanges that have millions of customers",
-          "Yes, and these wallets belong to individuals who have hoarded large amounts of bitcoin",
-          "No, the vast majority of bitcoin is evenly distributed among a large number of users"
-        ],
-        "feedback": [
-          "Congratulations! You've unlocked the ultimate bitcoin wallet mastery. Did you know that it is generally considered best practice to keep bitcoin in a self-hosted wallet for security and privacy reasons",
-          "Nope, sorry! While it is technically true that a small number of wallets hold the majority of all bitcoin, these wallets don't necessarily belong to individuals who have hoarded large amounts of bitcoin. Keep learning about bitcoin",
-          "Uh oh, looks like you might have gotten the wrong answer. The distribution of bitcoin among users is not necessarily even. But at least you're learning about bitcoin!"
-        ],
-        "question": "Is it true that a small number of wallets hold the majority of all bitcoin",
-        "text": "It is often said that a small number of wallets hold the majority of all bitcoin. While this is technically true, it is important to note that these wallets are typically owned by exchanges that have millions of customers.\n\nMany people choose to leave their bitcoin on an exchange, but it is generally considered best practice to keep bitcoin in a personal wallet for security and privacy reasons.\n\nIt is also worth noting that a single bitcoin address can contain bitcoin belonging to multiple users, and a single user can control multiple wallets. To maintain privacy, it is recommended to generate a new address for each receiving transaction instead of reusing the same address.\n",
-        "title": "Is it true that a small number of wallets hold the majority of all bitcoin"
-      }
-    }
+    "screen": "concentratedOwnership",
+    "answers": [
+      "Yes, but these wallets belong to exchanges that have millions of customers",
+      "Yes, and these wallets belong to individuals who have hoarded large amounts of bitcoin",
+      "No, the vast majority of bitcoin is evenly distributed among a large number of users"
+    ],
+    "feedback": [
+      "Congratulations! You've unlocked the ultimate bitcoin wallet mastery. Did you know that it is generally considered best practice to keep bitcoin in a self-hosted wallet for security and privacy reasons",
+      "Nope, sorry! While it is technically true that a small number of wallets hold the majority of all bitcoin, these wallets don't necessarily belong to individuals who have hoarded large amounts of bitcoin. Keep learning about bitcoin",
+      "Uh oh, looks like you might have gotten the wrong answer. The distribution of bitcoin among users is not necessarily even. But at least you're learning about bitcoin!"
+    ],
+    "question": "Is it true that a small number of wallets hold the majority of all bitcoin",
+    "text": "It is often said that a small number of wallets hold the majority of all bitcoin. While this is technically true, it is important to note that these wallets are typically owned by exchanges that have millions of customers.\n\nMany people choose to leave their bitcoin on an exchange, but it is generally considered best practice to keep bitcoin in a personal wallet for security and privacy reasons.\n\nIt is also worth noting that a single bitcoin address can contain bitcoin belonging to multiple users, and a single user can control multiple wallets. To maintain privacy, it is recommended to generate a new address for each receiving transaction instead of reusing the same address.\n",
+    "title": "Is it true that a small number of wallets hold the majority of all bitcoin"
   }
 }

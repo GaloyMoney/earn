@@ -1,112 +1,82 @@
-[
-  {
-    "unitBias": {
-      "title": "Unit Bias",
-      "questions": {
-        "unitBias": {
-          "answers": [
-            "The belief that one unit of something is always the right amount to use when comparing it to other things",
-            "The belief that one type of currency is better than all others",
-            "The belief that all units of something should be the same size"
-          ],
-          "feedback": [
-            "Yep! Unit bias is the belief that one unit of something is always the right amount to use when comparing it to other things. However, this is not always true and can lead to faulty reasoning. Good job",
-            "I'm afraid you're mistaken. Unit bias is not about believing that one type of currency is better than all others. Maybe you should stick to counting your coins instead of trying to determine the value of currency",
-            "Sorry, but unit bias is not about the size of units. Don't worry, though – you can still have fun with different sizes of units by playing with building blocks or LEGO bricks."
-          ],
-          "question": "What is unit bias",
-          "text": "Unit bias is a type of thinking that assumes that one unit of something is the right amount to use when comparing it to other things.\n\nThis is not always true, especially when it comes to bitcoin. To understand how bitcoin compares to other stores of value, you need to look at the total amount of bitcoin that is available and its value, not just the price of one unit. Bitcoin is very small and can be divided into very small amounts, down to 8 decimal places. This means that you can buy a very small part of a bitcoin if you want.\n\nPeople sometimes think that other cryptocurrencies are cheaper than bitcoin because they cost less per unit, but this is not always true. Bitcoin is a special type of digital money because it is limited in supply and cannot be made in larger amounts.\n\nThis makes it a good way to store value because the value does not decrease over time. When you look at bitcoin in this way, you can see that it is just a small part of the total amount of non-government wealth in the world.\n",
-          "title": "What is unit bias"
-        }
-      }
-    }
-  },
-  {
-    "veblenGood": {
-      "title": "Veblen Good",
-      "questions": {
-        "veblenGood": {
-          "answers": [
-            "A type of good that people want more of when the price goes up",
-            "A type of food that tastes better when it is expensive",
-            "A type of good that people want more of when they have more money to spend"
-          ],
-          "feedback": [
-            "Exactly! A Veblen good is a type of good that people want more of when the price goes up. This is unusual because most people want things more when they have more money to spend",
-            "I'm sorry, but a Veblen good is not a type of food. Maybe you should stick to eating your favorite foods instead of trying to understand economics",
-            "I'm afraid you're mistaken. A Veblen good is not a type of good that people want more of when they have more money to spend. Maybe you should pay more attention to economics instead of just spending your money!"
-          ],
-          "question": "What is a Veblen good",
-          "text": "Veblen goods are things that people want more of when the price goes up. Normal goods are things that people usually want more of when they have more money to spend.\n\nVeblen goods are unusual because people want them more when they cost more. These are often luxury goods that are hard to get or that are made in limited quantities. This is done to make them seem special or rare.\n\nSome people might want to buy bitcoin because it is a status symbol, but the main reason people will probably want to buy it is because there is a limited amount of it.\n\nWhen more people want to buy bitcoin, the price goes up and it becomes easier to use. When it is easy to use, more people want to use it. This creates a cycle where the demand for bitcoin increases, the price goes up, and it becomes easier to use.\n",
-          "title": "What is a Veblen good"
-        }
-      }
-    }
-  },
-  {
-    "malinvestment": {
-      "title": "Malinvestment",
-      "questions": {
-        "malinvestment": {
-          "answers": [
-            "Distorted price signals",
-            "Aliens from outer space",
-            "A lack of unicorns in the economy"
-          ],
-          "feedback": [
-            "Correct answer! You're on the right track. When prices are not accurate, it can lead to money being put into things that are not very productive. Good job",
-            "Wrong answer! But at least you're thinking outside the box. Maybe the aliens are controlling the price signals from their spaceship... or maybe not. Better luck next time",
-            "Sorry, but unicorns do not have the power to control the economy. Although, it would be pretty cool if they did. Better luck next time."
-          ],
-          "question": "What is the main cause of malinvestment",
-          "text": "Malinvestment is when the prices of things are not accurate, which leads to money being put into things that are not very productive. This happens because it is hard to predict the future and make good choices about what to do with money.\n\nWhen the market is not working correctly, it is like trying to use a compass when you are not sure where you are. An example of this is when companies can't pay back their loans and have to borrow more money just to stay alive. This is like being a \"zombie\" company.\n\nWhen the government is in charge of these decisions, they might make mistakes because they don't have a good way to tell what is a good investment and what is not. This can lead to things like building a subway without enough trains or building a dam without enough power lines.\n",
-          "title": "What is the main cause of malinvestment"
-        }
-      }
-    }
-  },
-  {
-    "asymmetricPayoff": {
-      "title": "Asymmetric Payoff",
-      "questions": {
-        "asymmetricPayoff": {
-          "answers": [
-            "When the potential upside is disproportionately greater than the downside risk",
-            "When the potential upside and downside are equal",
-            "When the potential upside is a talking llama and the downside is a mute giraffe"
-          ],
-          "feedback": [
-            "Correct answer! You got it! An asymmetric payoff means that the potential for gain is much greater than the potential for loss. Good job",
-            "Wrong answer! An asymmetric payoff means that the potential for gain or loss is uneven, not equal. Better luck next time",
-            "Wrong answer! While a talking llama and mute giraffe might make for an interesting investment, they do not define an asymmetric payoff. Better luck next time."
-          ],
-          "question": "What is an asymmetric payoff in the context of investment decisions",
-          "text": "When we make decisions about investing our money, we try to predict what might happen and how much money we could make or lose. Sometimes, the amount of money we can make or lose is not equal.\n\nFor example, if we invest in something that has a big chance of making us a lot of money, but only a small chance of losing a little bit of money, we might call this an \"asymmetric payoff.\" This means that the potential upside (how much we can make) is much bigger than the potential downside (how much we can lose).\n\nOne example of this is bitcoin. Bitcoin's potential outcomes are similar to an option, meaning it either succeeds or fails. If it experiences a catastrophic event, the risk of losing money is minimized.\n\nHowever, the potential upside is much greater, as bitcoin's total addressable market has the potential to be a primary global store of wealth.\n\nAsymmetry in payoffs, or uneven potential outcomes, only occurs when there is uneven understanding or information about an investment. If everyone fully understood bitcoin, it would already be widely used as a form of currency.\n\nCurrently, not everyone is aware of bitcoin's potential as a superior monetary option, so the potential for it to increase in value depends on the demand for it increasing without a corresponding increase in the supply.\n",
-          "title": "What is an asymmetric payoff in the context of investment decisions"
-        }
-      }
-    }
-  },
-  {
-    "ansoffMatrix": {
-      "title": "Ansoff Matrix",
-      "questions": {
-        "ansoffMatrix": {
-          "answers": [
-            "It helps identify potential growth strategies for the bitcoin protocol",
-            "It helps determine the optimal temperature for storing bitcoin",
-            "It helps calculate the potential return on investment for bitcoin mining operations"
-          ],
-          "feedback": [
-            "Correct answer! You got it! The Ansoff Matrix can be used to outline growth strategies for the bitcoin protocol, such as developing and selling it to different markets. Good job",
-            "Nope! Storage temperature for bitcoin private keys is not a real issue, and it is not related to the Ansoff Matrix. Better luck next time",
-            "Wrong answer! While calculating potential returns on investment is important for bitcoin miners, it is not directly related to the Ansoff Matrix. Better luck next time."
-          ],
-          "question": "How is the Ansoff Matrix relevant to the growth and potential of bitcoin",
-          "text": "The Ansoff Matrix is a tool that helps companies think about how they can grow and make more money. It helps them figure out what to do with a product or service they have, and how to sell it to different groups of people.\n\nIn the case of bitcoin, it is a product that is like a type of digital money. It has the potential to be used by a lot of people in a lot of different ways. The people who work on bitcoin, like the people who write the code and help others understand how to use it, are trying to increase the number of people who use it and make it easier for them to do so.\n\nBitcoin can be used to save money and protect it from being taken away, or it can be used to send and receive small amounts of money quickly, without having to go through a lot of steps. As more people start using bitcoin, it has the potential to grow and become more popular.\n\nIt is also possible for people and companies to use bitcoin as part of their financial plans, to help protect their money from losing value. While the main reason people might use bitcoin now is to protect their wealth, the payment use case has been growing fast since the inception of the Lightning Network and other use cases may emerge.\n",
-          "title": "How is the Ansoff Matrix relevant to the growth and potential of bitcoin"
-        }
+{
+  "BitcoinandEconomicsIII": {
+    "title": "Bitcoin and Economics III",
+    "questions": {
+      "unitBias": {
+        "answers": [
+          "The belief that one unit of something is always the right amount to use when comparing it to other things",
+          "The belief that one type of currency is better than all others",
+          "The belief that all units of something should be the same size"
+        ],
+        "feedback": [
+          "Yep! Unit bias is the belief that one unit of something is always the right amount to use when comparing it to other things. However, this is not always true and can lead to faulty reasoning. Good job",
+          "I'm afraid you're mistaken. Unit bias is not about believing that one type of currency is better than all others. Maybe you should stick to counting your coins instead of trying to determine the value of currency",
+          "Sorry, but unit bias is not about the size of units. Don't worry, though – you can still have fun with different sizes of units by playing with building blocks or LEGO bricks."
+        ],
+        "question": "What is unit bias",
+        "text": "Unit bias is a type of thinking that assumes that one unit of something is the right amount to use when comparing it to other things.\n\nThis is not always true, especially when it comes to bitcoin. To understand how bitcoin compares to other stores of value, you need to look at the total amount of bitcoin that is available and its value, not just the price of one unit. Bitcoin is very small and can be divided into very small amounts, down to 8 decimal places. This means that you can buy a very small part of a bitcoin if you want.\n\nPeople sometimes think that other cryptocurrencies are cheaper than bitcoin because they cost less per unit, but this is not always true. Bitcoin is a special type of digital money because it is limited in supply and cannot be made in larger amounts.\n\nThis makes it a good way to store value because the value does not decrease over time. When you look at bitcoin in this way, you can see that it is just a small part of the total amount of non-government wealth in the world.\n",
+        "title": "What is unit bias"
+      },
+      "veblenGood": {
+        "answers": [
+          "A type of good that people want more of when the price goes up",
+          "A type of food that tastes better when it is expensive",
+          "A type of good that people want more of when they have more money to spend"
+        ],
+        "feedback": [
+          "Exactly! A Veblen good is a type of good that people want more of when the price goes up. This is unusual because most people want things more when they have more money to spend",
+          "I'm sorry, but a Veblen good is not a type of food. Maybe you should stick to eating your favorite foods instead of trying to understand economics",
+          "I'm afraid you're mistaken. A Veblen good is not a type of good that people want more of when they have more money to spend. Maybe you should pay more attention to economics instead of just spending your money!"
+        ],
+        "question": "What is a Veblen good",
+        "text": "Veblen goods are things that people want more of when the price goes up. Normal goods are things that people usually want more of when they have more money to spend.\n\nVeblen goods are unusual because people want them more when they cost more. These are often luxury goods that are hard to get or that are made in limited quantities. This is done to make them seem special or rare.\n\nSome people might want to buy bitcoin because it is a status symbol, but the main reason people will probably want to buy it is because there is a limited amount of it.\n\nWhen more people want to buy bitcoin, the price goes up and it becomes easier to use. When it is easy to use, more people want to use it. This creates a cycle where the demand for bitcoin increases, the price goes up, and it becomes easier to use.\n",
+        "title": "What is a Veblen good"
+      },
+      "malinvestment": {
+        "answers": [
+          "Distorted price signals",
+          "Aliens from outer space",
+          "A lack of unicorns in the economy"
+        ],
+        "feedback": [
+          "Correct answer! You're on the right track. When prices are not accurate, it can lead to money being put into things that are not very productive. Good job",
+          "Wrong answer! But at least you're thinking outside the box. Maybe the aliens are controlling the price signals from their spaceship... or maybe not. Better luck next time",
+          "Sorry, but unicorns do not have the power to control the economy. Although, it would be pretty cool if they did. Better luck next time."
+        ],
+        "question": "What is the main cause of malinvestment",
+        "text": "Malinvestment is when the prices of things are not accurate, which leads to money being put into things that are not very productive. This happens because it is hard to predict the future and make good choices about what to do with money.\n\nWhen the market is not working correctly, it is like trying to use a compass when you are not sure where you are. An example of this is when companies can't pay back their loans and have to borrow more money just to stay alive. This is like being a \"zombie\" company.\n\nWhen the government is in charge of these decisions, they might make mistakes because they don't have a good way to tell what is a good investment and what is not. This can lead to things like building a subway without enough trains or building a dam without enough power lines.\n",
+        "title": "What is the main cause of malinvestment"
+      },
+      "asymmetricPayoff": {
+        "answers": [
+          "When the potential upside is disproportionately greater than the downside risk",
+          "When the potential upside and downside are equal",
+          "When the potential upside is a talking llama and the downside is a mute giraffe"
+        ],
+        "feedback": [
+          "Correct answer! You got it! An asymmetric payoff means that the potential for gain is much greater than the potential for loss. Good job",
+          "Wrong answer! An asymmetric payoff means that the potential for gain or loss is uneven, not equal. Better luck next time",
+          "Wrong answer! While a talking llama and mute giraffe might make for an interesting investment, they do not define an asymmetric payoff. Better luck next time."
+        ],
+        "question": "What is an asymmetric payoff in the context of investment decisions",
+        "text": "When we make decisions about investing our money, we try to predict what might happen and how much money we could make or lose. Sometimes, the amount of money we can make or lose is not equal.\n\nFor example, if we invest in something that has a big chance of making us a lot of money, but only a small chance of losing a little bit of money, we might call this an \"asymmetric payoff.\" This means that the potential upside (how much we can make) is much bigger than the potential downside (how much we can lose).\n\nOne example of this is bitcoin. Bitcoin's potential outcomes are similar to an option, meaning it either succeeds or fails. If it experiences a catastrophic event, the risk of losing money is minimized.\n\nHowever, the potential upside is much greater, as bitcoin's total addressable market has the potential to be a primary global store of wealth.\n\nAsymmetry in payoffs, or uneven potential outcomes, only occurs when there is uneven understanding or information about an investment. If everyone fully understood bitcoin, it would already be widely used as a form of currency.\n\nCurrently, not everyone is aware of bitcoin's potential as a superior monetary option, so the potential for it to increase in value depends on the demand for it increasing without a corresponding increase in the supply.\n",
+        "title": "What is an asymmetric payoff in the context of investment decisions"
+      },
+      "ansoffMatrix": {
+        "answers": [
+          "It helps identify potential growth strategies for the bitcoin protocol",
+          "It helps determine the optimal temperature for storing bitcoin",
+          "It helps calculate the potential return on investment for bitcoin mining operations"
+        ],
+        "feedback": [
+          "Correct answer! You got it! The Ansoff Matrix can be used to outline growth strategies for the bitcoin protocol, such as developing and selling it to different markets. Good job",
+          "Nope! Storage temperature for bitcoin private keys is not a real issue, and it is not related to the Ansoff Matrix. Better luck next time",
+          "Wrong answer! While calculating potential returns on investment is important for bitcoin miners, it is not directly related to the Ansoff Matrix. Better luck next time."
+        ],
+        "question": "How is the Ansoff Matrix relevant to the growth and potential of bitcoin",
+        "text": "The Ansoff Matrix is a tool that helps companies think about how they can grow and make more money. It helps them figure out what to do with a product or service they have, and how to sell it to different groups of people.\n\nIn the case of bitcoin, it is a product that is like a type of digital money. It has the potential to be used by a lot of people in a lot of different ways. The people who work on bitcoin, like the people who write the code and help others understand how to use it, are trying to increase the number of people who use it and make it easier for them to do so.\n\nBitcoin can be used to save money and protect it from being taken away, or it can be used to send and receive small amounts of money quickly, without having to go through a lot of steps. As more people start using bitcoin, it has the potential to grow and become more popular.\n\nIt is also possible for people and companies to use bitcoin as part of their financial plans, to help protect their money from losing value. While the main reason people might use bitcoin now is to protect their wealth, the payment use case has been growing fast since the inception of the Lightning Network and other use cases may emerge.\n",
+        "title": "How is the Ansoff Matrix relevant to the growth and potential of bitcoin"
       }
     }
   }
-]
+}

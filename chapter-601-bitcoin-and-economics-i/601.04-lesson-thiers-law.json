@@ -1,22 +1,18 @@
 {
   "thiersLaw": {
-    "title": "Thier's Law",
-    "questions": {
-      "thiersLaw": {
-        "answers": [
-          "A law that discusses what might happen if people and businesses refuse to accept or use a lower quality form of currency",
-          "A law that says people will always choose the more valuable currency when given a choice",
-          "A law that says people will always choose the less valuable currency when given a choice"
-        ],
-        "feedback": [
-          "Correct! Good job, you understood Thier's Law. This law discusses what might happen if people and businesses refuse to accept a lower quality form of currency. Interesting fact: Thier's Law suggests that if a government tries to force people to use a lower quality currency by making it legal tender, it will be ignored",
-          "Wrong answer! Gresham's Law explains this behavior, not Thier's Law",
-          "Sorry, try again! Thier's Law is not about always choosing the less valuable currency."
-        ],
-        "question": "What is Thier's Law",
-        "text": "Thier's Law is a concept that discusses what might happen if people and businesses refused to accept or use a lower quality form of currency.\n\nInstead of disappearing from circulation, the higher quality form of money might be traded at a premium, or for a higher value than its face value.\n\nThier's Law suggests that if a government tries to force people to use a lower quality currency by making it legal tender, it will be ignored.\n\nIn other words, people and businesses may choose not to accept the lower quality currency and instead prefer to use the higher quality one or other forms of payment.\n",
-        "title": "What is Thier's Law"
-      }
-    }
+    "screen": "thiersLaw",
+    "answers": [
+      "A law that discusses what might happen if people and businesses refuse to accept or use a lower quality form of currency",
+      "A law that says people will always choose the more valuable currency when given a choice",
+      "A law that says people will always choose the less valuable currency when given a choice"
+    ],
+    "feedback": [
+      "Correct! Good job, you understood Thier's Law. This law discusses what might happen if people and businesses refuse to accept a lower quality form of currency. Interesting fact: Thier's Law suggests that if a government tries to force people to use a lower quality currency by making it legal tender, it will be ignored",
+      "Wrong answer! Gresham's Law explains this behavior, not Thier's Law",
+      "Sorry, try again! Thier's Law is not about always choosing the less valuable currency."
+    ],
+    "question": "What is Thier's Law",
+    "text": "Thier's Law is a concept that discusses what might happen if people and businesses refused to accept or use a lower quality form of currency.\n\nInstead of disappearing from circulation, the higher quality form of money might be traded at a premium, or for a higher value than its face value.\n\nThier's Law suggests that if a government tries to force people to use a lower quality currency by making it legal tender, it will be ignored.\n\nIn other words, people and businesses may choose not to accept the lower quality currency and instead prefer to use the higher quality one or other forms of payment.\n",
+    "title": "What is Thier's Law"
   }
 }

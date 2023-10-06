@@ -1,134 +1,97 @@
-[
-  {
-    "internetDependent": {
-      "title": "Bitcoin is too dependent on the Internet",
-      "questions": {
-        "internetDependent": {
-          "answers": [
-            "By sending a transaction via SMS",
-            "By posting a message on a social media platform",
-            "By sending an email"
-          ],
-          "feedback": [
-            "You've identified a way to send bitcoin transactions even when the internet is down. Good thinking",
-            "Well, it looks like you're trying to stay connected in the digital age even during an internet outage, but that's incorrect",
-            "I see you're trying to stay connected through traditional means, but unfortunately sending an email might not be the most reliable way to send bitcoin transactions during an internet outage. Try again!"
-          ],
-          "question": "How can bitcoin transactions be sent in the event of an internet disruption",
-          "text": "There is a risk, of course, that internet access may be lost due to infrastructure failures, natural disasters, or intentional outages. However, it is possible to transact bitcoin using offline methods and other communication networks.\n\nFor instance, a signed bitcoin transaction can be transmitted to a single node and broadcast to the network for inclusion in a block by miners. There are various ways to do this, such as sending a transaction via SMS, using a physical wallet with a one-time use tamper-evident private key, or receiving blocks via satellite. These options allow for bitcoin to be used even in the event of an internet disruption.\n",
-          "title": "How can bitcoin transactions be sent in the event of an internet disruption"
-        }
-      }
-    }
-  },
-  {
-    "forcrimeOnly": {
-      "title": "Bitcoin is for Criminals",
-      "questions": {
-        "forcrimeOnly": {
-          "answers": [
-            "No",
-            "Yes",
-            "It depends on the individual circumstances"
-          ],
-          "feedback": [
-            "Well done! You've correctly identified that it is not accurate to claim that bitcoin's properties have led to an overall increase in criminal activity.",
-            "I see you're a fan of sensational headlines and jumping to conclusions. Unfortunately, that's not based in reality",
-            "It looks like you're trying to take a balanced approach, but is not accurate to make this claim regardless of individual circumstances. Try again."
-          ],
-          "question": "Is it accurate to claim that bitcoin's properties have led to an overall increase in criminal activity",
-          "text": "Bitcoin is a neutral tool for exchanging value, and it has no inherent beliefs, opinions, or values. Its meaning is determined by how it is used. It is not accurate to claim that bitcoin's properties have led to an overall increase in criminal activity.\n\nCrime does not stem from access to tools, but rather from individual circumstances. If bitcoin is useful, it can be used by anyone, including criminals. If it is not useful, it cannot be used by anyone, including criminals.\n\nAs Parker Lewis stated, \"There is nothing inherent about the tools used to facilitate crimes that makes them criminal in themselves. Despite criminal use, no one is calling for the ban of roads, the internet, mail, etc.\"\n",
-          "title": "Is it accurate to claim that bitcoin's properties have led to an overall increase in criminal activity"
-        }
-      }
-    }
-  },
-  {
-    "ponziScheme": {
-      "title": "Bitcoin is a Ponzi Scheme",
-      "questions": {
-        "ponziScheme": {
-          "answers": [
-            "It is a form of money",
-            "It is a ponzi scheme",
-            "It is an open-source investment scheme"
-          ],
-          "feedback": [
-            "Congratulations! You've earned some sats for correctly identifying that bitcoin is a form of money. Did you know that bitcoin was the first decentralized digital currency to be created, and it operates without a central bank or single administrator",
-            "Ah hah! You fell for the old ponzi scheme trick! Just kidding, but seriously, that's not what bitcoin is",
-            "Nope, sorry! Bitcoin isn't an open-source investment scheme. But hey, at least you're learning about it, right?"
-          ],
-          "question": "Which of the following statements is true about bitcoin",
-          "text": "Calling bitcoin a ponzi scheme shows a lack of understanding of both bitcoin and the definition of a ponzi scheme. A ponzi scheme involves promises of above-market returns to investors, but as a permissionless network, bitcoin does not have a central authority that can make such promises.\n\nAdditionally, bitcoin is not an investment scheme, it is a form of money. Unlike opaque investment opportunities that may be promoted to unsuspecting individuals, bitcoin's code is open-source and its supply can be independently verified at all times.\n",
-          "title": "Which of the following statements is true about bitcoin"
-        }
-      }
-    }
-  },
-  {
-    "bitcoinisTooSlow": {
-      "title": "Bitcoin is too slow",
-      "questions": {
-        "bitcoinisTooSlow": {
-          "answers": [
-            "Credit card payments go through multiple parties before reaching the merchant, while bitcoin payments go directly to the recipient without intermediaries",
-            "Credit card payments are final once they are confirmed, while bitcoin payments can be reversed",
-            "but at least you're learning about bitcoin"
-          ],
-          "feedback": [
-            "Congratulations! You've unlocked the ultimate bitcoin payment mastery. You seem to understand that bitcoin operates without a central bank or single administrator",
-            "Uh oh, looks like you might have gotten the wrong answer, but at least you're learning about bitcoin",
-            "Nope, sorry! Credit card payments are being censored all the time, but good try. Keep learning about bitcoin!"
-          ],
-          "question": "What is the main difference between paying with a credit card and paying with bitcoin on-chain",
-          "text": "Paying with bitcoin is not the same as using a credit card to make a purchase. When you use a credit card, your payment goes through multiple parties before reaching the merchant's bank account after days or even weeks of processing.\n\nIn contrast, when you pay with bitcoin on the main blockchain, you are sending actual money directly to the recipient without any intermediaries. This means there is no risk of censorship and the transaction is considered final once it has been confirmed by six blocks on the blockchain.\n\nThe proper comparison would be between bitcoin base layer and the Fed as currency issuer and as a clearing mechanism.\n\nSince the advent of the Lightning Network, the \"Bitcoin is too slow\" criticism has largely fallen silent.\n",
-          "title": "What is the main difference between paying with a credit card and paying with bitcoin on-chain"
-        }
-      }
-    }
-  },
-  {
-    "supplyLimit": {
-      "title": "Bitcoin's Supply Limit Could Be Corrupted",
-      "questions": {
-        "supplyLimit": {
-          "answers": [
-            "Through a decentralized consensus process in which every transaction is independently validated by nodes on the network",
-            "Through a centralized process in which a single authority controls the issuance of new coins",
-            "By fixing the maximum supply at an arbitrary number, such as 100 million"
-          ],
-          "feedback": [
-            "Congratulations! You've unlocked the ultimate bitcoin supply mastery. Did you know that the decentralized nature of the bitcoin network allows for greater transparency, as every transaction is independently validated by nodes on the network",
-            "Nope, sorry! Bitcoin's supply isn't controlled by a central authority. Try again",
-            "Uh oh, looks like you might have gotten the wrong answer. The maximum supply of bitcoin is fixed at 21 million, not 100 million. But at least you're learning about bitcoin!"
-          ],
-          "question": "How is the supply of bitcoin protected from being corrupted",
-          "text": "Bitcoin's decentralized nature allows for its supply to be independently validated by each node on the network, ensuring that it cannot be corrupted. This is achieved through a consensus process in which every transaction that has been confirmed on the bitcoin network is independently validated.\n\nWhile anyone can fork the code and make changes to the rules, it is unlikely that this version of the code would be adopted by the wider network. The decentralized consensus process and the incorruptible supply of bitcoin are crucial to its appeal as a form of money.\n\nThe maximum supply of bitcoin is fixed at 21 million, and any attempt to increase this limit would require consensus from a significant portion of the bitcoin network, which is highly unlikely to happen.\n",
-          "title": "How is the supply of bitcoin protected from being corrupted"
-        }
-      }
-    }
-  },
-  {
-    "governmentBan": {
-      "title": "Governments Will Ban Bitcoin",
-      "questions": {
-        "governmentBan": {
-          "answers": [
-            "No, because the decentralized nature of the bitcoin network makes it difficult to enforce a ban",
-            "Yes, by preventing the generation of random numbers",
-            "Yes, by shutting down the internet"
-          ],
-          "feedback": [
-            "Correct. The decentralized nature of the bitcoin network makes it difficult to enforce a ban",
-            "Nope, silly! While it is technically possible for governments to ban bitcoin, it would be nearly impossible to enforce such a ban. Try again",
-            "Uh oh, looks like you might have gotten the wrong answer. Shutting down the internet wouldn't necessarily stop people from using bitcoin."
-          ],
-          "question": "Can governments effectively ban bitcoin",
-          "text": "It is technically possible for governments to ban bitcoin, but enforcing such a ban would be difficult due to the decentralized nature of the bitcoin network.\n\nBitcoin relies on private keys, which are simply random numbers, to control access to transactions recorded on the blockchain. These private keys can be generated and stored anywhere, making them largely undectectable.\n\nAdditionally, the infrastructure required to access the bitcoin network is relatively simple and widely available, making it easy for people to trustlessly verify transactions.\n\nAs Saifedean Ammous said, \"Banning bitcoin is not much different from trying to ban math. It will just prove its utility & drive more people to it.\"\n",
-          "title": "Can governments effectively ban bitcoin"
-        }
+{
+  "BitcoinCriticismsFallaciesII": {
+    "title": "Bitcoin Criticisms & Fallacies II",
+    "questions": {
+      "internetDependent": {
+        "answers": [
+          "By sending a transaction via SMS",
+          "By posting a message on a social media platform",
+          "By sending an email"
+        ],
+        "feedback": [
+          "You've identified a way to send bitcoin transactions even when the internet is down. Good thinking",
+          "Well, it looks like you're trying to stay connected in the digital age even during an internet outage, but that's incorrect",
+          "I see you're trying to stay connected through traditional means, but unfortunately sending an email might not be the most reliable way to send bitcoin transactions during an internet outage. Try again!"
+        ],
+        "question": "How can bitcoin transactions be sent in the event of an internet disruption",
+        "text": "There is a risk, of course, that internet access may be lost due to infrastructure failures, natural disasters, or intentional outages. However, it is possible to transact bitcoin using offline methods and other communication networks.\n\nFor instance, a signed bitcoin transaction can be transmitted to a single node and broadcast to the network for inclusion in a block by miners. There are various ways to do this, such as sending a transaction via SMS, using a physical wallet with a one-time use tamper-evident private key, or receiving blocks via satellite. These options allow for bitcoin to be used even in the event of an internet disruption.\n",
+        "title": "How can bitcoin transactions be sent in the event of an internet disruption"
+      },
+      "forcrimeOnly": {
+        "answers": [
+          "No",
+          "Yes",
+          "It depends on the individual circumstances"
+        ],
+        "feedback": [
+          "Well done! You've correctly identified that it is not accurate to claim that bitcoin's properties have led to an overall increase in criminal activity.",
+          "I see you're a fan of sensational headlines and jumping to conclusions. Unfortunately, that's not based in reality",
+          "It looks like you're trying to take a balanced approach, but is not accurate to make this claim regardless of individual circumstances. Try again."
+        ],
+        "question": "Is it accurate to claim that bitcoin's properties have led to an overall increase in criminal activity",
+        "text": "Bitcoin is a neutral tool for exchanging value, and it has no inherent beliefs, opinions, or values. Its meaning is determined by how it is used. It is not accurate to claim that bitcoin's properties have led to an overall increase in criminal activity.\n\nCrime does not stem from access to tools, but rather from individual circumstances. If bitcoin is useful, it can be used by anyone, including criminals. If it is not useful, it cannot be used by anyone, including criminals.\n\nAs Parker Lewis stated, \"There is nothing inherent about the tools used to facilitate crimes that makes them criminal in themselves. Despite criminal use, no one is calling for the ban of roads, the internet, mail, etc.\"\n",
+        "title": "Is it accurate to claim that bitcoin's properties have led to an overall increase in criminal activity"
+      },
+      "ponziScheme": {
+        "answers": [
+          "It is a form of money",
+          "It is a ponzi scheme",
+          "It is an open-source investment scheme"
+        ],
+        "feedback": [
+          "Congratulations! You've earned some sats for correctly identifying that bitcoin is a form of money. Did you know that bitcoin was the first decentralized digital currency to be created, and it operates without a central bank or single administrator",
+          "Ah hah! You fell for the old ponzi scheme trick! Just kidding, but seriously, that's not what bitcoin is",
+          "Nope, sorry! Bitcoin isn't an open-source investment scheme. But hey, at least you're learning about it, right?"
+        ],
+        "question": "Which of the following statements is true about bitcoin",
+        "text": "Calling bitcoin a ponzi scheme shows a lack of understanding of both bitcoin and the definition of a ponzi scheme. A ponzi scheme involves promises of above-market returns to investors, but as a permissionless network, bitcoin does not have a central authority that can make such promises.\n\nAdditionally, bitcoin is not an investment scheme, it is a form of money. Unlike opaque investment opportunities that may be promoted to unsuspecting individuals, bitcoin's code is open-source and its supply can be independently verified at all times.\n",
+        "title": "Which of the following statements is true about bitcoin"
+      },
+      "bitcoinisTooSlow": {
+        "answers": [
+          "Credit card payments go through multiple parties before reaching the merchant, while bitcoin payments go directly to the recipient without intermediaries",
+          "Credit card payments are final once they are confirmed, while bitcoin payments can be reversed",
+          "but at least you're learning about bitcoin"
+        ],
+        "feedback": [
+          "Congratulations! You've unlocked the ultimate bitcoin payment mastery. You seem to understand that bitcoin operates without a central bank or single administrator",
+          "Uh oh, looks like you might have gotten the wrong answer, but at least you're learning about bitcoin",
+          "Nope, sorry! Credit card payments are being censored all the time, but good try. Keep learning about bitcoin!"
+        ],
+        "question": "What is the main difference between paying with a credit card and paying with bitcoin on-chain",
+        "text": "Paying with bitcoin is not the same as using a credit card to make a purchase. When you use a credit card, your payment goes through multiple parties before reaching the merchant's bank account after days or even weeks of processing.\n\nIn contrast, when you pay with bitcoin on the main blockchain, you are sending actual money directly to the recipient without any intermediaries. This means there is no risk of censorship and the transaction is considered final once it has been confirmed by six blocks on the blockchain.\n\nThe proper comparison would be between bitcoin base layer and the Fed as currency issuer and as a clearing mechanism.\n\nSince the advent of the Lightning Network, the \"Bitcoin is too slow\" criticism has largely fallen silent.\n",
+        "title": "What is the main difference between paying with a credit card and paying with bitcoin on-chain"
+      },
+      "supplyLimit": {
+        "answers": [
+          "Through a decentralized consensus process in which every transaction is independently validated by nodes on the network",
+          "Through a centralized process in which a single authority controls the issuance of new coins",
+          "By fixing the maximum supply at an arbitrary number, such as 100 million"
+        ],
+        "feedback": [
+          "Congratulations! You've unlocked the ultimate bitcoin supply mastery. Did you know that the decentralized nature of the bitcoin network allows for greater transparency, as every transaction is independently validated by nodes on the network",
+          "Nope, sorry! Bitcoin's supply isn't controlled by a central authority. Try again",
+          "Uh oh, looks like you might have gotten the wrong answer. The maximum supply of bitcoin is fixed at 21 million, not 100 million. But at least you're learning about bitcoin!"
+        ],
+        "question": "How is the supply of bitcoin protected from being corrupted",
+        "text": "Bitcoin's decentralized nature allows for its supply to be independently validated by each node on the network, ensuring that it cannot be corrupted. This is achieved through a consensus process in which every transaction that has been confirmed on the bitcoin network is independently validated.\n\nWhile anyone can fork the code and make changes to the rules, it is unlikely that this version of the code would be adopted by the wider network. The decentralized consensus process and the incorruptible supply of bitcoin are crucial to its appeal as a form of money.\n\nThe maximum supply of bitcoin is fixed at 21 million, and any attempt to increase this limit would require consensus from a significant portion of the bitcoin network, which is highly unlikely to happen.\n",
+        "title": "How is the supply of bitcoin protected from being corrupted"
+      },
+      "governmentBan": {
+        "answers": [
+          "No, because the decentralized nature of the bitcoin network makes it difficult to enforce a ban",
+          "Yes, by preventing the generation of random numbers",
+          "Yes, by shutting down the internet"
+        ],
+        "feedback": [
+          "Correct. The decentralized nature of the bitcoin network makes it difficult to enforce a ban",
+          "Nope, silly! While it is technically possible for governments to ban bitcoin, it would be nearly impossible to enforce such a ban. Try again",
+          "Uh oh, looks like you might have gotten the wrong answer. Shutting down the internet wouldn't necessarily stop people from using bitcoin."
+        ],
+        "question": "Can governments effectively ban bitcoin",
+        "text": "It is technically possible for governments to ban bitcoin, but enforcing such a ban would be difficult due to the decentralized nature of the bitcoin network.\n\nBitcoin relies on private keys, which are simply random numbers, to control access to transactions recorded on the blockchain. These private keys can be generated and stored anywhere, making them largely undectectable.\n\nAdditionally, the infrastructure required to access the bitcoin network is relatively simple and widely available, making it easy for people to trustlessly verify transactions.\n\nAs Saifedean Ammous said, \"Banning bitcoin is not much different from trying to ban math. It will just prove its utility & drive more people to it.\"\n",
+        "title": "Can governments effectively ban bitcoin"
       }
     }
   }
-]
+}

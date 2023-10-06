@@ -1,112 +1,82 @@
-[
-  {
-    "originsOfMoney": {
-      "title": "The origins of money",
-      "questions": {
-        "originsOfMoney": {
-          "answers": [
-            "To store and transfer wealth",
-            "To serve as a form of entertainment",
-            "To act as a status symbol"
-          ],
-          "feedback": [
-            "Congratulations! You hit the nail on the head. Collectibles have long been used as a medium for storing and transferring wealth, much like how Bitcoin is used today as a decentralized digital currency",
-            "Sorry, but collectibles aren't just for show - they have a deeper purpose",
-            "While collectibles may serve as a status symbol for some, there's more to it than just showing off."
-          ],
-          "question": "What is the primary and ultimate evolutionary function of collectibles",
-          "text": "The earliest human societies engaged in trade through barter, but this method had several limitations. One issue was the \"double coincidence of wants\" problem, where two people needed to desire the same item at the same time in order to complete a trade.\n\nTo overcome this issue, humans began to collect and value certain items for their rarity and symbolic significance, such as shells, animal teeth, and flint.\n\nThese collectibles served as a way for early humans to store and transfer wealth, providing an evolutionary advantage over other species such as Homo neanderthalensis.\n",
-          "title": "What is the primary and ultimate evolutionary function of collectibles"
-        }
-      }
-    }
-  },
-  {
-    "primitiveMoney": {
-      "title": "Primitive forms of money",
-      "questions": {
-        "primitiveMoney": {
-          "answers": [
-            "To store value",
-            "To serve as a form of entertainment",
-            "To act as a medium of exchange"
-          ],
-          "feedback": [
-            "Congratulations! You're right on the money (pun intended). Collectibles served as a store of value in paleolithic societies, much like how Bitcoin and other cryptocurrencies are used today as a digital store of value",
-            "Sorry, collectibles might be fun to collect, but they had a more practical purpose in ancient societies",
-            "Collectibles were not used as frequently as modern currency, so they didn't quite play the same role as a medium of exchange."
-          ],
-          "question": "What was the primary role of collectibles in paleolithic societies",
-          "text": "Collectibles served as a precursor to money by allowing trade between different groups and facilitating the transfer of wealth between generations. Although they were not used as frequently as modern money in paleolithic societies, collectibles still served as a store of value and could sometimes even facilitate trade.\n\nPrimitive forms of money, such as collectibles, had a low velocity compared to modern currency and might only be transferred a few times during an individual's lifetime. However, durable collectibles that were passed down through generations had substantial value at each transfer and sometimes made trade possible.\n",
-          "title": "What was the primary role of collectibles in paleolithic societies"
-        }
-      }
-    }
-  },
-  {
-    "anticipatingDemand": {
-      "title": "Anticipating Demand",
-      "questions": {
-        "anticipatingDemand": {
-          "answers": [
-            "The ability to buy collectibles at a lower price before they became widely sought after",
-            "The ability to trade collectibles for other useful items",
-            "The ability to impress others with their collection of rare and valuable items"
-          ],
-          "feedback": [
-            "Congratulations, you are correct! It seems that the concept of \"buy low, sell high\" is not a modern invention, as early humans also sought to acquire collectibles at a lower cost before their demand and trade value increased. Fun fact: this principle also applies to bitcoin, where early adopters were able to acquire bitcoins at a much lower price before their value skyrocketed",
-            "Sorry, that is not the correct answer. While being able to trade collectibles for other useful items may have been a benefit of correctly anticipating demand, it was not the main advantage",
-            "I'm afraid that is not the correct answer. While having a collection of rare and valuable items may have been a source of pride and admiration, it was not the main advantage"
-          ],
-          "question": "What was the main advantage of being able to anticipate future demand for collectible items in early human societies",
-          "text": "The choice of which items to collect or create posed a significant problem for early humans, as they had to anticipate which objects would be desired by others. The ability to correctly predict which items would be in demand for their collectible value gave a significant advantage to the owner in terms of their ability to trade and accumulate wealth.\n\nSome Native American tribes, such as the Narragansetts, even focused on producing collectibles that had little practical use, but were valuable in trade.\n\nThe earlier a collectible is anticipated to be in future demand, the greater the advantage its possessor has, as it can be obtained at a lower cost before it becomes widely sought after and its trade value increases as the number of people demanding it grows.\n",
-          "title": "What was the main advantage of being able to anticipate future demand for collectible items in early human societies"
-        }
-      }
-    }
-  },
-  {
-    "nashEquilibrium": {
-      "title": "The Key to Facilitating Trade",
-      "questions": {
-        "nashEquilibrium": {
-          "answers": [
-            "A concept that helps societies decide on a single store of value",
-            "A type of dance that promotes trade and the division of labor",
-            "A musical instrument that makes it easier to conduct trade and specialize in different tasks"
-          ],
-          "feedback": [
-            "Congratulations, you are correct! A Nash Equilibrium is a concept in game theory that refers to a situation in which no player can gain an advantage by changing their strategy. In the context of choosing a store of value, achieving a Nash Equilibrium means that society has converged on a single store of value, which greatly facilitates trade and the division of labor. Fun fact: Bitcoin is often cited as an example of a Nash Equilibrium, as it has become the dominant cryptocurrency due to its perceived value and widespread adoption",
-            "Sorry, that is not the correct answer. While a Nash Equilibrium has nothing to do with dance, it is an important concept in game theory that can benefit society",
-            "I'm afraid that is not the correct answer. While music can bring people together and facilitate cooperation, a Nash Equilibrium has nothing to do with musical instruments. It is a concept in game theory that refers to a situation in which no player can gain an advantage by changing their strategy."
-          ],
-          "question": "What is a Nash Equilibrium and how does it benefit society",
-          "text": "Acquiring an item with the expectation that it will be desired as a future store of value can accelerate its adoption for that purpose. This process can create a feedback loop that drives societies towards adopting a single store of value.\n\nIn game theory, this is known as a \"Nash Equilibrium\". Reaching a Nash Equilibrium for a store of value can greatly benefit a society, as it makes trade and the division of labor easier and paves the way for the development of civilization.\n",
-          "title": "What is a Nash Equilibrium and how does it benefit society"
-        }
-      }
-    }
-  },
-  {
-    "singleStoreOfValue": {
-      "title": "The Benefits of Converging on a Single Store of Value",
-      "questions": {
-        "singleStoreOfValue": {
-          "answers": [
-            "To increase the purchasing power of their savings",
-            "To learn about other cultures and societies",
-            "To show off their wealth and status"
-          ],
-          "feedback": [
-            "Correct! Merchants and traders had an incentive to promote the adoption of a foreign store of value in their own society because it increased the purchasing power of their savings. This not only benefited the merchants, but also the society as a whole, as the adoption of a single store of value reduced the cost of completing trade with other societies and increased trade-based wealth. Fun fact: Bitcoin is an example of a store of value that has been adopted by many societies, and its widespread adoption has increased its purchasing power and facilitated trade",
-            "Sorry, that is not the correct answer. While learning about other cultures and societies may have been a side benefit of promoting the adoption of a foreign store of value, it was not the main reason",
-            "I'm afraid that is not the correct answer. While showing off wealth and status may have been a motivation for some individuals, it was not the main reason for why merchants and traders had an incentive to promote the adoption of a foreign store of value in their own society."
-          ],
-          "question": "Why did merchants and traders in early human societies have an incentive to promote the adoption of a foreign store of value in their own society",
-          "text": "As human societies and trade routes developed over time, stores of value that emerged in different societies began to compete with each other. Merchants and traders had to decide whether to save their profits in the store of value of their own society or in the store of value of the society they were trading with, or a combination of both.\n\nHolding savings in a foreign store of value gave merchants the ability to complete trade more easily in that society, and also gave them an incentive to promote the adoption of that store of value in their own society, as it would increase the purchasing power of their savings.\n\nWhen two societies adopt the same store of value, they see a significant reduction in the cost of trading with each other and an increase in trade-based wealth. In the 19th century, most of the world converged on a single store of value – gold – and this period saw the greatest increase in trade in history.\n",
-          "title": "Why did merchants and traders in early human societies have an incentive to promote the adoption of a foreign store of value in their own society"
-        }
+{
+  "TheOriginsofMoney": {
+    "title": "The Origins of Money",
+    "questions": {
+      "originsOfMoney": {
+        "answers": [
+          "To store and transfer wealth",
+          "To serve as a form of entertainment",
+          "To act as a status symbol"
+        ],
+        "feedback": [
+          "Congratulations! You hit the nail on the head. Collectibles have long been used as a medium for storing and transferring wealth, much like how Bitcoin is used today as a decentralized digital currency",
+          "Sorry, but collectibles aren't just for show - they have a deeper purpose",
+          "While collectibles may serve as a status symbol for some, there's more to it than just showing off."
+        ],
+        "question": "What is the primary and ultimate evolutionary function of collectibles",
+        "text": "The earliest human societies engaged in trade through barter, but this method had several limitations. One issue was the \"double coincidence of wants\" problem, where two people needed to desire the same item at the same time in order to complete a trade.\n\nTo overcome this issue, humans began to collect and value certain items for their rarity and symbolic significance, such as shells, animal teeth, and flint.\n\nThese collectibles served as a way for early humans to store and transfer wealth, providing an evolutionary advantage over other species such as Homo neanderthalensis.\n",
+        "title": "What is the primary and ultimate evolutionary function of collectibles"
+      },
+      "primitiveMoney": {
+        "answers": [
+          "To store value",
+          "To serve as a form of entertainment",
+          "To act as a medium of exchange"
+        ],
+        "feedback": [
+          "Congratulations! You're right on the money (pun intended). Collectibles served as a store of value in paleolithic societies, much like how Bitcoin and other cryptocurrencies are used today as a digital store of value",
+          "Sorry, collectibles might be fun to collect, but they had a more practical purpose in ancient societies",
+          "Collectibles were not used as frequently as modern currency, so they didn't quite play the same role as a medium of exchange."
+        ],
+        "question": "What was the primary role of collectibles in paleolithic societies",
+        "text": "Collectibles served as a precursor to money by allowing trade between different groups and facilitating the transfer of wealth between generations. Although they were not used as frequently as modern money in paleolithic societies, collectibles still served as a store of value and could sometimes even facilitate trade.\n\nPrimitive forms of money, such as collectibles, had a low velocity compared to modern currency and might only be transferred a few times during an individual's lifetime. However, durable collectibles that were passed down through generations had substantial value at each transfer and sometimes made trade possible.\n",
+        "title": "What was the primary role of collectibles in paleolithic societies"
+      },
+      "anticipatingDemand": {
+        "answers": [
+          "The ability to buy collectibles at a lower price before they became widely sought after",
+          "The ability to trade collectibles for other useful items",
+          "The ability to impress others with their collection of rare and valuable items"
+        ],
+        "feedback": [
+          "Congratulations, you are correct! It seems that the concept of \"buy low, sell high\" is not a modern invention, as early humans also sought to acquire collectibles at a lower cost before their demand and trade value increased. Fun fact: this principle also applies to bitcoin, where early adopters were able to acquire bitcoins at a much lower price before their value skyrocketed",
+          "Sorry, that is not the correct answer. While being able to trade collectibles for other useful items may have been a benefit of correctly anticipating demand, it was not the main advantage",
+          "I'm afraid that is not the correct answer. While having a collection of rare and valuable items may have been a source of pride and admiration, it was not the main advantage"
+        ],
+        "question": "What was the main advantage of being able to anticipate future demand for collectible items in early human societies",
+        "text": "The choice of which items to collect or create posed a significant problem for early humans, as they had to anticipate which objects would be desired by others. The ability to correctly predict which items would be in demand for their collectible value gave a significant advantage to the owner in terms of their ability to trade and accumulate wealth.\n\nSome Native American tribes, such as the Narragansetts, even focused on producing collectibles that had little practical use, but were valuable in trade.\n\nThe earlier a collectible is anticipated to be in future demand, the greater the advantage its possessor has, as it can be obtained at a lower cost before it becomes widely sought after and its trade value increases as the number of people demanding it grows.\n",
+        "title": "What was the main advantage of being able to anticipate future demand for collectible items in early human societies"
+      },
+      "nashEquilibrium": {
+        "answers": [
+          "A concept that helps societies decide on a single store of value",
+          "A type of dance that promotes trade and the division of labor",
+          "A musical instrument that makes it easier to conduct trade and specialize in different tasks"
+        ],
+        "feedback": [
+          "Congratulations, you are correct! A Nash Equilibrium is a concept in game theory that refers to a situation in which no player can gain an advantage by changing their strategy. In the context of choosing a store of value, achieving a Nash Equilibrium means that society has converged on a single store of value, which greatly facilitates trade and the division of labor. Fun fact: Bitcoin is often cited as an example of a Nash Equilibrium, as it has become the dominant cryptocurrency due to its perceived value and widespread adoption",
+          "Sorry, that is not the correct answer. While a Nash Equilibrium has nothing to do with dance, it is an important concept in game theory that can benefit society",
+          "I'm afraid that is not the correct answer. While music can bring people together and facilitate cooperation, a Nash Equilibrium has nothing to do with musical instruments. It is a concept in game theory that refers to a situation in which no player can gain an advantage by changing their strategy."
+        ],
+        "question": "What is a Nash Equilibrium and how does it benefit society",
+        "text": "Acquiring an item with the expectation that it will be desired as a future store of value can accelerate its adoption for that purpose. This process can create a feedback loop that drives societies towards adopting a single store of value.\n\nIn game theory, this is known as a \"Nash Equilibrium\". Reaching a Nash Equilibrium for a store of value can greatly benefit a society, as it makes trade and the division of labor easier and paves the way for the development of civilization.\n",
+        "title": "What is a Nash Equilibrium and how does it benefit society"
+      },
+      "singleStoreOfValue": {
+        "answers": [
+          "To increase the purchasing power of their savings",
+          "To learn about other cultures and societies",
+          "To show off their wealth and status"
+        ],
+        "feedback": [
+          "Correct! Merchants and traders had an incentive to promote the adoption of a foreign store of value in their own society because it increased the purchasing power of their savings. This not only benefited the merchants, but also the society as a whole, as the adoption of a single store of value reduced the cost of completing trade with other societies and increased trade-based wealth. Fun fact: Bitcoin is an example of a store of value that has been adopted by many societies, and its widespread adoption has increased its purchasing power and facilitated trade",
+          "Sorry, that is not the correct answer. While learning about other cultures and societies may have been a side benefit of promoting the adoption of a foreign store of value, it was not the main reason",
+          "I'm afraid that is not the correct answer. While showing off wealth and status may have been a motivation for some individuals, it was not the main reason for why merchants and traders had an incentive to promote the adoption of a foreign store of value in their own society."
+        ],
+        "question": "Why did merchants and traders in early human societies have an incentive to promote the adoption of a foreign store of value in their own society",
+        "text": "As human societies and trade routes developed over time, stores of value that emerged in different societies began to compete with each other. Merchants and traders had to decide whether to save their profits in the store of value of their own society or in the store of value of the society they were trading with, or a combination of both.\n\nHolding savings in a foreign store of value gave merchants the ability to complete trade more easily in that society, and also gave them an incentive to promote the adoption of that store of value in their own society, as it would increase the purchasing power of their savings.\n\nWhen two societies adopt the same store of value, they see a significant reduction in the cost of trading with each other and an increase in trade-based wealth. In the 19th century, most of the world converged on a single store of value – gold – and this period saw the greatest increase in trade in history.\n",
+        "title": "Why did merchants and traders in early human societies have an incentive to promote the adoption of a foreign store of value in their own society"
       }
     }
   }
-]
+}

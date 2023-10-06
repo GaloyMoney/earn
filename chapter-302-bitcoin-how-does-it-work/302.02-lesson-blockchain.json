@@ -1,22 +1,18 @@
 {
   "blockchain": {
-    "title": "What is a blockchain exactly?",
-    "questions": {
-      "blockchain": {
-        "answers": [
-          "To create a tamper-evident record of all transactions on the blockchain",
-          "To ensure that blocks can be altered or replaced easily",
-          "To make sure that the Artificial Intelligence that created Bitcoin has enough computation power to take over the world"
-        ],
-        "feedback": [
-          "Correct! The cryptographic hash function helps to create a tamper-evident record of all transactions on the blockchain, which can be used to verify the integrity of the data stored on the chain. Did you know that the cryptographic hash function is also an essential part of the proof-of-work mechanism that helps to secure the Bitcoin network",
-          "That's a hilarious idea, but no, the cryptographic hash function actually ensures the opposite. Try again",
-          "Ha! I'm not sure who told you that the Bitcoin blockchain was created by AI, but I think they might have been pulling your leg. Try again!"
-        ],
-        "question": "What is the purpose of the cryptographic hash function in the Bitcoin blockchain",
-        "text": "The Bitcoin blockchain is a distributed database that maintains a continuously growing list of Bitcoin transactions called blocks.\n\nBlocks are anchored to each other through the use of cryptographic hashes. Each block contains a cryptographic hash of the previous block, as well as a timestamp and transaction data. This creates a chain of blocks that are all linked together, with each block building on the one before it.\n\nThe cryptographic hash function ensures that once a block has been added to the chain, it cannot be altered or replaced without also changing all of the subsequent blocks in the chain.\n\nThis creates a tamper-evident record of all transactions that have occurred on the blockchain, which can be used to verify the integrity of the data stored on the chain.\n",
-        "title": "What is the purpose of the cryptographic hash function in the Bitcoin blockchain"
-      }
-    }
+    "screen": "blockchain",
+    "answers": [
+      "To create a tamper-evident record of all transactions on the blockchain",
+      "To ensure that blocks can be altered or replaced easily",
+      "To make sure that the Artificial Intelligence that created Bitcoin has enough computation power to take over the world"
+    ],
+    "feedback": [
+      "Correct! The cryptographic hash function helps to create a tamper-evident record of all transactions on the blockchain, which can be used to verify the integrity of the data stored on the chain. Did you know that the cryptographic hash function is also an essential part of the proof-of-work mechanism that helps to secure the Bitcoin network",
+      "That's a hilarious idea, but no, the cryptographic hash function actually ensures the opposite. Try again",
+      "Ha! I'm not sure who told you that the Bitcoin blockchain was created by AI, but I think they might have been pulling your leg. Try again!"
+    ],
+    "question": "What is the purpose of the cryptographic hash function in the Bitcoin blockchain",
+    "text": "The Bitcoin blockchain is a distributed database that maintains a continuously growing list of Bitcoin transactions called blocks.\n\nBlocks are anchored to each other through the use of cryptographic hashes. Each block contains a cryptographic hash of the previous block, as well as a timestamp and transaction data. This creates a chain of blocks that are all linked together, with each block building on the one before it.\n\nThe cryptographic hash function ensures that once a block has been added to the chain, it cannot be altered or replaced without also changing all of the subsequent blocks in the chain.\n\nThis creates a tamper-evident record of all transactions that have occurred on the blockchain, which can be used to verify the integrity of the data stored on the chain.\n",
+    "title": "What is the purpose of the cryptographic hash function in the Bitcoin blockchain"
   }
 }

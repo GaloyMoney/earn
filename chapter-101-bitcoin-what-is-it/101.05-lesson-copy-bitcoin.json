@@ -1,22 +1,18 @@
 {
   "copyBitcoin": {
-    "title": "If Bitcoin is digital money, can’t someone just copy it — and create free money?",
-    "questions": {
-      "copyBitcoin": {
-        "answers": [
-          "No — it is impossible to copy or duplicate the value of bitcoin",
-          "Yes, you can copy bitcoins just as easily as copying a digital photo",
-          "Yes, but copying bitcoin requires very specialized computers"
-        ],
-        "feedback": [
-          "copy or duplicate the value of bitcoin",
-          "You know that it is not true. Try again.",
-          "Incorrect. There is no way for anyone to copy, or create a duplicate, of bitcoin."
-        ],
-        "question": "If Bitcoin is digital money, can’t someone just copy it — and create free money?",
-        "text": "The value of a bitcoin can never be copied. This is the very reason why Bitcoin is such a powerful new invention!! Most digital files — such as an iPhone photo, an MP3 song, or a Microsoft Word document — can easily be duplicated and shared. The Bitcoin software uniquely prevents the duplication — or “double spending” — of digital money. We will share exactly how this works later on!\n",
-        "title": "If Bitcoin is digital money, can’t someone just copy it — and create free money?"
-      }
-    }
+    "screen": "copyBitcoin",
+    "answers": [
+      "No — it is impossible to copy or duplicate the value of bitcoin",
+      "Yes, you can copy bitcoins just as easily as copying a digital photo",
+      "Yes, but copying bitcoin requires very specialized computers"
+    ],
+    "feedback": [
+      "copy or duplicate the value of bitcoin",
+      "You know that it is not true. Try again.",
+      "Incorrect. There is no way for anyone to copy, or create a duplicate, of bitcoin."
+    ],
+    "question": "If Bitcoin is digital money, can’t someone just copy it — and create free money?",
+    "text": "The value of a bitcoin can never be copied. This is the very reason why Bitcoin is such a powerful new invention!! Most digital files — such as an iPhone photo, an MP3 song, or a Microsoft Word document — can easily be duplicated and shared. The Bitcoin software uniquely prevents the duplication — or “double spending” — of digital money. We will share exactly how this works later on!\n",
+    "title": "If Bitcoin is digital money, can’t someone just copy it — and create free money?"
   }
 }

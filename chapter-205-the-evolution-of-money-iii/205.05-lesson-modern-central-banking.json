@@ -1,22 +1,18 @@
 {
   "modernCentralBanking": {
-    "title": "Modern Central Banking",
-    "questions": {
-      "modernCentralBanking": {
-        "answers": [
-          "To create a unified national currency and provide a backup plan for other banks",
-          "To sell ice cream and provide a place for people to play games",
-          "To act as a personal stylist and wardrobe consultant for the royal family"
-        ],
-        "feedback": [
-          "Congratulations, you got it right! Did you know that central banks also act as the \"lender of last resort,\" meaning they can give out money when needed to make sure people's deposits are secure",
-          "I'm sorry, but central banks do not sell ice cream or provide a place for people to play games. They have much more important responsibilities",
-          "I'm afraid you are mistaken. Central banks do not act as personal stylists or wardrobe consultants for the royal family. Try again!"
-        ],
-        "question": "What is the purpose of a central bank",
-        "text": "To counter the problem of bank runs, governments created their own banks called \"central banks.\"\n\nThese central banks have the special power to create money. They act as a backup plan for when commercial banks run out of reserves and need extra money to stay open.\n\nBecause of this function, central banks are also called the \"lenders of last resort,\" meaning they can create and give out money when commercial banks need liquidity to service withdrawals.\n",
-        "title": "What is the purpose of a central bank"
-      }
-    }
+    "screen": "modernCentralBanking",
+    "answers": [
+      "To create a unified national currency and provide a backup plan for other banks",
+      "To sell ice cream and provide a place for people to play games",
+      "To act as a personal stylist and wardrobe consultant for the royal family"
+    ],
+    "feedback": [
+      "Congratulations, you got it right! Did you know that central banks also act as the \"lender of last resort,\" meaning they can give out money when needed to make sure people's deposits are secure",
+      "I'm sorry, but central banks do not sell ice cream or provide a place for people to play games. They have much more important responsibilities",
+      "I'm afraid you are mistaken. Central banks do not act as personal stylists or wardrobe consultants for the royal family. Try again!"
+    ],
+    "question": "What is the purpose of a central bank",
+    "text": "To counter the problem of bank runs, governments created their own banks called \"central banks.\"\n\nThese central banks have the special power to create money. They act as a backup plan for when commercial banks run out of reserves and need extra money to stay open.\n\nBecause of this function, central banks are also called the \"lenders of last resort,\" meaning they can create and give out money when commercial banks need liquidity to service withdrawals.\n",
+    "title": "What is the purpose of a central bank"
   }
 }

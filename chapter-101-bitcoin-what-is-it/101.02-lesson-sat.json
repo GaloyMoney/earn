@@ -1,22 +1,18 @@
 {
   "sat": {
-    "title": "I just earned a “Sat”. What is that?",
-    "questions": {
-      "sat": {
-        "answers": [
-          "The smallest unit of Bitcoin",
-          "A small satellite",
-          "A space cat 🐱🚀"
-        ],
-        "feedback": [
-          "Correct. You just earned another two sats!!",
-          "Maybe… but that is not the correct answer in this context 🙂",
-          "Ummm.... not quite!"
-        ],
-        "question": "I just earned a “Sat\". What is that?",
-        "text": "One “Sat” is the smallest unit of a bitcoin. We all know that one US Dollar can be divided into 100 cents. Similarly, one Bitcoin can be divided into 100,000,000 sats. In fact, you do not need to own one whole bitcoin in order to use it. You can use bitcoin whether you have 20 sats, 3000 sats — or 100,000,000 sats (which you now know is equal to one bitcoin).\n",
-        "title": "I just earned a “Sat\". What is that?"
-      }
-    }
+    "screen": "sat",
+    "answers": [
+      "The smallest unit of Bitcoin",
+      "A small satellite",
+      "A space cat 🐱🚀"
+    ],
+    "feedback": [
+      "Correct. You just earned another two sats!!",
+      "Maybe… but that is not the correct answer in this context 🙂",
+      "Ummm.... not quite!"
+    ],
+    "question": "I just earned a “Sat\". What is that?",
+    "text": "One “Sat” is the smallest unit of a bitcoin. We all know that one US Dollar can be divided into 100 cents. Similarly, one Bitcoin can be divided into 100,000,000 sats. In fact, you do not need to own one whole bitcoin in order to use it. You can use bitcoin whether you have 20 sats, 3000 sats — or 100,000,000 sats (which you now know is equal to one bitcoin).\n",
+    "title": "I just earned a “Sat\". What is that?"
   }
 }

@@ -1,22 +1,18 @@
 {
   "verifiability": {
-    "title": "The good must be easy to quickly identify and verify as authentic",
-    "questions": {
-      "verifiability": {
-        "answers": [
-          "By using cryptographic signatures",
-          "By checking for gold-plated tungsten",
-          "By checking for features on banknotes to prevent counterfeiting"
-        ],
-        "feedback": [
-          "Congratulations! You are correct. Bitcoin can be verified with mathematical certainty using cryptographic signatures",
-          "Sorry, but that's not quite right. Better luck next time",
-          "Wrong! Bitcoin is purely digital and doesn't utilize banknotes. Try again!"
-        ],
-        "question": "How can bitcoin be verified",
-        "text": "It is important for a good store of value to be easily verifiable as authentic. This increases confidence in trade and the likelihood that a transaction will be completed.\n\nBoth fiat currencies and gold are generally easy to verify, but they are not foolproof. Counterfeit bills and gold-plated tungsten have been used to deceive people in the past.\n\nOn the other hand, the use of cryptography makes verification very easy for bitcoin and makes counterfeiting impossible.\n",
-        "title": "How can bitcoin be verified"
-      }
-    }
+    "screen": "verifiability",
+    "answers": [
+      "By using cryptographic signatures",
+      "By checking for gold-plated tungsten",
+      "By checking for features on banknotes to prevent counterfeiting"
+    ],
+    "feedback": [
+      "Congratulations! You are correct. Bitcoin can be verified with mathematical certainty using cryptographic signatures",
+      "Sorry, but that's not quite right. Better luck next time",
+      "Wrong! Bitcoin is purely digital and doesn't utilize banknotes. Try again!"
+    ],
+    "question": "How can bitcoin be verified",
+    "text": "It is important for a good store of value to be easily verifiable as authentic. This increases confidence in trade and the likelihood that a transaction will be completed.\n\nBoth fiat currencies and gold are generally easy to verify, but they are not foolproof. Counterfeit bills and gold-plated tungsten have been used to deceive people in the past.\n\nOn the other hand, the use of cryptography makes verification very easy for bitcoin and makes counterfeiting impossible.\n",
+    "title": "How can bitcoin be verified"
   }
 }

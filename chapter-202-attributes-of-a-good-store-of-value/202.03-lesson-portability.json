@@ -1,22 +1,18 @@
 {
   "portability": {
-    "title": "The good must be easy to transport and store",
-    "questions": {
-      "portability": {
-        "answers": [
-          "Its physical form",
-          "Its ability to be easily transported and stored",
-          "Its ability to facilitate long-distance trade"
-        ],
-        "feedback": [
-          "You got it right. The physical form of the good is not a factor that makes it portable. In fact, digital currencies like bitcoin are the most portable stores of value because they can be easily stored on a small device and transmitted quickly across long distances. Did you know that private keys representing hundreds of millions of dollars can be stored on a tiny USB drive and easily carried anywhere with bitcoin? That's pretty impressive",
-          "Sorry, that's incorrect! The ability to be easily transported and stored is actually an important factor that makes a good store of value portable. But don't worry, it's a common mistake. After all, who wouldn't want to carry around a cow as a store of value? It would make for a pretty impressive conversation starter at least",
-          "Oops, that's not the right answer! The ability to facilitate long-distance trade is actually an important factor that makes a good store of value portable. But hey, at least you're not alone in this mistake. It's easy to see how someone might think that cows are the perfect portable store of value, given their ability to produce milk and beef."
-        ],
-        "question": "Which of the following is NOT a factor that makes a good store of value portable",
-        "text": "\n\"Portability\" refers to how easy it is to move or transport a good from one place to another.\n\nBitcoins are highly portable, allowing for easy storage on a small USB drive and quick transmission across long distances. Similarly, fiat currencies are also digital and therefore portable, but government regulations and capital controls can make large transfers of value difficult or impossible.\n\nOn the other hand, gold, being physical in form and very dense, is the least portable store of value, with the majority of bullion never being transported and the transfer of physical gold being costly, risky, and time-consuming.\n",
-        "title": "Which of the following is NOT a factor that makes a good store of value portable"
-      }
-    }
+    "screen": "portability",
+    "answers": [
+      "Its physical form",
+      "Its ability to be easily transported and stored",
+      "Its ability to facilitate long-distance trade"
+    ],
+    "feedback": [
+      "You got it right. The physical form of the good is not a factor that makes it portable. In fact, digital currencies like bitcoin are the most portable stores of value because they can be easily stored on a small device and transmitted quickly across long distances. Did you know that private keys representing hundreds of millions of dollars can be stored on a tiny USB drive and easily carried anywhere with bitcoin? That's pretty impressive",
+      "Sorry, that's incorrect! The ability to be easily transported and stored is actually an important factor that makes a good store of value portable. But don't worry, it's a common mistake. After all, who wouldn't want to carry around a cow as a store of value? It would make for a pretty impressive conversation starter at least",
+      "Oops, that's not the right answer! The ability to facilitate long-distance trade is actually an important factor that makes a good store of value portable. But hey, at least you're not alone in this mistake. It's easy to see how someone might think that cows are the perfect portable store of value, given their ability to produce milk and beef."
+    ],
+    "question": "Which of the following is NOT a factor that makes a good store of value portable",
+    "text": "\n\"Portability\" refers to how easy it is to move or transport a good from one place to another.\n\nBitcoins are highly portable, allowing for easy storage on a small USB drive and quick transmission across long distances. Similarly, fiat currencies are also digital and therefore portable, but government regulations and capital controls can make large transfers of value difficult or impossible.\n\nOn the other hand, gold, being physical in form and very dense, is the least portable store of value, with the majority of bullion never being transported and the transfer of physical gold being costly, risky, and time-consuming.\n",
+    "title": "Which of the following is NOT a factor that makes a good store of value portable"
   }
 }

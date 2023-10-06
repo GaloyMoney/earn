@@ -1,22 +1,18 @@
 {
   "governmentBan": {
-    "title": "Governments Will Ban Bitcoin",
-    "questions": {
-      "governmentBan": {
-        "answers": [
-          "No, because the decentralized nature of the bitcoin network makes it difficult to enforce a ban",
-          "Yes, by preventing the generation of random numbers",
-          "Yes, by shutting down the internet"
-        ],
-        "feedback": [
-          "Correct. The decentralized nature of the bitcoin network makes it difficult to enforce a ban",
-          "Nope, silly! While it is technically possible for governments to ban bitcoin, it would be nearly impossible to enforce such a ban. Try again",
-          "Uh oh, looks like you might have gotten the wrong answer. Shutting down the internet wouldn't necessarily stop people from using bitcoin."
-        ],
-        "question": "Can governments effectively ban bitcoin",
-        "text": "It is technically possible for governments to ban bitcoin, but enforcing such a ban would be difficult due to the decentralized nature of the bitcoin network.\n\nBitcoin relies on private keys, which are simply random numbers, to control access to transactions recorded on the blockchain. These private keys can be generated and stored anywhere, making them largely undectectable.\n\nAdditionally, the infrastructure required to access the bitcoin network is relatively simple and widely available, making it easy for people to trustlessly verify transactions.\n\nAs Saifedean Ammous said, \"Banning bitcoin is not much different from trying to ban math. It will just prove its utility & drive more people to it.\"\n",
-        "title": "Can governments effectively ban bitcoin"
-      }
-    }
+    "screen": "governmentBan",
+    "answers": [
+      "No, because the decentralized nature of the bitcoin network makes it difficult to enforce a ban",
+      "Yes, by preventing the generation of random numbers",
+      "Yes, by shutting down the internet"
+    ],
+    "feedback": [
+      "Correct. The decentralized nature of the bitcoin network makes it difficult to enforce a ban",
+      "Nope, silly! While it is technically possible for governments to ban bitcoin, it would be nearly impossible to enforce such a ban. Try again",
+      "Uh oh, looks like you might have gotten the wrong answer. Shutting down the internet wouldn't necessarily stop people from using bitcoin."
+    ],
+    "question": "Can governments effectively ban bitcoin",
+    "text": "It is technically possible for governments to ban bitcoin, but enforcing such a ban would be difficult due to the decentralized nature of the bitcoin network.\n\nBitcoin relies on private keys, which are simply random numbers, to control access to transactions recorded on the blockchain. These private keys can be generated and stored anywhere, making them largely undectectable.\n\nAdditionally, the infrastructure required to access the bitcoin network is relatively simple and widely available, making it easy for people to trustlessly verify transactions.\n\nAs Saifedean Ammous said, \"Banning bitcoin is not much different from trying to ban math. It will just prove its utility & drive more people to it.\"\n",
+    "title": "Can governments effectively ban bitcoin"
   }
 }

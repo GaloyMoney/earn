@@ -1,22 +1,18 @@
 {
   "fractionalReserve": {
-    "title": "The Invention of Fractional Reserve Banking",
-    "questions": {
-      "fractionalReserve": {
-        "answers": [
-          "To allow people to earn money from their gold",
-          "To make it easier for banks to hold large amounts of gold",
-          "To make it easier for banks to make loans"
-        ],
-        "feedback": [
-          "Congratulations! You're a banking history expert! Did you know that Fractional Reserve Banking is a system in which banks are allowed to hold only a fraction of the deposits they receive as reserves, while using the rest to make loans",
-          "Hmm, it looks like you're a little off the mark. Better luck next time",
-          "Sorry, but it looks like you're mixing up your banking systems. Better luck next time!"
-        ],
-        "question": "Why did Fractional Reserve Banking develop",
-        "text": "Fractional Reserve Banking is a system in which banks are allowed to hold only a fraction of the deposits they receive as reserves, while using the rest to make loans.\n\nOne reason this system developed is because people wanted to earn money from their gold, rather than paying to store it.\n\nThey could do this by allowing a bank or vault to lend out their gold and receiving interest payment in return.\n\nIf more people deposited their gold than wanted to take it back, the bank could make more profit by using the same gold as collateral for multiple loans, hence keeping only a fraction of loans in reserve.\n",
-        "title": "Why did Fractional Reserve Banking develop"
-      }
-    }
+    "screen": "fractionalReserve",
+    "answers": [
+      "To allow people to earn money from their gold",
+      "To make it easier for banks to hold large amounts of gold",
+      "To make it easier for banks to make loans"
+    ],
+    "feedback": [
+      "Congratulations! You're a banking history expert! Did you know that Fractional Reserve Banking is a system in which banks are allowed to hold only a fraction of the deposits they receive as reserves, while using the rest to make loans",
+      "Hmm, it looks like you're a little off the mark. Better luck next time",
+      "Sorry, but it looks like you're mixing up your banking systems. Better luck next time!"
+    ],
+    "question": "Why did Fractional Reserve Banking develop",
+    "text": "Fractional Reserve Banking is a system in which banks are allowed to hold only a fraction of the deposits they receive as reserves, while using the rest to make loans.\n\nOne reason this system developed is because people wanted to earn money from their gold, rather than paying to store it.\n\nThey could do this by allowing a bank or vault to lend out their gold and receiving interest payment in return.\n\nIf more people deposited their gold than wanted to take it back, the bank could make more profit by using the same gold as collateral for multiple loans, hence keeping only a fraction of loans in reserve.\n",
+    "title": "Why did Fractional Reserve Banking develop"
   }
 }

@@ -1,22 +1,18 @@
 {
   "primitiveMoney": {
-    "title": "Primitive forms of money",
-    "questions": {
-      "primitiveMoney": {
-        "answers": [
-          "To store value",
-          "To serve as a form of entertainment",
-          "To act as a medium of exchange"
-        ],
-        "feedback": [
-          "Congratulations! You're right on the money (pun intended). Collectibles served as a store of value in paleolithic societies, much like how Bitcoin and other cryptocurrencies are used today as a digital store of value",
-          "Sorry, collectibles might be fun to collect, but they had a more practical purpose in ancient societies",
-          "Collectibles were not used as frequently as modern currency, so they didn't quite play the same role as a medium of exchange."
-        ],
-        "question": "What was the primary role of collectibles in paleolithic societies",
-        "text": "Collectibles served as a precursor to money by allowing trade between different groups and facilitating the transfer of wealth between generations. Although they were not used as frequently as modern money in paleolithic societies, collectibles still served as a store of value and could sometimes even facilitate trade.\n\nPrimitive forms of money, such as collectibles, had a low velocity compared to modern currency and might only be transferred a few times during an individual's lifetime. However, durable collectibles that were passed down through generations had substantial value at each transfer and sometimes made trade possible.\n",
-        "title": "What was the primary role of collectibles in paleolithic societies"
-      }
-    }
+    "screen": "primitiveMoney",
+    "answers": [
+      "To store value",
+      "To serve as a form of entertainment",
+      "To act as a medium of exchange"
+    ],
+    "feedback": [
+      "Congratulations! You're right on the money (pun intended). Collectibles served as a store of value in paleolithic societies, much like how Bitcoin and other cryptocurrencies are used today as a digital store of value",
+      "Sorry, collectibles might be fun to collect, but they had a more practical purpose in ancient societies",
+      "Collectibles were not used as frequently as modern currency, so they didn't quite play the same role as a medium of exchange."
+    ],
+    "question": "What was the primary role of collectibles in paleolithic societies",
+    "text": "Collectibles served as a precursor to money by allowing trade between different groups and facilitating the transfer of wealth between generations. Although they were not used as frequently as modern money in paleolithic societies, collectibles still served as a store of value and could sometimes even facilitate trade.\n\nPrimitive forms of money, such as collectibles, had a low velocity compared to modern currency and might only be transferred a few times during an individual's lifetime. However, durable collectibles that were passed down through generations had substantial value at each transfer and sometimes made trade possible.\n",
+    "title": "What was the primary role of collectibles in paleolithic societies"
   }
 }

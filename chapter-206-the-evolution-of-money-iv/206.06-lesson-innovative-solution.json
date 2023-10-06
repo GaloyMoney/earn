@@ -1,22 +1,18 @@
 {
   "satoshisBreakthrough": {
-    "title": "Satoshi's Breakthrough",
-    "questions": {
-      "satoshisBreakthrough": {
-        "answers": [
-          "The double spending problem",
-          "The problem of double coincidence of wants",
-          "The halving problem"
-        ],
-        "feedback": [
-          "Good job. Bitcoin uses a proof-of-work consensus mechanism where transactions are batched into blocks and chained together to a blockchain. This way, every user knows that every coin is only spent once",
-          "Not quite. The double coincidence of wants is a problem of barter that can be solved with money. Try again",
-          "Hah no. The halving in bitcoin is not a problem, but part of the solution that Satoshi designed! More on that in Chapter 302. Try again!"
-        ],
-        "question": "Which problem did Satoshi have to solve to create Bitcoin",
-        "text": "Satoshi's solution to the double spending problem was a breakthrough in computer science and distributed systems. Until Bitcoin, many believed that it would be unsolvable.\n\nHis solution allowed Satoshi to develop a new electronic cash system that for the first time made it possible for people to send digital money directly to each other, without needing a bank or other organization to help.\n",
-        "title": "Which problem did Satoshi have to solve to create Bitcoin"
-      }
-    }
+    "screen": "satoshisBreakthrough",
+    "answers": [
+      "The double spending problem",
+      "The problem of double coincidence of wants",
+      "The halving problem"
+    ],
+    "feedback": [
+      "Good job. Bitcoin uses a proof-of-work consensus mechanism where transactions are batched into blocks and chained together to a blockchain. This way, every user knows that every coin is only spent once",
+      "Not quite. The double coincidence of wants is a problem of barter that can be solved with money. Try again",
+      "Hah no. The halving in bitcoin is not a problem, but part of the solution that Satoshi designed! More on that in Chapter 302. Try again!"
+    ],
+    "question": "Which problem did Satoshi have to solve to create Bitcoin",
+    "text": "Satoshi's solution to the double spending problem was a breakthrough in computer science and distributed systems. Until Bitcoin, many believed that it would be unsolvable.\n\nHis solution allowed Satoshi to develop a new electronic cash system that for the first time made it possible for people to send digital money directly to each other, without needing a bank or other organization to help.\n",
+    "title": "Which problem did Satoshi have to solve to create Bitcoin"
   }
 }

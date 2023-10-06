@@ -1,22 +1,18 @@
 {
   "paymentChannels": {
-    "title": "How does Lighning work?",
-    "questions": {
-      "paymentChannels": {
-        "answers": [
-          "By pushing bitcoin from one side of the channel to the other each time a payment is made",
-          "By broadcasting every transaction immediately to the Bitcoin blockchain as soon as it happens",
-          "By paying a commission to a 3rd party payment provider"
-        ],
-        "feedback": [
-          "That's right! Think of moving bitcoin in a Lightning channel like moving beads on an abacus. Each side keeps track of how much is on their side until it's time to settle on the Bitcoin blockchain. Good job",
-          "Quite the opposite! Payment channels in Lightning avoid broadcasting every transaction by aggregating them. Try again",
-          "Uhm no, actually payments in Lightning Network save the users fees for not settling every transaction on the blockchain. Try again!"
-        ],
-        "question": "How do payment channels in the Lightning Network allow users to pay each other",
-        "text": "The Lightning Network consists of thousands of two party payment channels.\n\nYou may think of a Lightning channel like opening a tab at your local bar. Instead of pulling out your wallet and paying each time you order a drink, it makes sense to save time, energy and fees by tallying all your drinks together at the end of the night and making the final settlement in one payment.\n\nLightning works similar. Each time a payment is made from person A to person B, bitcoin are pushed from one side of the channel to the other. Two users can pay one another back and forth as many times as they like, almost instantly and with close to no fees.\n",
-        "title": "How do payment channels in the Lightning Network allow users to pay each other"
-      }
-    }
+    "screen": "paymentChannels",
+    "answers": [
+      "By pushing bitcoin from one side of the channel to the other each time a payment is made",
+      "By broadcasting every transaction immediately to the Bitcoin blockchain as soon as it happens",
+      "By paying a commission to a 3rd party payment provider"
+    ],
+    "feedback": [
+      "That's right! Think of moving bitcoin in a Lightning channel like moving beads on an abacus. Each side keeps track of how much is on their side until it's time to settle on the Bitcoin blockchain. Good job",
+      "Quite the opposite! Payment channels in Lightning avoid broadcasting every transaction by aggregating them. Try again",
+      "Uhm no, actually payments in Lightning Network save the users fees for not settling every transaction on the blockchain. Try again!"
+    ],
+    "question": "How do payment channels in the Lightning Network allow users to pay each other",
+    "text": "The Lightning Network consists of thousands of two party payment channels.\n\nYou may think of a Lightning channel like opening a tab at your local bar. Instead of pulling out your wallet and paying each time you order a drink, it makes sense to save time, energy and fees by tallying all your drinks together at the end of the night and making the final settlement in one payment.\n\nLightning works similar. Each time a payment is made from person A to person B, bitcoin are pushed from one side of the channel to the other. Two users can pay one another back and forth as many times as they like, almost instantly and with close to no fees.\n",
+    "title": "How do payment channels in the Lightning Network allow users to pay each other"
   }
 }

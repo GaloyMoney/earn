@@ -1,22 +1,18 @@
 {
   "lightningNetwork": {
-    "title": "The Lightning Network",
-    "questions": {
-      "lightningNetwork": {
-        "answers": [
-          "It allows users to make small, near instant payments at low cost",
-          "It helps users preserve the decentralization of the Bitcoin network",
-          "It ensures that every transaction is added to the Bitcoin blockchain"
-        ],
-        "feedback": [
-          "Correct! The Lightning Network allows users to make small, near instant payments at low cost, and it eliminates the need for every transaction to be added to the Bitcoin blockchain. Congrats! As a fun fact, the Lightning Network has helped increase the adoption of Bitcoin by allowing it to process more transactions per second and handle higher volumes of transactions",
-          "Incorrect! The Lightning Network is actually a scaling solution built on top of the Bitcoin protocol. Try again",
-          "Incorrect! The Lightning Network actually eliminates the need for every transaction to be added to the Bitcoin blockchain, as it allows for smaller payments to be made off-chain."
-        ],
-        "question": "What does the Lightning Network do",
-        "text": "While users prevailed and preserved the decentralization of the Bitcoin network, a solution to scale Bitcoin proposed by researchers Tadge Dryja and Joseph Poon, called the Lightning Network, started to gain traction and was launched in 2017.\n\nThe Lightning Network, often referred to as just Lightning or LN, is a scaling solution built on top of the Bitcoin protocol. It facilitates smaller, near instant payments between users at very low cost and eliminates the need for every transaction to be added to the Bitcoin blockchain whilst ensuring that the value being transacted abides by the rules of the Bitcoin network.\n",
-        "title": "What does the Lightning Network do"
-      }
-    }
+    "screen": "lightningNetwork",
+    "answers": [
+      "It allows users to make small, near instant payments at low cost",
+      "It helps users preserve the decentralization of the Bitcoin network",
+      "It ensures that every transaction is added to the Bitcoin blockchain"
+    ],
+    "feedback": [
+      "Correct! The Lightning Network allows users to make small, near instant payments at low cost, and it eliminates the need for every transaction to be added to the Bitcoin blockchain. Congrats! As a fun fact, the Lightning Network has helped increase the adoption of Bitcoin by allowing it to process more transactions per second and handle higher volumes of transactions",
+      "Incorrect! The Lightning Network is actually a scaling solution built on top of the Bitcoin protocol. Try again",
+      "Incorrect! The Lightning Network actually eliminates the need for every transaction to be added to the Bitcoin blockchain, as it allows for smaller payments to be made off-chain."
+    ],
+    "question": "What does the Lightning Network do",
+    "text": "While users prevailed and preserved the decentralization of the Bitcoin network, a solution to scale Bitcoin proposed by researchers Tadge Dryja and Joseph Poon, called the Lightning Network, started to gain traction and was launched in 2017.\n\nThe Lightning Network, often referred to as just Lightning or LN, is a scaling solution built on top of the Bitcoin protocol. It facilitates smaller, near instant payments between users at very low cost and eliminates the need for every transaction to be added to the Bitcoin blockchain whilst ensuring that the value being transacted abides by the rules of the Bitcoin network.\n",
+    "title": "What does the Lightning Network do"
   }
 }

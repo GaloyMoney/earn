@@ -1,22 +1,18 @@
 {
   "prohibitivelyHigh": {
-    "title": "Bitcoin transaction costs are prohibitively high",
-    "questions": {
-      "prohibitivelyHigh": {
-        "answers": [
-          "The efficiency and reliability of the bitcoin network as a settlement layer",
-          "The use of secondary layers such as lightning, liquid, or federated side-chains for smaller transactions",
-          "The fact that bitcoin is still a relatively new technology and has not yet reached its full potential"
-        ],
-        "feedback": [
-          "Congratulations, you've hit the nail on the head! The efficiency and reliability of the bitcoin network certainly play a role in keeping transaction fees low. Did you know that the bitcoin network can process up to 7 transactions per second, making it faster than some traditional payment systems",
-          "Nice try, but it looks like you're missing a key piece of information. Try again",
-          "Sorry, but being a newer technology does not necessarily equate to lower transaction fees. Better luck next time!"
-        ],
-        "question": "What is the main reason that transaction fees on the main layer of bitcoin remain relatively low compared to traditional financial systems",
-        "text": "Another misconception about bitcoin is that its transaction costs are prohibitively high.\n\nHowever, confirmed transactions on the main layer of bitcoin provide a level of finality that is unmatched in the traditional financial system. While it is true that transaction fees may occasionally spike due to the limited capacity of each block, the bitcoin network remains an efficient and reliable settlement layer for high-value transactions.\n\nIn fact, according to Saifedean Ammous, \"between October 2010 and July 2021, the average daily transaction fees came up to around 0.02% of the value of the transactions.\"\n\nIn addition, smaller transactions, including microtransactions, are often migrated to secondary layers such as lightning, liquid, or federated side-chains where fees are significantly lower than those offered by retail banks.\n",
-        "title": "What is the main reason that transaction fees on the main layer of bitcoin remain relatively low compared to traditional financial systems"
-      }
-    }
+    "screen": "prohibitivelyHigh",
+    "answers": [
+      "The efficiency and reliability of the bitcoin network as a settlement layer",
+      "The use of secondary layers such as lightning, liquid, or federated side-chains for smaller transactions",
+      "The fact that bitcoin is still a relatively new technology and has not yet reached its full potential"
+    ],
+    "feedback": [
+      "Congratulations, you've hit the nail on the head! The efficiency and reliability of the bitcoin network certainly play a role in keeping transaction fees low. Did you know that the bitcoin network can process up to 7 transactions per second, making it faster than some traditional payment systems",
+      "Nice try, but it looks like you're missing a key piece of information. Try again",
+      "Sorry, but being a newer technology does not necessarily equate to lower transaction fees. Better luck next time!"
+    ],
+    "question": "What is the main reason that transaction fees on the main layer of bitcoin remain relatively low compared to traditional financial systems",
+    "text": "Another misconception about bitcoin is that its transaction costs are prohibitively high.\n\nHowever, confirmed transactions on the main layer of bitcoin provide a level of finality that is unmatched in the traditional financial system. While it is true that transaction fees may occasionally spike due to the limited capacity of each block, the bitcoin network remains an efficient and reliable settlement layer for high-value transactions.\n\nIn fact, according to Saifedean Ammous, \"between October 2010 and July 2021, the average daily transaction fees came up to around 0.02% of the value of the transactions.\"\n\nIn addition, smaller transactions, including microtransactions, are often migrated to secondary layers such as lightning, liquid, or federated side-chains where fees are significantly lower than those offered by retail banks.\n",
+    "title": "What is the main reason that transaction fees on the main layer of bitcoin remain relatively low compared to traditional financial systems"
   }
 }

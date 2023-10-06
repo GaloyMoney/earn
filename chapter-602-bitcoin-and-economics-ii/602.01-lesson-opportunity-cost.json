@@ -1,22 +1,18 @@
 {
   "opportunityCost": {
-    "title": "Opportunity Cost",
-    "questions": {
-      "opportunityCost": {
-        "answers": [
-          "The cost of not being able to do something else when you choose to do one thing",
-          "A type of cost that only applies to business owners",
-          "The cost of buying a new car"
-        ],
-        "feedback": [
-          "Congratulations! You got it right. Did you know that opportunity cost can help you make better financial decisions by considering the trade-offs involved in different options",
-          "Wrong! Opportunity cost applies to anyone who makes a choice, not just business owners. Maybe try again and think about the trade-offs involved in decision-making",
-          "Ha! That's not quite right. The cost of buying a new car is a specific type of expense, not the same thing as opportunity cost. Maybe try again and think about the concept of trade-offs in decision-making."
-        ],
-        "question": "What is opportunity cost",
-        "text": "Opportunity cost is the idea that when you choose to do one thing, you can't do something else instead. In other words, every time you make a financial decision, you have to trade off one option for another.\n\nBitcoin can help you make better financial decisions in the long term because it's a good way to store value (like saving money). This means that if you choose to invest in bitcoin, you might have to give up using that money for other things or opportunities. But if you hold onto your bitcoin, it has the potential to increase in value over time.\n\nThis is especially important right now because the traditional monetary system (called \"fiat\") is not a reliable way to save money - it's designed in a way that causes the value of money to go down over time. So, it's important to make careful financial decisions to preserve your wealth.\n",
-        "title": "What is opportunity cost"
-      }
-    }
+    "screen": "opportunityCost",
+    "answers": [
+      "The cost of not being able to do something else when you choose to do one thing",
+      "A type of cost that only applies to business owners",
+      "The cost of buying a new car"
+    ],
+    "feedback": [
+      "Congratulations! You got it right. Did you know that opportunity cost can help you make better financial decisions by considering the trade-offs involved in different options",
+      "Wrong! Opportunity cost applies to anyone who makes a choice, not just business owners. Maybe try again and think about the trade-offs involved in decision-making",
+      "Ha! That's not quite right. The cost of buying a new car is a specific type of expense, not the same thing as opportunity cost. Maybe try again and think about the concept of trade-offs in decision-making."
+    ],
+    "question": "What is opportunity cost",
+    "text": "Opportunity cost is the idea that when you choose to do one thing, you can't do something else instead. In other words, every time you make a financial decision, you have to trade off one option for another.\n\nBitcoin can help you make better financial decisions in the long term because it's a good way to store value (like saving money). This means that if you choose to invest in bitcoin, you might have to give up using that money for other things or opportunities. But if you hold onto your bitcoin, it has the potential to increase in value over time.\n\nThis is especially important right now because the traditional monetary system (called \"fiat\") is not a reliable way to save money - it's designed in a way that causes the value of money to go down over time. So, it's important to make careful financial decisions to preserve your wealth.\n",
+    "title": "What is opportunity cost"
   }
 }

@@ -1,22 +1,18 @@
 {
   "greshamsLaw": {
-    "title": "Gresham's Law",
-    "questions": {
-      "greshamsLaw": {
-        "answers": [
-          "A law that explains how people tend to use different types of currency in different ways when they are in circulation together",
-          "A law that says people will always choose to spend the more valuable currency when given a choice",
-          "Gresham's Law actually explains the opposite behavior"
-        ],
-        "feedback": [
-          "Good job, you understood Gresham's Law. This law explains how people tend to save the more valuable currency and spend the less valuable one when given the choice. Interesting fact: Gresham's Law can also apply to \"fiat\" currency, which is not backed by a physical commodity like gold or silver",
-          "Sorry, wrong answer! Gresham's Law actually explains the opposite behavior",
-          "Ha! That's a funny answer, but unfortunately it's not correct."
-        ],
-        "question": "What is Gresham's Law",
-        "text": "Gresham's Law is a concept that explains how people tend to use different types of currency in different ways when they are in circulation together.\n\nIf two forms of currency are given equal value by a government or other authority, but one is made of a more valuable material, people will be more likely to save the more valuable currency and spend the less valuable one.\n\nThis can happen when a government debases its currency, or makes it worth less, by decreasing the amount of valuable material it contains. The result is that people lose trust in the debased currency and prefer to hold onto the more valuable one instead.\n\nThis principle can also apply to \"fiat\" currency, which is not backed by a physical commodity like gold or silver, if the supply of the currency is increased in a way that makes it worth less.\n\nIn recent years, the emergence of bitcoin as a digital currency has led to a trend of people saving in bitcoin and spending their traditional currency, or \"fiat,\" more quickly. This is because bitcoin is seen as having a higher long-term value and being more stable than fiat currencies.\n",
-        "title": "What is Gresham's Law"
-      }
-    }
+    "screen": "greshamsLaw",
+    "answers": [
+      "A law that explains how people tend to use different types of currency in different ways when they are in circulation together",
+      "A law that says people will always choose to spend the more valuable currency when given a choice",
+      "Gresham's Law actually explains the opposite behavior"
+    ],
+    "feedback": [
+      "Good job, you understood Gresham's Law. This law explains how people tend to save the more valuable currency and spend the less valuable one when given the choice. Interesting fact: Gresham's Law can also apply to \"fiat\" currency, which is not backed by a physical commodity like gold or silver",
+      "Sorry, wrong answer! Gresham's Law actually explains the opposite behavior",
+      "Ha! That's a funny answer, but unfortunately it's not correct."
+    ],
+    "question": "What is Gresham's Law",
+    "text": "Gresham's Law is a concept that explains how people tend to use different types of currency in different ways when they are in circulation together.\n\nIf two forms of currency are given equal value by a government or other authority, but one is made of a more valuable material, people will be more likely to save the more valuable currency and spend the less valuable one.\n\nThis can happen when a government debases its currency, or makes it worth less, by decreasing the amount of valuable material it contains. The result is that people lose trust in the debased currency and prefer to hold onto the more valuable one instead.\n\nThis principle can also apply to \"fiat\" currency, which is not backed by a physical commodity like gold or silver, if the supply of the currency is increased in a way that makes it worth less.\n\nIn recent years, the emergence of bitcoin as a digital currency has led to a trend of people saving in bitcoin and spending their traditional currency, or \"fiat,\" more quickly. This is because bitcoin is seen as having a higher long-term value and being more stable than fiat currencies.\n",
+    "title": "What is Gresham's Law"
   }
 }
