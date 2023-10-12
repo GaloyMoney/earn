@@ -25,7 +25,12 @@ find . -type d -path '*chapter*' | sort | while read dirname; do
   chapterfiles=$(find $dirname -type f -name '*.json' -not -name '*-combined.json' | sort)
   chaptermeta=$(find $dirname -type f -name 'README.md')
   chaptertitle=$(head -n 1 $chaptermeta | sed 's/#//g' | sed 's/Chapter [0-9][0-9][0-9] - //' | xargs)
-  chapterid=$(echo $chaptertitle | sed 's/ //g' | sed "s/[^[:alpha:]]//g")
+
+  if [[ "$OSTYPE" == "linux-gnu"* ]]; then
+    chapterid=$(echo $chaptertitle | sed -e "s/\b\(.\)/\u\1/g" | sed "s/[^[:alpha:]]//g" | sed 's/ //g')
+  elif [[ "$OSTYPE" == "darwin"* ]]; then
+    chapterid=$(echo $chaptertitle | gsed -e "s/\b\(.\)/\u\1/g" | sed "s/[^[:alpha:]]//g" | sed 's/ //g')
+  fi
 
   jq -n '[ inputs[] | { (.screen|tostring): del(.screen) }]' $chapterfiles | jq --arg chaptertitle "$chaptertitle" --arg chapterid "$chapterid" '{ ($chapterid): { title: $chaptertitle, questions: (. |= add) } }' > $new_file
 done
