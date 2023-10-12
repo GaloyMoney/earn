@@ -34,3 +34,9 @@ find . -type d -path '*chapter*' | sort | while read dirname; do
 
   jq -n '[ inputs[] | { (.screen|tostring): del(.screen) }]' $chapterfiles | jq --arg chaptertitle "$chaptertitle" --arg chapterid "$chapterid" '{ ($chapterid): { title: $chaptertitle, questions: (. |= add) } }' > $new_file
 done
+
+allchapterfiles=$(find . -type f -name '*-combined.json' | sort)
+combinedfile="./combined-output.json"
+
+jq -s add $allchapterfiles > $combinedfile
+rm -f $allchapterfiles
