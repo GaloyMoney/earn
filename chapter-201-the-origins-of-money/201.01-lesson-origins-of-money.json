@@ -1,0 +1,18 @@
+{
+  "originsOfMoney": {
+    "screen": "originsOfMoney",
+    "answers": [
+      "To store and transfer wealth",
+      "To serve as a form of entertainment",
+      "To act as a status symbol"
+    ],
+    "feedback": [
+      "Congratulations! You hit the nail on the head. Collectibles have long been used as a medium for storing and transferring wealth, much like how Bitcoin is used today as a decentralized digital currency",
+      "Sorry, but collectibles aren't just for show - they have a deeper purpose",
+      "While collectibles may serve as a status symbol for some, there's more to it than just showing off."
+    ],
+    "question": "What is the primary and ultimate evolutionary function of collectibles",
+    "text": "The earliest human societies engaged in trade through barter, but this method had several limitations. One issue was the \"double coincidence of wants\" problem, where two people needed to desire the same item at the same time in order to complete a trade.\n\nTo overcome this issue, humans began to collect and value certain items for their rarity and symbolic significance, such as shells, animal teeth, and flint.\n\nThese collectibles served as a way for early humans to store and transfer wealth, providing an evolutionary advantage over other species such as Homo neanderthalensis.\n",
+    "title": "What is the primary and ultimate evolutionary function of collectibles"
+  }
+}

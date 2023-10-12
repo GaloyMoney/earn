@@ -1,0 +1,18 @@
+{
+  "whoControlsBitcoin": {
+    "screen": "whoControlsBitcoin",
+    "answers": [
+      "A voluntary community of users around the world",
+      "Mr Burns from The Simpsons",
+      "The government of France"
+    ],
+    "feedback": [
+      "That is right. Bitcoin is made possible by people all around the world running bitcoin software on their computers and smartphones.",
+      "An amusing thought — but not correct!",
+      "Wrong. There is no company nor government that controls Bitcoin."
+    ],
+    "question": "Who controls Bitcoin?",
+    "text": "Bitcoin is not controlled by any person, company or government. It is run by the community of users -- people and companies all around the world -- voluntarily running bitcoin software on their computers and smartphones.\n",
+    "title": "Who controls Bitcoin?"
+  }
+}

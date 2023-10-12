@@ -1,0 +1,18 @@
+{
+  "micropayments": {
+    "screen": "micropayments",
+    "answers": [
+      "A payment for a small amount of money, often less than a dollar",
+      "A payment that requires a minimum amount and fixed fee",
+      "A payment made using the Lightning Network"
+    ],
+    "feedback": [
+      "Exactly! These types of payments can be difficult to make using traditional financial systems or the Bitcoin network, as they often have minimum amounts that can be transferred and fixed fees that can make small payments impractical",
+      "Nope**.** While traditional financial systems may require a minimum amount and fixed fee for payments, the Lightning Network allows for the possibility of making very small payments without these limitations",
+      "Not quite! While the Lightning Network does allow for the possibility of making micropayments, a micropayment is not defined as a payment made using the Lightning Network. Try again!"
+    ],
+    "question": "What is a micropayment",
+    "text": "Micropayments refer to very small financial transactions, often for amounts less than a dollar. These types of payments can be difficult to make using traditional financial systems, as they often have minimum amounts that can be transferred and fixed fees that can make small payments impractical.\n\nThe Lightning Network allows for the possibility of making micropayments using Bitcoin. It enables users to send very small amounts of Bitcoin, down to 1 sat, without the risk of losing control of their funds to a third party (called \"custodial risk\").&#x20;\n\nIn contrast, the Bitcoin blockchain currently has minimum transaction amounts and fees that make micropayments impractical. The Lightning Network allows for minimal payments denominated in Bitcoin, using actual Bitcoin transactions. This opens up the possibility of creating new markets and making small payments more practical.\n",
+    "title": "What is a micropayment"
+  }
+}

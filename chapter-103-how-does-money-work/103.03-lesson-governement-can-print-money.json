@@ -1,0 +1,18 @@
+{
+  "GovernementCanPrintMoney": {
+    "screen": "GovernementCanPrintMoney",
+    "answers": [
+      "The printing of additional money leads to inflation.",
+      "People must exchange old dollar bills at the bank every year.",
+      "The appearance of the dollar bill changes."
+    ],
+    "feedback": [
+      "Correct. This means that goods and services will cost more in the future.",
+      "Nope. Older dollar bills are just as valid as newer ones.",
+      "Incorrect. Although the government may issue new looks for bills, this has nothing to do with increasing the money supply."
+    ],
+    "question": "What does it mean when the government prints money?",
+    "text": "Well, everybody should care!\n\n\nThe practice of government printing money -- or increasing the supply of dollars -- leads to inflation.\n\n\nInflation is an increase in the price of goods and services. In other words, the price for something in the future will be more expensive than today.\n\n\nSo what does inflation mean for citizens?\n\n\nIn the United Kingdom, the Pound Sterling has lost 99.5% of its value since being introduced over 300 years ago.\n\n\nIn the United States, the dollar has lost 97% of its value since the end of WWI, about 100 years ago.\n\n\nThis means a steak that cost $0.30 in 1920... was $3 in 1990… and about $15 today, in the year 2020!\n",
+    "title": "What does it mean when the government prints money?"
+  }
+}

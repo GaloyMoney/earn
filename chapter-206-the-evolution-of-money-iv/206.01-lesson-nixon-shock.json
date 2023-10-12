@@ -1,0 +1,18 @@
+{
+  "nixonShock": {
+    "screen": "nixonShock",
+    "answers": [
+      "It ended and was replaced by a new monetary system based on floating exchange rates",
+      "It became a popular TV game show",
+      "It was turned into a giant roller coaster ride"
+    ],
+    "feedback": [
+      "Correct! In 1971, President Nixon directed the US Treasury Secretary to stop allowing foreign governments to exchange their dollars for gold",
+      "Not quite, but a game show version of the Bretton Woods system sounds like it could be entertaining",
+      "I see what you did there, but this isn't the correct answer here. Try again!"
+    ],
+    "question": "What happened to the Bretton Woods system in 1971",
+    "text": "The Bretton Woods system was a monetary system established after World War II in order to address global economic instability and high levels of debt.\n\nUnder this system, many countries pegged their own currencies to the value of the US dollar, which was itself pegged to the value of gold at a fixed exchange rate. This meant that the value of other countries' currencies was indirectly tied to the value of gold through the US dollar.\n\nIn 1971, United States President Richard Nixon directed the US Treasury to stop allowing foreign governments to exchange their dollars for gold, a process known as \"convertibility.\"\n\nThe sudden end of convertibility of dollars for gold shocked the world and became known as the Nixon Shock, effectively ending the Bretton Woods system fixed exchange rates. It marked the beginning of a new monetary system based on floating exchange rates.\n",
+    "title": "What happened to the Bretton Woods system in 1971"
+  }
+}

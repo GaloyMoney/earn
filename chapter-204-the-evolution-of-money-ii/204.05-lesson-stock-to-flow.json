@@ -1,0 +1,18 @@
+{
+  "stockToFlow": {
+    "screen": "stockToFlow",
+    "answers": [
+      "A measure of the rate at which new units of a monetary good are introduced into the existing supply.",
+      "A measure of a company's financial stability.",
+      "A ratio used to compare the value of different currencies."
+    ],
+    "feedback": [
+      "That's right! The Stock to Flow ratio can be a useful tool for understanding the stability and scarcity of a particular currency or commodity. Good job",
+      "Sorry, looks like you're mixing up your business jargon. Better luck with your next answer",
+      "Wrong! But hey, at least you're thinking about the global economy. Better luck with your next guess."
+    ],
+    "question": "What is the Stock to Flow ratio",
+    "text": "The Stock to Flow ratio is a measure of the rate at which new units of money are added to the existing supply.\n\nTo calculate it, you divide the existing amount of money by the amount produced each year.\n\nFor something to be a good way to save value, it should become more valuable when people want to use it to save, but the people who make it should not be able to add too much of it, which would make it less valuable.\n",
+    "title": "What is the Stock to Flow ratio"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "plasticCredit": {
+    "screen": "plasticCredit",
+    "answers": [
+      "A type of payment card that allows people to borrow money to pay for things",
+      "A card that grants the holder special powers, like the ability to fly",
+      "A card that allows people to pay for things by waving their hand over a sensor"
+    ],
+    "feedback": [
+      "Correct. A credit card is a type of payment card that allows people to borrow money from the credit card company to pay for things now, rather than saving up money to pay for things later. There are about three billion credit cards in use around the world today",
+      "Not quite, but a credit card that grants special powers like the ability to fly sounds like it could be a lot of fun",
+      "Nope, but a credit card that allows people to pay for things by waving their hand over a sensor sounds like something out of a science fiction movie, not real life."
+    ],
+    "question": "What is a credit card",
+    "text": "The credit card is a type of payment card that allows people to borrow money to pay for things. When people use credit cards, they are borrowing money from the credit card company to pay for things now, rather than saving up money to pay for things later.\n\nThis has gradually normalized the act of borrowing for consumption, something that impacts the time preference of users. Instead of waiting to save up the money, the invention of credit cards has made it more common for people to borrow money to buy things they want right away\n\nToday, there are about three billion credit cards in use around the world.\n",
+    "title": "What is a credit card"
+  }
+}

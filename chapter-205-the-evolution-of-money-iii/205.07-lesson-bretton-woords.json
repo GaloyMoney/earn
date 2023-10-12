@@ -1,0 +1,18 @@
+{
+  "brettonWoods": {
+    "screen": "brettonWoods",
+    "answers": [
+      "To link the value of other countries' currencies to the value of gold through the US dollar",
+      "To create a new global currency made out of chocolate coins",
+      "To establish a network of trampoline parks in every major city"
+    ],
+    "feedback": [
+      "That's right. The Bretton Woods system was established after World War II in order to address global economic instability and high levels of debt. It linked the value of other countries' currencies to the value of the US dollar, which was itself pegged to the value of gold at a fixed exchange rate",
+      "Sweet idea, but not very practical. Or would you prefer your money to melt away even faster? Try again",
+      "Trampoline parks would have surely made for a great distraction of the public from the strange machinations of the Bretton Woods system. Have you considered applying as an advisor at the IMF or World Bank? Try again!"
+    ],
+    "question": "What was the main purpose of the Bretton Woods system",
+    "text": "After World War I and II, many countries were financially exhausted and did not have a lot of money. The United States had a lot of gold because they sold a lot of weapons and other military equipment to other countries during the wars. As a result, the United States controlled about two-thirds of the world's gold.\n\nIn order to fix the global economy, a new system was created where countries would link their own currencies to the value of the US dollar.\n\nThe US dollar, in turn, would be linked to the value of gold. This meant that the value of other countries' currencies would be based on the value of the US dollar, which was based on the amount of gold the United States had.\n",
+    "title": "What was the main purpose of the Bretton Woods system"
+  }
+}

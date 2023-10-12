@@ -1,0 +1,18 @@
+{
+  "schellingPoint": {
+    "screen": "schellingPoint",
+    "answers": [
+      "A solution that people tend to choose by default in the absence of communication",
+      "A type of point system used in online multiplayer games",
+      "A point on the earth's surface where all the planet's magnetic forces are balanced"
+    ],
+    "feedback": [
+      "You got it right. Did you know that a Schelling point can occur in multiplayer cooperative games and communication networks, and can be facilitated by standardized protocols like money",
+      "Wrong! But at least you're thinking about points. Maybe try again and focus on communication this time",
+      "Ha! You're off by a whole planet. Maybe try again and focus on the concept of default choices in the absence of communication."
+    ],
+    "question": "What is a Schelling point",
+    "text": "A Schelling point is a solution that people tend to choose by default, without communicating with each other.\n\nThis can happen in multiplayer cooperative games, where you have to anticipate the choices of others. If you make the wrong choice, you might face consequences or miss out on benefits.\n\nCommunication works the same way - it's like a multiplayer cooperative game played with others in the same network. We use standardized protocols (like email, spoken language, or money) to communicate efficiently with as many people as possible, with as little friction as possible. This can lead to increased trade, knowledge exchange, and innovation.\n\nIn the digital world, people tend to choose the same option (the Schelling point) when exchanging value. This is because they expect that others will also choose it.\n\nThe option that becomes the Schelling point is the one that communicates price signals most accurately, allowing market participants to coordinate with each other.\n\nBitcoin is a protocol for exchanging value that has several advantages over traditional currencies (called \"fiat\"). For example, it has a fixed supply and its value has generally increased over time, while fiat currencies often lose value. Additionally, the bitcoin network is permissionless, global, and indestructible. All of these factors make bitcoin a natural Schelling point for money.\n",
+    "title": "What is a Schelling point"
+  }
+}

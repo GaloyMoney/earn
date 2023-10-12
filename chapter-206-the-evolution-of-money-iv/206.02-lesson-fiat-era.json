@@ -1,0 +1,18 @@
+{
+  "fiatEra": {
+    "screen": "fiatEra",
+    "answers": [
+      "A currency issued by a government decree",
+      "A type of currency that is only accepted by merchants who love pizza",
+      "A currency made out of precious gems and metals"
+    ],
+    "feedback": [
+      "Good job. Fiat money, such as Federal Reserve notes, is a type of currency issued by a government that is not directly exchangeable for a fixed amount of something else, like gold or silver. Its value comes from the fact that the government says it is valuable and people trust that they will be able to use it to buy things",
+      "Not quite, but a currency that is only accepted by pizza-loving merchants sounds like it could be a delicious way to pay for things",
+      "Nope, but a currency made out of precious gems and metals would definitely be shiny and eye-catching."
+    ],
+    "question": "What does the word \"fiat\" mean when it is used to talk about money",
+    "text": "\"Fiat\" is a word that comes from Latin and means \"let it be done.\" When it is used to talk about money, it means that a government is creating a currency by decree alone.\n\nSince the Nixon Shock, fiat money is not backed by gold or silver and neither can it be directly converted for a fixed amount of gold, as it used to be before.\n\nThis means that their value comes from the fact that the government says they are valuable and that people trust that they will be able to use them to buy things.\n\nIn addition, governments often make it a law (legal tender) that merchants have to accept this type of fiat currency and that it is the only type of currency that can be used to pay taxes.\n",
+    "title": "What does the word \"fiat\" mean when it is used to talk about money"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "digitalFiat": {
+    "screen": "digitalFiat",
+    "answers": [
+      "A government issued money that exists only in digital form, like on a computer or phone",
+      "A type of currency that can only be used to buy things in the internet",
+      "A currency that can only be sent by email"
+    ],
+    "feedback": [
+      "Good job. Digital fiat is a type of money that exists only in digital form, like on a computer or phone. It is a digital representation of physical cash, such as paper money or coins, and is becoming increasingly popular due to its lower costs, faster speeds, and increased capabilities for surveillance",
+      "Not quite. While digital fiat is digital like the internet, it is also widely accepted at brick and mortar merchants. Try again",
+      "Nope, you guessed wrong. The use of such a currency would be extremely limited and doesn't exist to our knowledge. Try again!"
+    ],
+    "question": "What is digital fiat",
+    "text": "Digital fiat is a type of money that exists only in digital form, like on a computer or phone. It is a digital representation of physical cash, such as paper money or coins.\n\nDigital fiat became possible with the proliferation of digital communication networks, like the internet, and the growth of consumer devices like computers and phones that can connect to these networks. Standardized payment protocols, which are established ways of making payments online, also played a role in the emergence of digital fiat.\n\nDigital fiat is increasingly replacing physical fiat due to its lower costs, faster speeds, and increased capabilities for surveillance. In other words, it is cheaper and faster to use digital fiat and it is easier to track transactions made with digital fiat.\n",
+    "title": "What is digital fiat"
+  }
+}

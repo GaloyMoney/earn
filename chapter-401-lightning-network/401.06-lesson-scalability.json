@@ -1,0 +1,18 @@
+{
+  "scalability": {
+    "screen": "scalability",
+    "answers": [
+      "To meet the demand for retail and automated payments",
+      "To make Bitcoin more attractive to investors",
+      "To get the required licences for interoperability with financial institutions"
+    ],
+    "feedback": [
+      "That's right. The Lightning Network helps the Bitcoin network achieve scalability by allowing users to conduct nearly unlimited transactions off-chain on a second layer",
+      "That's not it! While improving the attractiveness of Bitcoin to investors could be a benefit of improving scalability, it is not the main reason why scalability is important for the Bitcoin network",
+      "Try again! **** Obtaining required licenses for interoperability with financial institutions may be a goal for some organizations working with Bitcoin, but it is not directly related to the concept of scalability."
+    ],
+    "question": "Why is scalability important for the Bitcoin network",
+    "text": "Scalability refers to the ability of a system, such as a network or platform, to handle a large amount of usage or traffic without experiencing issues or slowdowns.\n\nScalability is important for Bitcoin because the network will need to be able to support a much higher volume of transactions in order to meet the demand of retail and automated payments.\n\nThe Lightning Network allows users to conduct nearly unlimited transactions between each other outside of the Bitcoin blockchain, or off-chain.\n\nThis means that transactions can be conducted without the need for each one to be recorded on the blockchain, which helps to reduce the load on the network and allows it to handle more transactions.\n",
+    "title": "Why is scalability important for the Bitcoin network"
+  }
+}
