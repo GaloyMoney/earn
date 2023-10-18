@@ -2,7 +2,7 @@ section: 401
 lesson: 06
 screen: scalability
 title: Scalability
-reward: 15
+reward: 3
 illustration: 
 text: |
   Scalability refers to the ability of a system, such as a network or platform, to handle a large amount of usage or traffic without experiencing issues or slowdowns.

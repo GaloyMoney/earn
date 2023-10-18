@@ -2,7 +2,7 @@ section: 401
 lesson: 08
 screen: routing
 title: Routing
-reward: 15
+reward: 5
 illustration: 
 text: |
   You may be thinking that setting up a payment channel with hundreds of businesses could be tedious, but no. The beauty of the Lightning Network is that it is a network of channels stitched together.

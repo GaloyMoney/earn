@@ -2,7 +2,7 @@ section: 401
 lesson: 07
 screen: paymentChannels
 title: How does Lighning work?
-reward: 15
+reward: 4
 illustration: 
 text: |
   The Lightning Network consists of thousands of two party payment channels.

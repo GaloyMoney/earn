@@ -2,7 +2,7 @@ section: 302
 lesson: 05
 screen: mining
 title: Mining
-reward: 14
+reward: 3
 illustration: 
 text: |
   When a user wants to send a transaction in the bitcoin network, they need to sign the transaction with their private key to prove that they are the owner of the funds being transferred. Once the transaction is signed, it is broadcasted to the peer-to-peer network.
