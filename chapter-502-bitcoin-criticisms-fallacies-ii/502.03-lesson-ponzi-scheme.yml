@@ -2,7 +2,7 @@ section: 502
 lesson: 03
 screen: ponziScheme
 title: Bitcoin is a Ponzi Scheme
-reward: 17
+reward: 2
 illustration: 
 text: |
   Calling bitcoin a ponzi scheme shows a lack of understanding of both bitcoin and the definition of a ponzi scheme. A ponzi scheme involves promises of above-market returns to investors, but as a permissionless network, bitcoin does not have a central authority that can make such promises.

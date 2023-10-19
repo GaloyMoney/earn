@@ -2,7 +2,7 @@ section: 206
 lesson: 05
 screen: doubleSpendProblem
 title: The Double Spending Problem
-reward: 12
+reward: 3
 illustration: 
 text: |
   In the digital world, it is easy to copy things, so it is important to make sure that the same digital unit of money cannot be spent more than once by its owner.

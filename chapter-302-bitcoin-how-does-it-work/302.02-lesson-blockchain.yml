@@ -2,7 +2,7 @@ section: 302
 lesson: 02
 screen: blockchain
 title: What is a blockchain exactly?
-reward: 14
+reward: 2
 illustration: 
 text: |
   The Bitcoin blockchain is a distributed database that maintains a continuously growing list of Bitcoin transactions called blocks.

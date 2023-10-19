@@ -2,7 +2,7 @@ section: 302
 lesson: 03
 screen: privateKey
 title: Public Key Cryptography
-reward: 14
+reward: 2
 illustration: 
 text: |
   Another cornerstone of Bitcoin is Public Key Cryptography that uses a pair of keys - a public key and a private key - to sign transactions and verify the ownership of Bitcoin addresses.

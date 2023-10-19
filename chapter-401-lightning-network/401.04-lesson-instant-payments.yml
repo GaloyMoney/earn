@@ -2,7 +2,7 @@ section: 401
 lesson: 04
 screen: instantPayments
 title: Instant Payments
-reward: 15
+reward: 3
 illustration: 
 text: |
   In the Bitcoin network, transactions are grouped together in blocks, and new blocks are added to the blockchain about every 10 minutes. When a payment is made using Bitcoin, it is considered secure after it has been confirmed by six blocks, or about an hour.

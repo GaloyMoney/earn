@@ -2,7 +2,7 @@ section: 302
 lesson: 01
 screen: peer2Peer
 title: Peer-to-Peer Network
-reward: 14
+reward: 2
 illustration: 
 text: |
   To solve the earlier mentioned issues of centralization and possible double spends, Satoshi invented a solution based on a decentralized network of nodes.

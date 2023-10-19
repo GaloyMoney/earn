@@ -2,7 +2,7 @@ section: 302
 lesson: 07
 screen: difficultyAdjustment
 title: Difficulty Adjustment
-reward: 14
+reward: 4
 illustration: 
 text: |
   A crucial element of the Bitcoin protocol is the Difficulty Adjustment. This algorithm ensures that new blocks are found every 10 minutes on average.

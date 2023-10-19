@@ -2,7 +2,7 @@ section: 206
 lesson: 06
 screen: satoshisBreakthrough
 title: Satoshi's Breakthrough
-reward: 12
+reward: 3
 illustration: 
 text: |
   Satoshi's solution to the double spending problem was a breakthrough in computer science and distributed systems. Until Bitcoin, many believed that it would be unsolvable.

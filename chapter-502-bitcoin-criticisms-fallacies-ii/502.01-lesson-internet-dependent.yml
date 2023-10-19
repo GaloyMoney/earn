@@ -2,7 +2,7 @@ section: 502
 lesson: 01
 screen: internetDependent
 title: Bitcoin is too dependent on the Internet
-reward: 17
+reward: 2
 illustration: 
 text: |
   There is a risk, of course, that internet access may be lost due to infrastructure failures, natural disasters, or intentional outages. However, it is possible to transact bitcoin using offline methods and other communication networks.

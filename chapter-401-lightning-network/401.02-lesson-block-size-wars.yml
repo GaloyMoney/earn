@@ -2,7 +2,7 @@ section: 401
 lesson: 02
 screen: blocksizeWars
 title: The Blocksize Wars
-reward: 15
+reward: 2
 illustration: 
 text: |
   These drawbacks lead to a debate within the Bitcoin community about the best way to scale the Bitcoin network, often dubbed the Blocksize Wars.

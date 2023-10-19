@@ -2,7 +2,7 @@ section: 302
 lesson: 08
 screen: halving
 title: The Halving
-reward: 14
+reward: 5
 illustration: 
 text: |
   One final element that is important to understand, is that the block reward in the bitcoin network is reduced by half every four years, or every 210,000 blocks.
