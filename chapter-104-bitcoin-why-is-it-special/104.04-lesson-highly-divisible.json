@@ -13,6 +13,6 @@
     ],
     "question": "What is the smallest amount of Bitcoin one can own, or use?",
     "text": "Old-fashioned fiat money can only be spent in amounts as small as one penny — or two decimal places for one US Dollar ($0.01).\n\nOn the other hand, Bitcoin can be divided 100,000,000 times over. This means that you could spend as little as ₿0.00000001. You will note the \"\"₿\"\" symbol, which is the Bitcoin equivalent of \"\"$\"\". Sometimes you will also see the use of BTC, instead of ₿.\n\nBy way of contrast, Bitcoin can handle very small payments — even those less than one US penny!\n",
-    "title": "What is the smallest amount of Bitcoin one can own, or use?"
+    "title": "Special Characteristic"
   }
 }

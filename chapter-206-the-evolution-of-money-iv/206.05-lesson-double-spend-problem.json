@@ -13,6 +13,6 @@
     ],
     "question": "What was a key factor in the creation of Bitcoin",
     "text": "In the digital world, it is easy to copy things, so it is important to make sure that the same digital unit of money cannot be spent more than once by its owner.\n\nIn a monetary system with a central authority (like a government), this problem is trivially solved by keeping a ledger of transactions managed by the central authority. However, this normally represents a single point of failure from both availability and trust viewpoints.\n\nIn a decentralized system, the double-spending problem is significantly harder to solve. Many people have tried to create digital money that is not controlled by a government, but they have all had their own unique challenges.\n\nSatoshi Nakamoto took all of these lessons into account and was the first to solve the double spending problem with the implementation of Bitcoin by creating a decentralized system that rewards honesty and makes it very costly to be dishonest.\n",
-    "title": "What was a key factor in the creation of Bitcoin"
+    "title": "The Double Spending Problem"
   }
 }

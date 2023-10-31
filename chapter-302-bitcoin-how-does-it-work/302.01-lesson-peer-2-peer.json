@@ -13,6 +13,6 @@
     ],
     "question": "Which technology did Satoshi implement to solve issues of centralization and double spends",
     "text": "To solve the earlier mentioned issues of centralization and possible double spends, Satoshi invented a solution based on a decentralized network of nodes.\n\nNodes are computers that are in constant contact with each other. This by itself is nothing new. The internet itself has a similar infrastructure of interconnected nodes.\n\nAll bitcoin nodes, however, store a copy of the ledger of all transactions in the history of the Bitcoin network.\n\nThis new, decentralized form of bookkeeping, called blockchain, was first successfully implemented in Bitcoin and is extremely resistant to tampering.\n",
-    "title": "Which technology did Satoshi implement to solve issues of centralization and double spends"
+    "title": "Peer-to-Peer Network"
   }
 }

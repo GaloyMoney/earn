@@ -13,6 +13,6 @@
     ],
     "question": "How long does it take for a payment to be considered secure on the Lightning Network",
     "text": "In the Bitcoin network, transactions are grouped together in blocks, and new blocks are added to the blockchain about every 10 minutes. When a payment is made using Bitcoin, it is considered secure after it has been confirmed by six blocks, or about an hour.\n\nOn the Lightning Network, payments do not have to wait for block confirmations to be considered secure. Instead, they are instant and completed all at once in a matter of few seconds.\n\nThis makes it possible to use the Lightning Network for retail transactions, peer-to-peer payments, or any other situation where you need to make a payment immediately.\n",
-    "title": "How long does it take for a payment to be considered secure on the Lightning Network"
+    "title": "Instant Payments"
   }
 }

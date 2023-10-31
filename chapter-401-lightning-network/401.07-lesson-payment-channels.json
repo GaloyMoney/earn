@@ -13,6 +13,6 @@
     ],
     "question": "How do payment channels in the Lightning Network allow users to pay each other",
     "text": "The Lightning Network consists of thousands of two party payment channels.\n\nYou may think of a Lightning channel like opening a tab at your local bar. Instead of pulling out your wallet and paying each time you order a drink, it makes sense to save time, energy and fees by tallying all your drinks together at the end of the night and making the final settlement in one payment.\n\nLightning works similar. Each time a payment is made from person A to person B, bitcoin are pushed from one side of the channel to the other. Two users can pay one another back and forth as many times as they like, almost instantly and with close to no fees.\n",
-    "title": "How do payment channels in the Lightning Network allow users to pay each other"
+    "title": "How does Lighning work?"
   }
 }
