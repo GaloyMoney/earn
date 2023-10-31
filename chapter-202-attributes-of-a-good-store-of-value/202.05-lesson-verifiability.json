@@ -13,6 +13,6 @@
     ],
     "question": "How can bitcoin be verified",
     "text": "It is important for a good store of value to be easily verifiable as authentic. This increases confidence in trade and the likelihood that a transaction will be completed.\n\nBoth fiat currencies and gold are generally easy to verify, but they are not foolproof. Counterfeit bills and gold-plated tungsten have been used to deceive people in the past.\n\nOn the other hand, the use of cryptography makes verification very easy for bitcoin and makes counterfeiting impossible.\n",
-    "title": "How can bitcoin be verified"
+    "title": "The good must be easy to quickly identify and verify as authentic"
   }
 }

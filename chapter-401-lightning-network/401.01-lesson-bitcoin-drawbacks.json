@@ -13,6 +13,6 @@
     ],
     "question": "What is a drawback of Bitcoin's design",
     "text": "Bitcoin, the world's most widely used and valuable digital currency, allows anyone to send value without a trusted intermediary.\n\nThere are, however, some drawbacks to bitcoin's design which prioritizes security and decentralization at the cost of scalability.\n\nTransactions confirmed on the bitcoin blockchain take up to one hour before they are irreversible.\n\nMicropayments, or payments less than a few cents, are inconsistently confirmed, and fees render such transactions unviable on the network today.\n\nCurrently, Bitcoin's blockchain can process around 3 transactions per second. This is generally seen as an impediment for Bitcoin to become a currency that facilitates the everyday retail transactions of millions around the world.\n",
-    "title": "What is a drawback of Bitcoin's design"
+    "title": "Drawbacks of Bitcoin"
   }
 }

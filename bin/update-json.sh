@@ -9,7 +9,7 @@ find . -type f -path '*chapter*' -name '*.yml' | while read path; do
   new_path="$dir/$file.json"
 
   echo "Templating $path to $new_path"
-  echo "$(cat $path | yq -o json | jq '{ (.screen): {screen: .screen, answers: [.answers[].answer], feedback: [.answers[].feedback], question: .question, text: .text, title: .question} }')" > $new_path
+  echo "$(cat $path | yq -o json | jq '{ (.screen): {screen: .screen, answers: [.answers[].answer], feedback: [.answers[].feedback], question: .question, text: .text, title: .title} }')" > $new_path
 
 done
 
