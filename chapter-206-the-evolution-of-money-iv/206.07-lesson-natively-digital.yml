@@ -11,11 +11,11 @@ text: |
   
 image: ../.gitbook/assets/206-07.png
 
-question: What is the main difference between digital fiat money and Bitcoin
+question: What is the main difference between digital fiat money and Bitcoin?
 answers:
 - answer: Digital fiat money is based on a product from the industrial age, while Bitcoin is a purpose-built money for the digital age
   correct: true
-  feedback: for the digital age
+  feedback: Bingo. Our lives are becoming increasingly digital and Bitcoin is architected to meet these new needs while allowing us to preserve agency over our properties.
 - answer: Digital fiat money is open-source, while Bitcoin is a closed system
   correct: false
   feedback: It seems you got things mixed up. It's actually the other way around. Try again
