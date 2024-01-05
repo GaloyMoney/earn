@@ -11,11 +11,11 @@ text: |
   
 image: ../.gitbook/assets/205-04.png
 
-question: What is a potential outcome of banks issuing more paper notes than they held deposits
+question: What is a potential outcome of banks issuing more paper notes than they held deposits?
 answers:
 - answer: A sudden drain of deposits en masse, leading to systemic fears and drying up of liquidity
   correct: true
-  feedback: masse, leading to systemic fears and drying up of liquidity
+  feedback: Bingo. This is called a bank run and has happened many times in history when depositors lost trust in a bank's solvency. Om that note: Blink is full reserve and therefore not susceptible to bank runs. 
 - answer: A nice vacation for everyone
   correct: false
   feedback: Sorry, taking a vacation isn't quite the outcome we're looking for here. Better luck next time
