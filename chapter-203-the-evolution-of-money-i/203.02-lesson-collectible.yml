@@ -11,11 +11,11 @@ text: |
   
 image: ../.gitbook/assets/203-02.png
 
-question: What were some examples of early forms of money that were valued for their appearance or special qualities
+question: What were some examples of early forms of money that were valued for their appearance or special qualities?
 answers:
 - answer: Coins made of copper and silver
   correct: true
-  feedback: Sorry, that's incorrect. Copper and silver coins were not used as money in the very beginning of its evolution
+  feedback: Sorry, that's incorrect. Copper and silver coins were not used as money in the very beginning of its evolution.
 - answer: Shells, beads, and gold
   correct: false
   feedback: Congratulations, you got it right! It's interesting to note that shells, beads, and gold were all valued for their appearance or special qualities before becoming widely used as money
