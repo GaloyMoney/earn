@@ -15,7 +15,7 @@ text: |
   
 image: ../.gitbook/assets/202-09.png
 
-question: Which of the following is NOT a reason that Bitcoin is considered a censorship-resistant good
+question: Which of the following is a reason that Bitcoin is considered a censorship-resistant good?
 answers:
 - answer: Its decentralized, peer-to-peer network
   correct: true
