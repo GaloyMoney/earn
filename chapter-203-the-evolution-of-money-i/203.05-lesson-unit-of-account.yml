@@ -15,7 +15,7 @@ text: |
   
 image: ../.gitbook/assets/203-05.png
 
-question: How can bitcoin be considered a unit of account
+question: How can bitcoin be considered a unit of account?
 answers:
 - answer: When merchants are willing to accept it as payment without considering the exchange rate with other currencies
   correct: true
