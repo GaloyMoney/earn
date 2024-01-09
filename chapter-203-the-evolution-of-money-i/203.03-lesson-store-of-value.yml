@@ -13,14 +13,14 @@ text: |
   
 image: ../.gitbook/assets/203-03.png
 
-question: What determines the purchasing power of a store of value
+question: What determines the purchasing power of a store of value?
 answers:
 - answer: The number of people who want it as a store of value
   correct: true
   feedback: Nice work! The purchasing power of a store of value is determined by the number of people who want to use it as a way to store value. As more people want to use it for this purpose, the value of the store of value increases
 - answer: The weather
   correct: false
-  feedback: Sorry, the weather is definitely a factor in many things, but it's not quite the right answer for this question. Maybe try looking at other factors that could affect the value of a store of value
+  feedback: Sorry, the weather is definitely a factor in many things, but it's not quite the right answer for this question, even if some Central Bankers blame the climate for inflation. Maybe try looking at other factors that could affect the value of a store of value.
 - answer: The color of the store of value
   correct: false
   feedback: I'm sorry to say that the color of a store of value probably doesn't have much of an effect on its purchasing power. It's definitely an interesting idea though! Maybe try considering other characteristics that could affect the value of a store of value.
