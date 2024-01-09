@@ -18,9 +18,9 @@ answers:
 - answer: No, the emission of new bitcoins is independent of the number or power of miners.
   correct: true
   feedback: That's right! No matter how many miners there are, new bitcoins are issued every 10 minutes. The difficulty adjustment makes sure the issuance interval stays the same.
-- answer: Only when the FED Commission thinks that more bitcoin are needed in the economy.
+- answer: Only when the FED Commission thinks that more bitcoins are needed in the economy.
   correct: false
-  feedback: Sorry, but the FED has no say over the emission of new bitcoins, and that's a good thing! Try again
+  feedback: Sorry, but the FED has no say over the emission of new bitcoins, and that's a good thing! Try again.
 - answer: Yes, when demand for bitcoin increases, miners increase the supply of bitcoins to keep prices stable.
   correct: false
   feedback: Very creative, but wrong. The bitcoin supply is not elastic and issuance follows a predetermined schedule, independent of demand or the number of miners. Try again.
