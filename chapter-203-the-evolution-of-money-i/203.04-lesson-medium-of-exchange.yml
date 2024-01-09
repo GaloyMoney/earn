@@ -15,7 +15,7 @@ text: |
   
 image: ../.gitbook/assets/203-04.png
 
-question: What is Bitcoin Pizza Day celebrated for
+question: What is Bitcoin Pizza Day celebrated for?
 answers:
 - answer: The first time bitcoin had market value
   correct: true
@@ -23,6 +23,6 @@ answers:
 - answer: The invention of pineapple as a pizza topping
   correct: false
   feedback: While pineapple is a beautiful fruit, it has no place on a real pizza! Apart from this side note, your answer is wrong. Try again
-- answer: again
+- answer: Laszlo's recipe for the world's most delicious pizza
   correct: false
-  feedback: Sorry, the best pizza recipe is a matter of personal preference. While pizza is always delicious, it's not the focus of Bitcoin Pizza Day. Maybe try considering the significance of the event in the history of bitcoin.
+  feedback: Sorry, the best pizza recipe is a matter of personal preference. While pizza is often delicious, it's not the focus of Bitcoin Pizza Day. Maybe try considering the significance of the event in the history of bitcoin.
