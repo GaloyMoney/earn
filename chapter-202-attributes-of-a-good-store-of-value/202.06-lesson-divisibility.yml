@@ -19,14 +19,14 @@ text: |
   
 image: ../.gitbook/assets/202-06.png
 
-question: Which of the following is NOT a good store of value due to its difficulty in being easily divided for day-to-day trade
+question: Which of the following is difficult to divide for day-to-day trade?
 answers:
 - answer: Gold
   correct: true
-  feedback: You are correct. Gold is difficult divide into small quantities for everyday trade. Did you know that gold has been used as a store of value for thousands of years due to its rarity and durability
+  feedback: You are correct. Gold is difficult divide into small quantities for everyday trade. Did you know that gold has been used as a store of value for thousands of years due to its rarity and durability?
 - answer: Bitcoin
   correct: false
-  feedback: Sorry, but that's not quite right. Bitcoin is highly divisible into its base unit 'satoshi', and it can even be divided into milli-satoshis (1/1000 of a satoshi) on the Lightning Network
+  feedback: Sorry, but that's not quite right. Bitcoin is highly divisible into its base unit 'satoshi', and it can even be divided into milli-satoshis (1/1000 of a satoshi) on the Lightning Network.
 - answer: Fiat currency
   correct: false
-  feedback: Nope**.** While fiat currencies are not as divisible as bitcoin, they are easily divisible into smaller denominations.
+  feedback: Nope. While fiat currencies are not as divisible as bitcoin, they are easily divisible into smaller denominations.
